@@ -51,8 +51,13 @@ Never put passwords, keys or personal-life topics in a note.
 | Hermes | its persona or memory file under `~/.hermes/` (check its docs for the exact name) |
 | Others | whatever "custom instructions" or system-prompt file the agent offers |
 
+**Claude Desktop (chat, not the Code tab):** chat cannot write files by itself. In Claude Desktop go to Settings → Extensions, install **Filesystem**, and allow only the `work-brain` folder. Then paste the snippet above into Settings → Profile → custom instructions. The Code tab uses `~/.claude/CLAUDE.md` like Claude Code.
+
 ## 5. Phone
 Open a Claude Code session in the Claude app with `work-brain` attached and say "add this to the inbox: ...". Claude writes the note following `AGENTS.md` and pushes it.
 
-## 6. Check it works
+## 6. Daily filing
+A Claude cloud routine runs every night at 22:39 Dubai time. It files new inbox notes into each brain's wiki, moves them to `raw/60_Daily-Notes/YYYY-MM/`, and pushes to `main`.
+
+## 7. Check it works
 Ask an agent to write a test note, run the sync script once by hand, and confirm the note shows up on GitHub under `crm-brain/raw/Inbox - To sort/`.
