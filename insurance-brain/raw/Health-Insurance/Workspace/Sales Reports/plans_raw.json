@@ -1,0 +1,3768 @@
+{
+  "total": 418,
+  "plans": [
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Exclusive N2",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on pharmacy",
+      "price": "7416",
+      "totalWithVat": "7,825.65"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan G",
+      "planType": "Entry Level",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "1163",
+      "totalWithVat": "1,260"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "BLUE01",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1186",
+      "totalWithVat": "1,284.15"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "E Care Blue 1",
+      "planType": "Entry Level",
+      "network": "E CARE BLUE",
+      "copay": "20% max AED 25 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1209",
+      "totalWithVat": "1,308.30"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "BLUE02",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1276",
+      "totalWithVat": "1,378.65"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "E Care Blue 2",
+      "planType": "Entry Level",
+      "network": "E CARE BLUE",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1300",
+      "totalWithVat": "1,403.85"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "BLUE03",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1328",
+      "totalWithVat": "1,433.25"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "E Care Blue 3",
+      "planType": "Entry Level",
+      "network": "E CARE BLUE",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1353",
+      "totalWithVat": "1,459.50"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan F",
+      "planType": "Entry Level",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "1364",
+      "totalWithVat": "1,471.05"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan E",
+      "planType": "Entry Level",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "1433",
+      "totalWithVat": "1,543.50"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N5B",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1450",
+      "totalWithVat": "1,561.35"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "BLUE04",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "1484",
+      "totalWithVat": "1,597.05"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Blue 01",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1492",
+      "totalWithVat": "1,605.45"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Blue 02",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1492",
+      "totalWithVat": "1,605.45"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "E Care Blue 4",
+      "planType": "Entry Level",
+      "network": "E CARE BLUE",
+      "copay": "20% max AED 25 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "1512",
+      "totalWithVat": "1,626.45"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN3 B",
+      "planType": "Entry Level",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1520",
+      "totalWithVat": "1,634.85"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver",
+      "planType": "Entry Level",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1531",
+      "totalWithVat": "1,646.40"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N5A",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1557",
+      "totalWithVat": "1,673.70"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "RN3 Plan",
+      "planType": "Entry Level",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1558.57",
+      "totalWithVat": "1,675.35"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "PLAN5",
+      "planType": "Good",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1561.38",
+      "totalWithVat": "1,678.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N5",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1565",
+      "totalWithVat": "1,682.10"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "RN3",
+      "planType": "Entry Level",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1617.14",
+      "totalWithVat": "1,736.85"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN3 A",
+      "planType": "Entry Level",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1633",
+      "totalWithVat": "1,753.50"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Blue 03",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1641",
+      "totalWithVat": "1,761.90"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN3",
+      "planType": "Entry Level",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1641",
+      "totalWithVat": "1,761.90"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "GREEN1",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1672",
+      "totalWithVat": "1,794.45"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "GREEN2",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1763",
+      "totalWithVat": "1,890"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "GREEN3",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "1852",
+      "totalWithVat": "1,983.45"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Plan 5",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2036.14",
+      "totalWithVat": "2,176.80"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "GREEN4",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "2057",
+      "totalWithVat": "2,198.70"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "CLASSIC1",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2066",
+      "totalWithVat": "2,208.15"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Essential",
+      "planType": "Entry Level",
+      "network": "AAFIYA",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2137",
+      "totalWithVat": "2,282.70"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "CLASSIC2",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "2187",
+      "totalWithVat": "2,335.20"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "N5A",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2193",
+      "totalWithVat": "2,341.50"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N5",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "2215",
+      "totalWithVat": "2,364.60"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Core",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 30% on medicines",
+      "price": "2228",
+      "totalWithVat": "2,378.25"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% up to AED 15/- for GP, 20% up to AED 25/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "2229",
+      "totalWithVat": "2,379.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N5B",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "2261",
+      "totalWithVat": "2,412.90"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "CLASSIC3",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "2281",
+      "totalWithVat": "2,433.90"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- WN-b",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2289",
+      "totalWithVat": "2,442.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Classic Care 01",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2314",
+      "totalWithVat": "2,468.55"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Classic Care 02",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2314",
+      "totalWithVat": "2,468.55"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- WN-a",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 10% on diagnostics, 20% on medicines",
+      "price": "2392",
+      "totalWithVat": "2,550.45"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N4",
+      "planType": "Entry Level",
+      "network": "DUBAI CARE (Remnto)",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2408",
+      "totalWithVat": "2,567.25"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver - Lite",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2431",
+      "totalWithVat": "2,591.40"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN7",
+      "planType": "Entry Level",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2433",
+      "totalWithVat": "2,593.50"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Marjan",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% up to AED 15/- for GP, 20% up to AED 25/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "2452",
+      "totalWithVat": "2,613.45"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2480",
+      "totalWithVat": "2,642.85"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "Workers OP",
+      "planType": "Entry Level",
+      "network": "RAK NAS",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "2505",
+      "totalWithVat": "2,669.10"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2521.22",
+      "totalWithVat": "2,686.13"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Classic Care 03",
+      "planType": "Entry Level",
+      "network": "ECARE",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "2545",
+      "totalWithVat": "2,711.10"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "CLASSIC4",
+      "planType": "Entry Level",
+      "network": "Qatar Insurance Company",
+      "copay": "20% max AED 25 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "2550",
+      "totalWithVat": "2,716.35"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 5",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "10% max AED 15 per consultation for GP; 20% max AED 25 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "2568",
+      "totalWithVat": "2,735.25"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 6",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "10% max AED 15 per consultation for GP; 20% max AED 25 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "2568",
+      "totalWithVat": "2,735.25"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- WN-c",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max of AED 15 for GP 20% max of AED 25 for Specialist, 10% on diagnostics, 0% on medicines",
+      "price": "2572",
+      "totalWithVat": "2,739.45"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silk Road A",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2608",
+      "totalWithVat": "2,777.25"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2634",
+      "totalWithVat": "2,804.55"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- WN",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 0% on diagnostics, 20% on medicines",
+      "price": "2649",
+      "totalWithVat": "2,820.30"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 0% co-pay on OP Pharmacy",
+      "price": "2671",
+      "totalWithVat": "2,843.40"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "FCP WN",
+      "planType": "Entry Level",
+      "network": "NAS",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "2685.56",
+      "totalWithVat": "2,858.69"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silk Road B",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2689",
+      "totalWithVat": "2,862.30"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silk Road 750",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "2727.41",
+      "totalWithVat": "2,902.63"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2729.6",
+      "totalWithVat": "2,904.93"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver Pearl - Lite",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2798",
+      "totalWithVat": "2,976.75"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN6",
+      "planType": "Good",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2801",
+      "totalWithVat": "2,979.90"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2823.73",
+      "totalWithVat": "3,003.77"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Pearl",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2855",
+      "totalWithVat": "3,036.60"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Pearl",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 0% co-pay on OP Pharmacy",
+      "price": "2855",
+      "totalWithVat": "3,036.60"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Pearl",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2859",
+      "totalWithVat": "3,040.80"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "PEARL",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2901.54",
+      "totalWithVat": "3,085.47"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Pearl A",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2903",
+      "totalWithVat": "3,087"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Pearl 750",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "2914.62",
+      "totalWithVat": "3,099.20"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Pearl",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2917.06",
+      "totalWithVat": "3,101.76"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Pearl B",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "2932",
+      "totalWithVat": "3,117.45"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "PEARL",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3017.64",
+      "totalWithVat": "3,207.37"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Silk Road",
+      "planType": "Entry Level",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "3143",
+      "totalWithVat": "3,339"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA BRONZE 4",
+      "planType": "Entry Level",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "3178",
+      "totalWithVat": "3,428.25"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 500 SILK ROAD",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3180.57",
+      "totalWithVat": "3,378.45"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Bronze 2",
+      "planType": "Entry Level",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "3221",
+      "totalWithVat": "3,473.40"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver Plus - Lite",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3301",
+      "totalWithVat": "3,504.90"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN5",
+      "planType": "Good",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3304",
+      "totalWithVat": "3,508.05"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 0% co-pay on OP Pharmacy",
+      "price": "3364",
+      "totalWithVat": "3,571.05"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Silver Plus",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3368",
+      "totalWithVat": "3,575.25"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-4R Enhanced",
+      "planType": "Entry Level",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "3392",
+      "totalWithVat": "3,600.45"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3423.44",
+      "totalWithVat": "3,633.46"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Emerald 750",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "3434.65",
+      "totalWithVat": "3,645.23"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "SRN",
+      "planType": "Entry Level",
+      "network": "RAK NAS",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "3437",
+      "totalWithVat": "3,647.70"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3437.57",
+      "totalWithVat": "3,648.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3475",
+      "totalWithVat": "3,687.60"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "APN+",
+      "planType": "Entry Level",
+      "network": "AAFIYA",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3519",
+      "totalWithVat": "3,733.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Emerald A",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3528",
+      "totalWithVat": "3,743.25"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3556.1",
+      "totalWithVat": "3,772.76"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Emerald B",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3563",
+      "totalWithVat": "3,780"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan D",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "3631",
+      "totalWithVat": "3,851.40"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "FCP SRN",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "3695.5",
+      "totalWithVat": "3,919.13"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N3A",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3719",
+      "totalWithVat": "3,943.80"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-4 Enhanced",
+      "planType": "Entry Level",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "3726",
+      "totalWithVat": "3,951.15"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Iridium - Lite",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3785",
+      "totalWithVat": "4,013.10"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN4",
+      "planType": "Good",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3789",
+      "totalWithVat": "4,017.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N3",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3816",
+      "totalWithVat": "4,045.65"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N3",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "3846",
+      "totalWithVat": "4,077.15"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Iridium",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3862",
+      "totalWithVat": "4,093.95"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "PLAN4",
+      "planType": "Good",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3863.45",
+      "totalWithVat": "4,095.47"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Plan 4",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3886.96",
+      "totalWithVat": "4,120.16"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA BRONZE 3",
+      "planType": "Entry Level",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "3893",
+      "totalWithVat": "4,179"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3907",
+      "totalWithVat": "4,141.20"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN2 A",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3908",
+      "totalWithVat": "4,142.25"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- SRN-b",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3915",
+      "totalWithVat": "4,149.60"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Iridium",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3925",
+      "totalWithVat": "4,160.10"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3926.06",
+      "totalWithVat": "4,161.21"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Opal",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% up to AED 25/- for GP, 20% up to AED 60/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "3929",
+      "totalWithVat": "4,164.30"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Bronze 1",
+      "planType": "Entry Level",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "3935",
+      "totalWithVat": "4,223.10"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N3A",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "3945",
+      "totalWithVat": "4,181.10"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Emerald",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on pharmacy",
+      "price": "3957",
+      "totalWithVat": "4,193.70"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan C",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "3979",
+      "totalWithVat": "4,216.80"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Dubai 3",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3989",
+      "totalWithVat": "4,227.30"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "RN2 Plan",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "3997.14",
+      "totalWithVat": "4,235.85"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "RN2",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4001.43",
+      "totalWithVat": "4,240.35"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Green A",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4008",
+      "totalWithVat": "4,247.25"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN 2",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4011",
+      "totalWithVat": "4,250.40"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N2C",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4079",
+      "totalWithVat": "4,321.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N2",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4084",
+      "totalWithVat": "4,327.05"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 4",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation for GP; 20% max AED 60 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "4114",
+      "totalWithVat": "4,358.55"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- SRN-c",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max of AED 15 for GP 20% max of AED 25 for Specialist,10% on diagnostics, 0% on medicines",
+      "price": "4122",
+      "totalWithVat": "4,366.95"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N2A",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4150",
+      "totalWithVat": "4,396.35"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N2B",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4150",
+      "totalWithVat": "4,396.35"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- SRN-a",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 10% on diagnostics, 10% on medicines",
+      "price": "4163",
+      "totalWithVat": "4,410"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 0% co-pay on OP Pharmacy",
+      "price": "4167",
+      "totalWithVat": "4,414.20"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "PLAN3",
+      "planType": "Good",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4237.24",
+      "totalWithVat": "4,487.95"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Green 750",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "4259.15",
+      "totalWithVat": "4,510.96"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4262.8",
+      "totalWithVat": "4,514.79"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4289",
+      "totalWithVat": "4,542.30"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN B",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4289",
+      "totalWithVat": "4,542.30"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 500 EMERALD",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4298.55",
+      "totalWithVat": "4,552.33"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Gold",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4305",
+      "totalWithVat": "4,559.10"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 750 EMERALD",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4305.55",
+      "totalWithVat": "4,559.68"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- SRN",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 0% on diagnostics, 0% on medicines",
+      "price": "4328",
+      "totalWithVat": "4,583.25"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN A",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4359",
+      "totalWithVat": "4,615.80"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT RN C",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4359",
+      "totalWithVat": "4,615.80"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "RN Plan",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "4384.29",
+      "totalWithVat": "4,642.35"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "RN",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4388.57",
+      "totalWithVat": "4,646.85"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4409.8",
+      "totalWithVat": "4,669.14"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Dubai 2",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4426",
+      "totalWithVat": "4,686.15"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "RN",
+      "planType": "Good",
+      "network": "RAK NAS",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "4479",
+      "totalWithVat": "4,741.80"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-3R Enhanced",
+      "planType": "Entry Level",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "4584",
+      "totalWithVat": "4,852.05"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "FCP RN",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "4815.12",
+      "totalWithVat": "5,094.73"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Yaqoot",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% up to AED 25/- for GP, 20% up to AED 60/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "4856",
+      "totalWithVat": "5,137.65"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Green",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on pharmacy",
+      "price": "4909",
+      "totalWithVat": "5,193.30"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N2",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "4917",
+      "totalWithVat": "5,201.70"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 500 GREEN",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4921.5",
+      "totalWithVat": "5,206.43"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 750 GREEN",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4929.54",
+      "totalWithVat": "5,214.87"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Gold - Lite",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4937",
+      "totalWithVat": "5,222.70"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN3",
+      "planType": "Good",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4942",
+      "totalWithVat": "5,227.95"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- RN-c",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 20% on medicines",
+      "price": "4993",
+      "totalWithVat": "5,281.50"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Silver Classic",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "5012",
+      "totalWithVat": "5,301.45"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Gold",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5037",
+      "totalWithVat": "5,327.70"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N2A",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "5044",
+      "totalWithVat": "5,335.05"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "N2B",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5044",
+      "totalWithVat": "5,335.05"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-3 Enhanced",
+      "planType": "Entry Level",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "5062",
+      "totalWithVat": "5,353.95"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 3",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation for GP; 20% max AED 60 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "5086",
+      "totalWithVat": "5,379.15"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- RN-d",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max of AED 25 for GP 20% max of AED 60 for Specialist, 10% on diagnostics, 0% on medicines",
+      "price": "5094",
+      "totalWithVat": "5,387.55"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Classic",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5096",
+      "totalWithVat": "5,389.65"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silver Classic 750",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "5119.18",
+      "totalWithVat": "5,413.99"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Silver Classic",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5120.35",
+      "totalWithVat": "5,415.22"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silver Classic",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5123.31",
+      "totalWithVat": "5,418.33"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Plan 3",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5135.45",
+      "totalWithVat": "5,431.07"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- RN-b",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max AED 50 per consultation, 10% on diagnostics, 20% on medicines",
+      "price": "5196",
+      "totalWithVat": "5,494.65"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Classic A",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5226",
+      "totalWithVat": "5,526.15"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Classic B",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5226",
+      "totalWithVat": "5,526.15"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA SILVER 13",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "5282",
+      "totalWithVat": "5,637.45"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Silver Classic",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5299.98",
+      "totalWithVat": "5,603.83"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Silver 5",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines",
+      "price": "5351",
+      "totalWithVat": "5,709.90"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "N2C",
+      "planType": "Good",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5365",
+      "totalWithVat": "5,672.10"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- RN-a",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 0% on diagnostics, 20% on medicines",
+      "price": "5553",
+      "totalWithVat": "5,869.50"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Classic C",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "5560",
+      "totalWithVat": "5,876.85"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC BRONZE Dental 4",
+      "planType": "Good",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "5590.3",
+      "totalWithVat": "5,908.67"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- RN",
+      "planType": "Good",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 0% on diagnostics, 20% on medicines",
+      "price": "5655",
+      "totalWithVat": "5,976.60"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-2R Enhanced",
+      "planType": "Good",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "5832",
+      "totalWithVat": "6,162.45"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "PLAN2L",
+      "planType": "Best",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5899.31",
+      "totalWithVat": "6,233.13"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC BRONZE Dental 3",
+      "planType": "Good",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "5914.9",
+      "totalWithVat": "6,249.50"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Silver Classic",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on pharmacy",
+      "price": "5917",
+      "totalWithVat": "6,251.70"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN LITE",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5924",
+      "totalWithVat": "6,259.05"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN LITE C",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5969",
+      "totalWithVat": "6,306.30"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN LITE A",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5976",
+      "totalWithVat": "6,313.65"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN LITE B",
+      "planType": "Good",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5976",
+      "totalWithVat": "6,313.65"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Gold Plus",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "5995",
+      "totalWithVat": "6,333.60"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "GN Limited Plan",
+      "planType": "Good",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "6105.71",
+      "totalWithVat": "6,449.85"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "GN_LIMITED",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6110",
+      "totalWithVat": "6,454.35"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA SILVER 14",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 20% on medicines, 20% on dental",
+      "price": "6170",
+      "totalWithVat": "6,569.85"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Silver with Dental - Option 6",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines, 20% on dental",
+      "price": "6239",
+      "totalWithVat": "6,642.30"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 750 SILVER CLASSIC",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6412.52",
+      "totalWithVat": "6,772"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 1000 SILVER CLASSIC",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6417.49",
+      "totalWithVat": "6,777.21"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA SILVER 9",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "6448",
+      "totalWithVat": "6,861.75"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Platinum - Lite",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6454",
+      "totalWithVat": "6,815.55"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-2 Enhanced",
+      "planType": "Good",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "6458",
+      "totalWithVat": "6,819.75"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN2",
+      "planType": "Best",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6461",
+      "totalWithVat": "6,822.90"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Silver 1",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines",
+      "price": "6516",
+      "totalWithVat": "6,933.15"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan B",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "6567",
+      "totalWithVat": "6,934.20"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Platinum",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6585",
+      "totalWithVat": "6,953.10"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Exclusive N2B",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "6659",
+      "totalWithVat": "7,030.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Exclusive N2A",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6659",
+      "totalWithVat": "7,030.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6661",
+      "totalWithVat": "7,032.90"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Plan 2",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6676.1",
+      "totalWithVat": "7,048.76"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6693.69",
+      "totalWithVat": "7,067.22"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next Exclusive N2",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6700",
+      "totalWithVat": "7,073.85"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next Exclusive N2C",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6750",
+      "totalWithVat": "7,126.35"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next Exclusive N2A",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6759",
+      "totalWithVat": "7,135.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next Exclusive N2B",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6759",
+      "totalWithVat": "7,135.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Premium A",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6832",
+      "totalWithVat": "7,212.45"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Premium B",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "6832",
+      "totalWithVat": "7,212.45"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC SILVER Dental 4",
+      "planType": "Good",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "6942.68",
+      "totalWithVat": "7,328.66"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "6962",
+      "totalWithVat": "7,348.95"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "Plan 2",
+      "planType": "Best",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7011.03",
+      "totalWithVat": "7,400.43"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7039",
+      "totalWithVat": "7,429.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Exclusive N2C",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7084",
+      "totalWithVat": "7,477.05"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN C",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7093",
+      "totalWithVat": "7,486.50"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN A",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7102",
+      "totalWithVat": "7,495.95"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN B",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7102",
+      "totalWithVat": "7,495.95"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silver Premium 750",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "7108.74",
+      "totalWithVat": "7,503.03"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7114.82",
+      "totalWithVat": "7,509.41"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Platinum",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7125",
+      "totalWithVat": "7,520.10"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "GN Plan",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "7257.14",
+      "totalWithVat": "7,658.85"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-1R Enhanced",
+      "planType": "Good",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "7258",
+      "totalWithVat": "7,659.75"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "GN",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7261.43",
+      "totalWithVat": "7,663.35"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC SILVER Dental 3",
+      "planType": "Good",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "7267.28",
+      "totalWithVat": "7,669.49"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Silver Premium C",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7268",
+      "totalWithVat": "7,670.25"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Rhodium - Lite",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7273",
+      "totalWithVat": "7,675.50"
+    },
+    {
+      "provider": "Qatar Insurance Company",
+      "planName": "PLAN1_QIC",
+      "planType": "Best",
+      "network": "QIC MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7281",
+      "totalWithVat": "7,683.90"
+    },
+    {
+      "provider": "Fidelity United",
+      "planName": "Plan A",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 30% on medicines",
+      "price": "7294",
+      "totalWithVat": "7,697.55"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N1",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "7317",
+      "totalWithVat": "7,721.70"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA SILVER WITH DENTAL 10",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% on dental",
+      "price": "7336",
+      "totalWithVat": "7,794.15"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7360.16",
+      "totalWithVat": "7,767.02"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Silver with Dental - Option 2",
+      "planType": "Good",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines, 20% on dental",
+      "price": "7405",
+      "totalWithVat": "7,866.60"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Plan 1",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7409.93",
+      "totalWithVat": "7,819.28"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "APN",
+      "planType": "Entry Level",
+      "network": "AAFIYA",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "1114",
+      "totalWithVat": "1,208.55"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Rhodium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7421",
+      "totalWithVat": "7,830.90"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N1",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7425",
+      "totalWithVat": "7,835.10"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N1A",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7500",
+      "totalWithVat": "7,913.85"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N1B",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7500",
+      "totalWithVat": "7,913.85"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care Next N1C",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7500",
+      "totalWithVat": "7,913.85"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Dubai Care N1B",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on pharmacy",
+      "price": "7504",
+      "totalWithVat": "7,918.05"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "N1A",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7504",
+      "totalWithVat": "7,918.05"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Gold",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7507",
+      "totalWithVat": "7,921.20"
+    },
+    {
+      "provider": "NLGIC - Liva Insurance",
+      "planName": "Gold",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7543.43",
+      "totalWithVat": "7,959.45"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "GN",
+      "planType": "Best",
+      "network": "RAK NAS",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "7613",
+      "totalWithVat": "8,032.50"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Gold A",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7699",
+      "totalWithVat": "8,122.80"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Gold B",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7699",
+      "totalWithVat": "8,122.80"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Diamond",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% up to AED 35/- for GP, 20% up to AED 75/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "7749",
+      "totalWithVat": "8,175.30"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "FCP Gold",
+      "planType": "Good",
+      "network": "MEDNET",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "7753",
+      "totalWithVat": "8,179.50"
+    },
+    {
+      "provider": "Orient Takaful",
+      "planName": "Plan 1",
+      "planType": "Best",
+      "network": "orient takaful",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7788.97",
+      "totalWithVat": "8,217.27"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN PLUS",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7799",
+      "totalWithVat": "8,227.80"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- GN-c",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7805",
+      "totalWithVat": "8,234.10"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN PLUS A",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7878",
+      "totalWithVat": "8,310.75"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN PLUS B",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7878",
+      "totalWithVat": "8,310.75"
+    },
+    {
+      "provider": "HAYAH Insurance",
+      "planName": "CARE PROTECT GN PLUS C",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7878",
+      "totalWithVat": "8,310.75"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Rhodium",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7916",
+      "totalWithVat": "8,350.65"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Gold 750",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "",
+      "price": "7919.26",
+      "totalWithVat": "8,354.07"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "Gold",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7925.83",
+      "totalWithVat": "8,360.97"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- GN-b",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 10% on diagnostics, 10% on medicines",
+      "price": "7967",
+      "totalWithVat": "8,404.20"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "N1C",
+      "planType": "Best",
+      "network": "DUBAI CARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "7983",
+      "totalWithVat": "8,421"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Classic Plan-1 Enhanced",
+      "planType": "Good",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "8035",
+      "totalWithVat": "8,475.60"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "GN Plus Plan",
+      "planType": "Best",
+      "network": "NEXTCARE",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "8062.86",
+      "totalWithVat": "8,504.85"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "GN+",
+      "planType": "Best",
+      "network": "Nextcare",
+      "copay": "20% max 50 AED on consultation, 20% on diagnostics, 20% on medicine",
+      "price": "8067.14",
+      "totalWithVat": "8,509.35"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 2",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 35 per consultation for GP; 20% max AED 75 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "8115",
+      "totalWithVat": "8,559.60"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- GN-d",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max of AED 35 for GP 20% max of AED 75 for Specialist, 10% on diagnostics, 0% on medicines",
+      "price": "8130",
+      "totalWithVat": "8,575.35"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "FCP GN",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "8181.55",
+      "totalWithVat": "8,629.48"
+    },
+    {
+      "provider": "Dubai Insurance",
+      "planName": "Gold C",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "8191",
+      "totalWithVat": "8,639.40"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Dubai 1",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "8197",
+      "totalWithVat": "8,645.70"
+    },
+    {
+      "provider": "Orient Insurance",
+      "planName": "Gold",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "8199.13",
+      "totalWithVat": "8,647.94"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Silver Premium",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on pharmacy",
+      "price": "8200",
+      "totalWithVat": "8,648.85"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 1000 SILVER PREMIUM",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "8372.38",
+      "totalWithVat": "8,829.85"
+    },
+    {
+      "provider": "RAK Insurance",
+      "planName": "CN",
+      "planType": "Best",
+      "network": "RAK NAS",
+      "copay": "Deductible - 20% upto max 75 + 20% co-pay on op diagnosis & 20% co-pay on OP Pharmacy",
+      "price": "8626",
+      "totalWithVat": "9,096.15"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- GN-a",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 10% on diagnostics, 0% on medicines",
+      "price": "8943",
+      "totalWithVat": "9,429"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Gold",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 75 on consultation, 10% on diagnostics, 10% on pharmacy",
+      "price": "9162",
+      "totalWithVat": "9,658.95"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- GN",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 0% on diagnostics, 0% on medicines",
+      "price": "9187",
+      "totalWithVat": "9,685.20"
+    },
+    {
+      "provider": "Adamjee Insurance",
+      "planName": "FCP CN",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 20% on medicines",
+      "price": "9300.54",
+      "totalWithVat": "9,804.42"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Core",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "",
+      "price": "9425.09",
+      "totalWithVat": "9,935.19"
+    },
+    {
+      "provider": "DIC-Viventa",
+      "planName": "Access Health BenefitsPlus 1000 - GOLD",
+      "planType": "Best",
+      "network": "MEDNET",
+      "copay": "20% max AED 50 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "9428.2",
+      "totalWithVat": "9,938.46"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Prime Plan-2 Enhanced",
+      "planType": "Best",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "9541",
+      "totalWithVat": "10,056.90"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC GOLD Dental 4",
+      "planType": "Best",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "9654.77",
+      "totalWithVat": "10,176.36"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold 21",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 20% on medicines",
+      "price": "9826",
+      "totalWithVat": "10,408.65"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "CLASSIC GOLD Dental 3",
+      "planType": "Best",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines, 20% dental, 10% optical",
+      "price": "9979.37",
+      "totalWithVat": "10,517.19"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold 9",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines",
+      "price": "10137",
+      "totalWithVat": "10,735.20"
+    },
+    {
+      "provider": "Takaful Emarat Insurance",
+      "planName": "Zumurrod",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% up to AED 35/- for GP, 20% up to AED 75/- for Specialists, 20% on diagnostics, 20% on medicines",
+      "price": "10261",
+      "totalWithVat": "10,812.90"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Bronze DNE DM5 - Individual",
+      "planType": "Entry Level",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "10392",
+      "totalWithVat": "10,950.45"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Bronze DNE with Dental - Individual",
+      "planType": "Entry Level",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "10464",
+      "totalWithVat": "11,026.05"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Optical Option 23",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 20% on medicines, 0% on optical",
+      "price": "10506",
+      "totalWithVat": "11,122.65"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA GOLD 17",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 10% on medicines",
+      "price": "10563",
+      "totalWithVat": "11,182.50"
+    },
+    {
+      "provider": "WATANIA TAKAFUL",
+      "planName": "Plan 1",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 35 per consultation for GP; 20% max AED 75 for SP, 10% on diagnostics, 15% on medicines",
+      "price": "10747",
+      "totalWithVat": "11,323.20"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- CN-d",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max of AED 35 for GP 20% max of AED 75 for Specialist, 10% on diagnostics, 0% on medicines",
+      "price": "10766",
+      "totalWithVat": "11,343.15"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Optical Option 11",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines, 0% on optical",
+      "price": "10816",
+      "totalWithVat": "11,448.15"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- CN-c",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 20% on diagnostics, 20% on medicines",
+      "price": "10981",
+      "totalWithVat": "11,568.90"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- CN-b",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 per consultation, 10% on diagnostics, 10% on medicines",
+      "price": "11143",
+      "totalWithVat": "11,739"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Essence RNE Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% consultation, NIL diagnostics, 30% medicines, dent1",
+      "price": "11271.42",
+      "totalWithVat": "11,873.84"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA GOLD WITH OPTICAL 19",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 10% on medicines, 0% on optical",
+      "price": "11294",
+      "totalWithVat": "11,950.05"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Dental Option 24",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 20% on medicines, 20% on routine dental, 50% on majo",
+      "price": "11336",
+      "totalWithVat": "11,994.15"
+    },
+    {
+      "provider": "National General Insurance",
+      "planName": "Prime Plan-1 Enhanced",
+      "planType": "Best",
+      "network": "HEALTHNET",
+      "copay": "20% max AED 100 on consultation, 0% on diagnostics, 0% on medicines, dental enhanced",
+      "price": "11386",
+      "totalWithVat": "11,994.15"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold 5",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 10% on medicines",
+      "price": "11534",
+      "totalWithVat": "12,202.05"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Dental Option 12",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines, 20% on routine dental, 50% on majo",
+      "price": "11647",
+      "totalWithVat": "12,320.70"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold with Dental and Optical Option 22",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 20% on medicines, 20% on routine dental, 50% on majo",
+      "price": "12015",
+      "totalWithVat": "12,707.10"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- CN-a",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 0% on diagnostics, 0% on medicines",
+      "price": "12058",
+      "totalWithVat": "12,699.75"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA GOLD WITH DENTAL 20",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation,0% on diagnostics,10% on medicines",
+      "price": "12186",
+      "totalWithVat": "12,886.65"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Optical Option 7",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 10% on medicines, 0% on optical",
+      "price": "12214",
+      "totalWithVat": "12,916.05"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold with Dental & Optical - Option 10",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 20% on medicines, 20% on routine dental, 50% on majo",
+      "price": "12326",
+      "totalWithVat": "13,033.65"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Silver DNE DM5 - Individual",
+      "planType": "Good",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "12335",
+      "totalWithVat": "12,990.60"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "Care- CN",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "10% max AED 25 per consultation, 0% on diagnostics, 0% on medicines",
+      "price": "12381",
+      "totalWithVat": "13,038.90"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Silver DNE with Dental - Individual",
+      "planType": "Good",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "12407",
+      "totalWithVat": "13,066.20"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - General",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "12433.69",
+      "totalWithVat": "13,094.22"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold Option 13",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 0% on medicines",
+      "price": "12466",
+      "totalWithVat": "13,180.65"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold 1",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines",
+      "price": "12777",
+      "totalWithVat": "13,507.20"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Essence General Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% consultation, NIL diagnostics, 30% medicines, dent1",
+      "price": "12817.9",
+      "totalWithVat": "13,497.65"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "SHIFA GOLD WITH DENTAL & OPTICAL 18",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 10% on medicines",
+      "price": "12916",
+      "totalWithVat": "13,653.15"
+    },
+    {
+      "provider": "Max Health",
+      "planName": "ADVANCED",
+      "planType": "Best",
+      "network": "Maxwell",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "12949",
+      "totalWithVat": "13,635.30"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Dental Option 8",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 10% on medicines, 20% on routine dental, 50% on majo",
+      "price": "13044",
+      "totalWithVat": "13,787.55"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Optical Option 15",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 0% on medicines, 0% on optical",
+      "price": "13146",
+      "totalWithVat": "13,894.65"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "13321.81",
+      "totalWithVat": "14,026.75"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Base General Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% consultation, NIL diagnostics, 30% medicines, dent1",
+      "price": "13327.58",
+      "totalWithVat": "14,032.81"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Optical Option 3",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines, 0% on optical",
+      "price": "13456",
+      "totalWithVat": "14,220.15"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold with Dental & Optical - Option 6",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 10% on medicines, 20% on routine dental, 50% on majo",
+      "price": "13723",
+      "totalWithVat": "14,500.50"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Base General Plus Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% consultation, NIL diagnostics, 30% medicines, dent1",
+      "price": "13760.49",
+      "totalWithVat": "14,487.36"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Dental Option 16",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% on diagnostics, 0% on medicines, 20% on routine dental, 50% on major",
+      "price": "13976",
+      "totalWithVat": "14,766.15"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold With Dental Option 4",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines, 20% on routine dental, 50% on major",
+      "price": "14286",
+      "totalWithVat": "15,091.65"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WWEx (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "14388.86",
+      "totalWithVat": "15,147.15"
+    },
+    {
+      "provider": "BUPA",
+      "planName": "Select - Regional",
+      "planType": "Best",
+      "network": "SUKOON SIGNATURE + MEDCARE",
+      "copay": "20% on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "14454.96",
+      "totalWithVat": "15,216.56"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold with Dental & Optical - Option 14",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 50 consultation, 0% diagnostics, 0% medicines, 20% routine dental, 50% major, 0% optical",
+      "price": "14655",
+      "totalWithVat": "15,479.10"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "14802",
+      "totalWithVat": "15,580.95"
+    },
+    {
+      "provider": "Abu Dhabi National Insurance Company",
+      "planName": "Shifa Gold with Dental & Optical - Option 2",
+      "planType": "Best",
+      "network": "Abu Dhabi National Insurance Company",
+      "copay": "20% max AED 30 consultation, 0% on diagnostics, 0% on medicines, 20% on routine dental, 50% on major",
+      "price": "14966",
+      "totalWithVat": "15,805.65"
+    },
+    {
+      "provider": "Max Health",
+      "planName": "PRESTIGE",
+      "planType": "Best",
+      "network": "Maxwell",
+      "copay": "AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "15461",
+      "totalWithVat": "16,272.90"
+    },
+    {
+      "provider": "BUPA",
+      "planName": "Select - Worldwide",
+      "planType": "Best",
+      "network": "SUKOON SIGNATURE + MEDCARE",
+      "copay": "20% on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "15539.08",
+      "totalWithVat": "16,354.88"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced General Plus Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "15777.17",
+      "totalWithVat": "16,604.88"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Gold DNE DM5 - Individual",
+      "planType": "Best",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 10% on medicines",
+      "price": "15916",
+      "totalWithVat": "16,750.65"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - General + Healthy Connect",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "16042.32",
+      "totalWithVat": "16,883.29"
+    },
+    {
+      "provider": "ISONSECURE",
+      "planName": "PLATINUM",
+      "planType": "Best",
+      "network": "ISONSECURE",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "16163.38",
+      "totalWithVat": "17,010.40"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WWEx (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "16203.07",
+      "totalWithVat": "17,052.07"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Gold DNE with Dental - Individual",
+      "planType": "Best",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 10% on medicines",
+      "price": "16300",
+      "totalWithVat": "17,153.85"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - General Plus",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "16707.76",
+      "totalWithVat": "17,582"
+    },
+    {
+      "provider": "Max Health",
+      "planName": "ELITE",
+      "planType": "Best",
+      "network": "Maxwell",
+      "copay": "0% on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "16716",
+      "totalWithVat": "17,590.65"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Essential Dental WWex (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "16977.97",
+      "totalWithVat": "17,865.72"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Extensive Dental WWex (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "17025.71",
+      "totalWithVat": "17,915.85"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced Comprehensive Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "17727.16",
+      "totalWithVat": "18,652.37"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General Plus",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "17901.18",
+      "totalWithVat": "18,835.09"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced General Plus Dental 2",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "17980.16",
+      "totalWithVat": "18,918.02"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "18362.5",
+      "totalWithVat": "19,319.48"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "18551.71",
+      "totalWithVat": "19,518.15"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature General Plus Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "18627.32",
+      "totalWithVat": "19,597.54"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - Comprehensive excl. AH",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "18650.53",
+      "totalWithVat": "19,621.91"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Extensive Dental WWex (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "18839.93",
+      "totalWithVat": "19,820.78"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - Comprehensive",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "19427.63",
+      "totalWithVat": "20,437.86"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Extensive Dental WWex (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "19614.82",
+      "totalWithVat": "20,634.41"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced General Plus Dental 3",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "19741.89",
+      "totalWithVat": "20,767.83"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General Plus",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "19890.2",
+      "totalWithVat": "20,923.56"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive excl. AH",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "19982.71",
+      "totalWithVat": "21,020.70"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "19982.71",
+      "totalWithVat": "21,020.70"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced Comprehensive Dental 2",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "20202.42",
+      "totalWithVat": "21,251.39"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - General Plus + Healthy Connect",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "20316.39",
+      "totalWithVat": "21,371.06"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "IPMI 1 (Worldwide ex. US)",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "20579",
+      "totalWithVat": "21,646.80"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "20815.33",
+      "totalWithVat": "21,894.95"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature General Plus Dental 2",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "20830.31",
+      "totalWithVat": "21,910.68"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "20848.78",
+      "totalWithVat": "21,930.07"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature Comprehensive Dental 1",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "20929.58",
+      "totalWithVat": "22,014.91"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Extensive Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "20999.36",
+      "totalWithVat": "22,088.18"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "IPMI 2 (Worldwide ex. US)",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "21392",
+      "totalWithVat": "22,500.45"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WWEx (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "21656.73",
+      "totalWithVat": "22,778.42"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Platinum DNE DM5 - Individual",
+      "planType": "Best",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "21763",
+      "totalWithVat": "22,890"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Essential Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "21902.79",
+      "totalWithVat": "23,036.78"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Enhanced Comprehensive Dental 3",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "22181.9",
+      "totalWithVat": "23,329.85"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive excl. AH",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "22203.01",
+      "totalWithVat": "23,352.01"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - Comprehensive ex. AH + Healthy Connect",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "22259.16",
+      "totalWithVat": "23,410.97"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Care Platinum DNE with Dental - Individual",
+      "planType": "Best",
+      "network": "Daman Insurance",
+      "copay": "20% max AED 50 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "22589",
+      "totalWithVat": "23,757.30"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature General Plus Dental 3",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "22592.04",
+      "totalWithVat": "23,760.49"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "22594.56",
+      "totalWithVat": "23,763.14"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Elite (IP) + Elite (OP) + Elite Dental WWex (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "22740.12",
+      "totalWithVat": "23,915.98"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "22943.12",
+      "totalWithVat": "24,129.13"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "Regional - Comprehensive + Healthy Connect",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "23036.26",
+      "totalWithVat": "24,226.92"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "23128.14",
+      "totalWithVat": "24,323.40"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General Plus + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "23131.08",
+      "totalWithVat": "24,326.48"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature Comprehensive Dental 2",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "23404.84",
+      "totalWithVat": "24,613.93"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Extensive Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "23485.64",
+      "totalWithVat": "24,698.77"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Extensive Dental WWex (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "24293.59",
+      "totalWithVat": "25,547.12"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Extensive Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "24539.65",
+      "totalWithVat": "25,805.48"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WWEx (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "24715.93",
+      "totalWithVat": "25,990.58"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WW (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "25119.9",
+      "totalWithVat": "26,414.75"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive ex. AH + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "25212.61",
+      "totalWithVat": "26,512.09"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Sphera Signature Comprehensive Dental 3",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% on consultation, NIL on diagnostics, NIL on medicines",
+      "price": "25384.32",
+      "totalWithVat": "26,692.39"
+    },
+    {
+      "provider": "BUPA",
+      "planName": "Premier",
+      "planType": "Best",
+      "network": "SUKOON PREMIUM",
+      "copay": "20% on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "25970.45",
+      "totalWithVat": "27,307.82"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Essential Dental WWex (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "26004.97",
+      "totalWithVat": "27,344.07"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "26045.23",
+      "totalWithVat": "27,386.34"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "26520.09",
+      "totalWithVat": "27,884.94"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WW (Green)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "26779.87",
+      "totalWithVat": "28,157.71"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General Plus WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "26851.77",
+      "totalWithVat": "28,233.21"
+    },
+    {
+      "provider": "Orient-Allianz",
+      "planName": "Dubai Prime Silver (Comprehensive) Dental 3",
+      "planType": "Best",
+      "network": "Allianz",
+      "copay": "20% max AED 100 per visit",
+      "price": "27128.76",
+      "totalWithVat": "28,524.05"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Extensive Dental WWex (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "27352.78",
+      "totalWithVat": "28,759.27"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General Plus + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "27682.76",
+      "totalWithVat": "29,105.75"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Elite (IP) + Elite (OP) + Elite Dental WWex (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "28270.91",
+      "totalWithVat": "29,723.31"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Extensive (IP) + Extensive (OP) + Extensive Dental WWex (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "28641.83",
+      "totalWithVat": "30,112.77"
+    },
+    {
+      "provider": "Abu Dhabi National Takaful",
+      "planName": "IPMI 2 (Worldwide)",
+      "planType": "Best",
+      "network": "NAS",
+      "copay": "20% max AED 50 on consultation, 10% on diagnostics, 10% on medicines",
+      "price": "29273",
+      "totalWithVat": "30,775.50"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive ex. AH WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "29974.07",
+      "totalWithVat": "31,511.62"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive ex. AH + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "29995.57",
+      "totalWithVat": "31,534.20"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WW (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "30753.52",
+      "totalWithVat": "32,330.05"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General Plus WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "30829.81",
+      "totalWithVat": "32,410.15"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive + Healthy Connect WWE",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "30920.7",
+      "totalWithVat": "32,505.59"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "31222.98",
+      "totalWithVat": "32,822.98"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "32670.74",
+      "totalWithVat": "34,343.13"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Elite (IP) + Elite (OP) + Elite Dental WWex (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "32879.89",
+      "totalWithVat": "34,562.73"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - General Plus + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "33389.15",
+      "totalWithVat": "35,097.46"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive ex. AH WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "34414.67",
+      "totalWithVat": "36,174.25"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WW (Classic)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "35340.47",
+      "totalWithVat": "37,146.34"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "35848.61",
+      "totalWithVat": "37,679.89"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive ex. AH + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "36511.45",
+      "totalWithVat": "38,375.87"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Essential (OP) + Essential Dental WW (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "36868.23",
+      "totalWithVat": "38,750.49"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International - Comprehensive + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "37760.36",
+      "totalWithVat": "39,687.23"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - General Plus + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "40557.43",
+      "totalWithVat": "42,624.15"
+    },
+    {
+      "provider": "BUPA",
+      "planName": "Elite",
+      "planType": "Best",
+      "network": "SUKOON PREMIUM",
+      "copay": "20% on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "42060.41",
+      "totalWithVat": "44,202.28"
+    },
+    {
+      "provider": "April Hayah",
+      "planName": "Essential (IP) + Extensive (OP) + Essential Dental WW (Premium)",
+      "planType": "Best",
+      "network": "Mednet",
+      "copay": "20% max AED 51 on consultation, 20% on diagnostics, 20% on medicines",
+      "price": "42487.15",
+      "totalWithVat": "44,650.36"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive ex. AH + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "44142.29",
+      "totalWithVat": "46,388.25"
+    },
+    {
+      "provider": "National Health insurance Company - Daman",
+      "planName": "Premier DNE - Individual",
+      "planType": "Best",
+      "network": "Daman Insurance",
+      "copay": "NIL on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "45506",
+      "totalWithVat": "47,820.15"
+    },
+    {
+      "provider": "Cigna Insurance",
+      "planName": "International Plus - Comprehensive + Healthy Connect WW",
+      "planType": "Best",
+      "network": "NEURON",
+      "copay": "20% max AED 100 per visit",
+      "price": "45576.23",
+      "totalWithVat": "47,893.89"
+    },
+    {
+      "provider": "BUPA",
+      "planName": "Ultimate",
+      "planType": "Best",
+      "network": "SUKOON PREMIUM",
+      "copay": "NIL on consultation, 0% on diagnostics, 0% on medicines",
+      "price": "102498.01",
+      "totalWithVat": "107,661.76"
+    }
+  ],
+  "lastPage": "406–418 of 418"
+}

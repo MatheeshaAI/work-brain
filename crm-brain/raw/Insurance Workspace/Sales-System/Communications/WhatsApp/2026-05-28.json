@@ -1,0 +1,16 @@
+{
+  "run_date": "2026-05-28",
+  "generated_at": "2026-05-28T12:00:00+04:00",
+  "api_status": "OFFLINE - Connection refused on port 8080",
+  "api_url": "http://72.60.199.15:8080",
+  "error": "The WhatsApp API server was unreachable at time of scan. No WhatsApp data could be retrieved for this run.",
+  "need_to_reply": [],
+  "waiting_reply": [],
+  "outbound_only": [],
+  "summary": {
+    "need_to_reply_count": 0,
+    "waiting_reply_count": 0,
+    "outbound_only_count": 0,
+    "note": "Data unavailable — WhatsApp API offline"
+  }
+}

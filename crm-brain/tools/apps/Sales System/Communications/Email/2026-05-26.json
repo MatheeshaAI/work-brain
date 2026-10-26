@@ -1,0 +1,140 @@
+{
+  "scan_date": "2026-05-26",
+  "scan_time_uae": "18:30 UTC+4",
+  "urgent": [
+    {
+      "id": "Mariamma_Jose_HEA-WXD99WYY",
+      "subject": "Re: Mariamma Jose's Health Insurance with Alfred HEA-WXD99WYY",
+      "from": "bahdip@icloud.com",
+      "date": "2026-05-03",
+      "days_unactioned": 23,
+      "snippet": "Client confirmed wife undergoing treatment at Mediclinic and needs a plan that supports ongoing treatment. Requested plan with Mediclinic coverage.",
+      "action": "URGENT: Client has been waiting 23 days for plan confirmation. Send plan comparison for Mediclinic-compatible comprehensive plans. Close this deal.",
+      "category": "client_escalation"
+    },
+    {
+      "id": "HEA-HZ7X3FX6",
+      "subject": "Attention urgent assistance required: HEA-HZ7X3FX6 / Client Plan Type Update - Jonalyn Aboc",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-20",
+      "days_unactioned": 6,
+      "snippet": "Client Jonalyn Aboc inquired again and updated plan type to Entry level.",
+      "action": "Contact Jonalyn Aboc urgently. Client is active online. Offer entry-level plans and schedule call.",
+      "category": "callback_alert"
+    },
+    {
+      "id": "HEA-CFSUX9PS",
+      "subject": "Attention urgent assistance required: HEA-CFSUX9PS / Client Plan Type Update - Hany Said",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-20",
+      "days_unactioned": 6,
+      "snippet": "Client Hany Said inquired again and updated plan type to Good.",
+      "action": "Contact Hany Said. Client active. Pitch 'Good' tier plans and move to close.",
+      "category": "callback_alert"
+    },
+    {
+      "id": "HEA-HACCRASH",
+      "subject": "Attention urgent assistance required: HEA-HACCRASH / kuzhaliniyan udhayakumar",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-18",
+      "days_unactioned": 8,
+      "snippet": "Client kuzhaliniyan udhayakumar inquired multiple times, toggled between Best and Good plan types.",
+      "action": "Call kuzhaliniyan udhayakumar. Multiple plan changes = price sensitivity. Offer mid-range plan with breakdown.",
+      "category": "callback_alert"
+    },
+    {
+      "id": "Adamjee_HEA-GDQVRGWU",
+      "subject": "Fwd: Siddhiraj Vijaykumar Marathe Vijaykumar Ramakant Health Insurance with Alfred HEA-GDQVRGWU",
+      "from": "talib.rehan@insurancemarket.ae",
+      "date": "2026-05-21",
+      "days_unactioned": 5,
+      "snippet": "Talib requested Matheesha assist with Adamjee policy issuance for Siddhiraj Vijaykumar Marathe.",
+      "action": "Assist with Adamjee policy issuance for HEA-GDQVRGWU. Reply to Talib confirming action taken.",
+      "category": "colleague_request"
+    }
+  ],
+  "action": [
+    {
+      "id": "renewal_Hirushi_1DAY",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-9515395686",
+      "member": "Hirushi Shenaya",
+      "expiry": "EXPIRES IN 1 DAY (2026-05-26)",
+      "quotation_id": "E-7810709900",
+      "action": "CRITICAL: Policy expires TODAY or TOMORROW. Contact medicalrenewals@insurancemarket.ae and client immediately."
+    },
+    {
+      "id": "renewal_Orhan_Faour_7DAYS",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-7487682108",
+      "member": "Orhan Faour",
+      "expiry": "7 days",
+      "quotation_id": "E-3998255891",
+      "action": "Follow up on renewal. Contact client or retail medical team."
+    },
+    {
+      "id": "renewal_Zeke_Nigel_7DAYS_OLD",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-7315821301",
+      "member": "Zeke Nigel",
+      "expiry": "Was 7 days as of May 17 — LIKELY EXPIRED",
+      "quotation_id": "E-6419285651",
+      "action": "Check if this policy has already lapsed. Contact medicalrenewals@ urgently."
+    },
+    {
+      "id": "renewal_Yana_Smith_15DAYS",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-4228889448",
+      "member": "Yana Smith",
+      "expiry": "15 days",
+      "quotation_id": "E-2687804411",
+      "action": "Initiate renewal process with client."
+    },
+    {
+      "id": "renewal_Mukesh_Murali_15DAYS",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-0176910583",
+      "member": "Mukesh Murali",
+      "expiry": "15 days (as of May 23)",
+      "quotation_id": "E-0148425679",
+      "action": "Contact client for renewal. ~8 days left now."
+    },
+    {
+      "id": "renewal_Ateeq_Ahmed_30DAYS",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-4098076757",
+      "member": "Ateeq Ahmed",
+      "expiry": "30 days (as of May 24)",
+      "quotation_id": "E-3492218552",
+      "action": "Renewal pipeline — reach out proactively."
+    },
+    {
+      "id": "renewal_ERANDA_SAMPATH_30DAYS",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-4305204390",
+      "member": "ERANDA SAMPATH",
+      "expiry": "30 days (as of May 24)",
+      "quotation_id": "E-0201595621",
+      "action": "Renewal pipeline — reach out proactively."
+    },
+    {
+      "id": "WE34WQKH",
+      "subject": "Client Plan Type Update - sam lu/su - HEA-WE34WQKH",
+      "from": "no-reply@alert.insurancemarket.email",
+      "date": "2026-05-16",
+      "snippet": "Client updated plan type to Entry level. Alfred alert fired.",
+      "action": "Contact client HEA-WE34WQKH. Note: client name shows inconsistency (sam lu/su/abu) — may be test lead or data issue. Verify in Alfred CRM before calling."
+    }
+  ],
+  "info_skipped": [
+    "SBDMs and BDMs conversion - RM Leads (x3 weekly reports)",
+    "July'26 Renewal terms - DIC || Hayah || Watania",
+    "May 2026 Release Notes - Travel Insurance CTA",
+    "Sukoon Purple Investment Plan Launch",
+    "Exclusive Employee Staycation Deals",
+    "Mandatory Google Account Settings Verification",
+    "Scheduled Maintenance Notice",
+    "Service Excellence Session 2 Key Takeaways",
+    "War Cover on Personal Motor Product",
+    "Underwriting Support Holiday Period",
+    "HR Login/Logout notifications",
+    "Google security alerts / 2FA",
+    "Craft app newsletter",
+    "Substack newsletter",
+    "NextCare inquiry confirmations (personal)",
+    "Google Chat message from Shoeb Khan"
+  ]
+}

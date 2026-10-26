@@ -1,0 +1,35 @@
+=== RECOVERY SUMMARY ===
+
+Recovered from git history on 2026-05-20
+
+SUCCESSFULLY RECOVERED (Git-tracked files):
+Scripts/_debug_plans.json
+Scripts/baileys-archive/wa-db.js
+Scripts/baileys-archive/wa-export.js
+Scripts/baileys-archive/wa-search.js
+Scripts/baileys-archive/wa-send.js
+Scripts/baileys-archive/wa-sync.js
+Scripts/check_wa_responses.py
+Scripts/get_recent_messages.js
+Scripts/send_onboarding_messages.js
+Scripts/start-wa-sync.bat
+Scripts/wacli-export-conversation.js
+Scripts/wacli-search-lead.js
+Scripts/wacli-send-message.js
+Scripts/wacli-sync-service.sh
+Scripts/wa-sync-simple.js
+
+PERMANENTLY LOST (Local untracked files - not in git):
+- Workspace/Entry Level Plan.md
+- Workspace/Leads-May-2026.csv
+- Workspace/Leads/HEA-NR5AEQYW-M-Alaa-Mohamad.md
+- Workspace/Plans/All-Plans-List.md
+- Workspace/Networks/Nextcare-Agent/
+- Workspace/SOPs/Obsidian-Webviewer-Agent-Setup.md
+- Workspace/.claude/
+- available-plans-screenshot.png
+- get_plan_details.js (root)
+- get_unread_emails.js (root)
+- plans-full-page.png
+
+Note: These files were not tracked in git, so they cannot be recovered from version history.

@@ -1,0 +1,145 @@
+{
+  "scan_date": "2026-05-29",
+  "scan_time_uae": "10:10",
+  "period": "last 14 days (2026-05-15 to 2026-05-29)",
+  "urgent": [
+    {
+      "id": "thread_19db11f8fd9af34c",
+      "subject": "Re: Mariamma Jose's Health Insurance with Alfred HEA-WXD99WYY",
+      "lead": "HEA-WXD99WYY",
+      "client": "Dinu Paul (Cathay Pacific)",
+      "last_sender": "dinu_paul@cathaypacific.com",
+      "last_date": "2026-05-26",
+      "days_since": 3,
+      "priority": "URGENT",
+      "summary": "Client is unhappy with Takaful Emarat premium — says annual treatment cost would be under AED 40,000, so premium seems too high. Still awaiting QIC quote. Wants alternative affordable plan.",
+      "action": "Follow up: Share QIC final premium + propose mid-range plan option. Address cost concern directly."
+    },
+    {
+      "id": "thread_19e4a3a358cc6f5e",
+      "subject": "Re: Request for Claims Approval Assistance - HEA-SQPVXE5P & HEA-6WCBGWZU",
+      "client": "Mr. Ishak / hishamishak@gmail.com",
+      "last_sender": "hishamishak@gmail.com",
+      "last_date": "2026-05-26",
+      "days_since": 3,
+      "priority": "URGENT",
+      "summary": "Client is very frustrated — claim rejected again via NextCare mobile app on May 21. Matheesha is CC'd. Claims team (Aman Giri) is handling but client is venting. No resolution update since May 24.",
+      "action": "Chase claims team (aman.giri) for update. Send client reassurance reply or coordinate with team."
+    },
+    {
+      "id": "thread_19e4a02ecc241bcd",
+      "subject": "Fwd: Siddhiraj Vijaykumar Marathe Health Insurance - HEA-GDQVRGWU",
+      "lead": "HEA-GDQVRGWU",
+      "client": "Siddhiraj Marathe",
+      "last_sender": "talib.rehan@insurancemarket.ae",
+      "last_date": "2026-05-21",
+      "days_since": 8,
+      "priority": "URGENT",
+      "summary": "Colleague Talib Rehan forwarded and explicitly tagged Matheesha to assist with Adamjee policy issuance. No reply recorded.",
+      "action": "Action Adamjee policy issuance for HEA-GDQVRGWU. Reply to Talib to confirm."
+    }
+  ],
+  "action_required": [
+    {
+      "subject": "Client Plan Type Update - Jonalyn Aboc - HEA-HZ7X3FX6",
+      "lead": "HEA-HZ7X3FX6",
+      "client": "Jonalyn Aboc",
+      "date": "2026-05-20",
+      "days_since": 9,
+      "note": "Client updated plan to Entry Level and re-inquired. No callback made."
+    },
+    {
+      "subject": "Attention urgent: HEA-HZ7X3FX6",
+      "lead": "HEA-HZ7X3FX6",
+      "client": "Jonalyn Aboc",
+      "date": "2026-05-20",
+      "note": "Alfred callback alert — client online again, urgent contact needed."
+    },
+    {
+      "subject": "Client Plan Type Update - Hany Said - HEA-CFSUX9PS",
+      "lead": "HEA-CFSUX9PS",
+      "client": "Hany Said",
+      "date": "2026-05-20",
+      "days_since": 9,
+      "note": "Client updated plan to 'Good' level. Alfred alert triggered. No contact recorded."
+    },
+    {
+      "subject": "Client Plan Type Update - kuzhaliniyan udhayakumar - HEA-HACCRASH",
+      "lead": "HEA-HACCRASH",
+      "client": "kuzhaliniyan udhayakumar",
+      "date": "2026-05-18",
+      "days_since": 11,
+      "note": "Multiple plan type updates (Best, then Good). Multiple Alfred alerts. Needs immediate callback."
+    },
+    {
+      "subject": "Medical Insurance Renewal — Arwa Mostafa (Policy #01-115-01-25-8887113304)",
+      "client": "Arwa Mostafa",
+      "date": "2026-05-28",
+      "days_since": 1,
+      "note": "Takaful Emarat renewal — 15 DAYS left. Quotation ID E-3217894313. Action needed."
+    },
+    {
+      "subject": "Medical Insurance Renewal — Shiela Marie (Policy #01-115-01-25-7572767978)",
+      "client": "Shiela Marie",
+      "date": "2026-05-27",
+      "days_since": 2,
+      "note": "Takaful Emarat renewal — 07 DAYS left. CRITICAL — expires June 3."
+    },
+    {
+      "subject": "Medical Insurance Renewal — Hirushi Shenaya (Policy #01-115-01-25-9515395686)",
+      "client": "Hirushi Shenaya",
+      "date": "2026-05-25",
+      "days_since": 4,
+      "note": "Renewal was 01 DAY away on May 25 — likely LAPSED. Check status immediately."
+    },
+    {
+      "subject": "Medical Insurance Renewal — Orhan Faour (Policy #01-115-01-25-7487682108)",
+      "client": "Orhan Faour",
+      "date": "2026-05-25",
+      "days_since": 4,
+      "note": "7 days remaining as of May 25. Likely expiring around June 1. Urgent renewal."
+    },
+    {
+      "subject": "Your Medical Insurance Quote is Revised — QIC (Dinu Tharamadathil)",
+      "client": "Dinu Tharamadathil",
+      "sender": "medonline@eb.qicuae.com",
+      "date": "2026-05-27",
+      "days_since": 2,
+      "note": "QIC revised the quote — medical loading applied. Review and share with client."
+    },
+    {
+      "subject": "Mandatory Verification of Google Account Settings & Email Delegation Access",
+      "sender": "ITSupport@insurancemarket.ae",
+      "date": "2026-05-21",
+      "days_since": 8,
+      "note": "IT compliance action required — review Google account delegation settings."
+    },
+    {
+      "subject": "Fwd: Siddhiraj Marathe — Adamjee Policy Issuance HEA-GDQVRGWU",
+      "lead": "HEA-GDQVRGWU",
+      "date": "2026-05-21",
+      "days_since": 8,
+      "note": "Tagged by Talib Rehan to handle. No reply yet."
+    }
+  ],
+  "info_skipped": [
+    "Kilo Weekly newsletter (hi@news.kilocode.ai)",
+    "Marie Gautron template email",
+    "NextCare survey",
+    "NextCare inquiry confirmations (INQ2403114, INQ2403140)",
+    "Sublime app newsletter",
+    "SBDMs and BDMs conversion reports (x4)",
+    "DubaiCare Network List MAY 2026",
+    "Travel Insurance landing page release notes",
+    "July 26 Renewal terms - DIC/Hayah/Watania",
+    "Service Excellence Session takeaways",
+    "War Cover on Personal Motor update",
+    "Sukoon Purple Investment Plan launch",
+    "Employee staycation deals",
+    "HR attendance logs / work from home/office notifications",
+    "Craft app update newsletter"
+  ],
+  "total_urgent": 3,
+  "total_action": 8,
+  "total_info_skipped": 15
+}

@@ -1,0 +1,112 @@
+{
+  "generated": "2026-05-29T10:10:00+04:00",
+  "tasks": [
+    {
+      "priority": 1,
+      "action": "CRITICAL: Check if Hirushi Shenaya's policy lapsed — renew immediately",
+      "contact": "Hirushi Shenaya",
+      "lead_policy": "Policy #01-115-01-25-9515395686",
+      "source": "Takaful Emarat renewal email",
+      "urgency": "CRITICAL",
+      "notes": "Was 1 day from expiry on May 25 — likely lapsed. Must confirm and renew NOW."
+    },
+    {
+      "priority": 2,
+      "action": "CRITICAL: Renew Shiela Marie policy — 7 days left (expires ~June 3)",
+      "contact": "Shiela Marie",
+      "lead_policy": "Policy #01-115-01-25-7572767978",
+      "source": "Takaful Emarat renewal email",
+      "urgency": "CRITICAL"
+    },
+    {
+      "priority": 3,
+      "action": "Reply to Dinu Paul — address premium concern, share QIC quote + mid-range alternatives",
+      "contact": "Dinu Paul (dinu_paul@cathaypacific.com)",
+      "lead": "HEA-WXD99WYY",
+      "source": "Gmail thread",
+      "urgency": "URGENT",
+      "notes": "Client last messaged May 26. Waiting 3 days. Premium too high concern — wife's treatment under AED 40K/year."
+    },
+    {
+      "priority": 4,
+      "action": "Chase Aman Giri on Mr. Ishak claim — get update, send reassurance email to client",
+      "contact": "Mr. Ishak (hishamishak@gmail.com) | Internal: aman.giri@insurancemarket.ae",
+      "lead": "HEA-SQPVXE5P / HEA-6WCBGWZU",
+      "source": "Gmail thread",
+      "urgency": "URGENT",
+      "notes": "Claim rejected again May 21. Client frustrated. No update since May 24."
+    },
+    {
+      "priority": 5,
+      "action": "Action Adamjee policy issuance for HEA-GDQVRGWU — reply to Talib Rehan",
+      "contact": "Talib Rehan (talib.rehan@insurancemarket.ae)",
+      "lead": "HEA-GDQVRGWU",
+      "source": "Gmail — internal forward",
+      "urgency": "URGENT",
+      "notes": "8 days no action. Talib explicitly tagged Matheesha."
+    },
+    {
+      "priority": 6,
+      "action": "Review QIC revised quote for Dinu Tharamadathil — share with client",
+      "contact": "Dinu Tharamadathil",
+      "source": "QIC email (medonline@eb.qicuae.com) — May 27",
+      "urgency": "High",
+      "notes": "QIC revised quote with medical loading. Needs to be reviewed and sent to client."
+    },
+    {
+      "priority": 7,
+      "action": "Renew Orhan Faour policy — approx June 1 expiry",
+      "contact": "Orhan Faour",
+      "lead_policy": "Policy #01-115-01-25-7487682108",
+      "source": "Takaful Emarat renewal email",
+      "urgency": "High"
+    },
+    {
+      "priority": 8,
+      "action": "Call Jonalyn Aboc — inquired again, updated to Entry Level plan",
+      "contact": "Jonalyn Aboc",
+      "lead": "HEA-HZ7X3FX6",
+      "source": "Alfred alert email — May 20",
+      "urgency": "Follow-up",
+      "notes": "9 days since alert. Re-engage with entry level options."
+    },
+    {
+      "priority": 9,
+      "action": "Call Hany Said — updated to Good plan, Alfred alert triggered",
+      "contact": "Hany Said",
+      "lead": "HEA-CFSUX9PS",
+      "source": "Alfred alert email — May 20",
+      "urgency": "Follow-up"
+    },
+    {
+      "priority": 10,
+      "action": "Call kuzhaliniyan udhayakumar — updated plan preferences twice, 11 days no contact",
+      "contact": "kuzhaliniyan udhayakumar",
+      "lead": "HEA-HACCRASH",
+      "source": "Alfred alert emails — May 18",
+      "urgency": "Follow-up/Cold"
+    },
+    {
+      "priority": 11,
+      "action": "Renew Arwa Mostafa policy — 15 days left (June 12 expiry)",
+      "contact": "Arwa Mostafa",
+      "lead_policy": "Policy #01-115-01-25-8887113304 (Quotation ID: E-3217894313)",
+      "source": "Takaful Emarat renewal email — May 28",
+      "urgency": "Medium"
+    },
+    {
+      "priority": 12,
+      "action": "Complete Google account delegation verification (IT mandatory)",
+      "source": "IT Support email — May 21",
+      "urgency": "Compliance",
+      "notes": "All employees required to verify Google Workspace account settings."
+    },
+    {
+      "priority": 13,
+      "action": "Investigate WhatsApp API — bridge at 72.60.199.15:8080 is unreachable",
+      "source": "Automated audit system",
+      "urgency": "System",
+      "notes": "WhatsApp API timed out during this run. Needs restart or network check."
+    }
+  ]
+}

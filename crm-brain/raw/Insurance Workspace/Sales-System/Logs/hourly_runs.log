@@ -1,0 +1,18 @@
+[2026-05-26T01:02:31+04:00] Run complete. WA: OFFLINE (API unreachable). Gmail: 7 urgent, 4 action items, 47 total unread scanned.
+[2026-05-26T08:53:00+04:00] Run complete. WA: API_UNREACHABLE (timeout). Gmail: 4 urgent, 7 action_required. Renewals: 1 critical (expires today - Hirushi Shenaya), 2 this week.
+[2026-05-26 10:14:46 UAE] Run complete. WA: OFFLINE (API timeout). Gmail: 5 urgent, 9 action.
+[2026-05-26 11:10 UAE] Run complete. WA: UNREACHABLE (API timeout). Gmail: 6 urgent, 8 action items. Renewals: 1 CRITICAL (expires tomorrow), 1 in 7 days, 2 in 15 days, 2 in 30 days. Active leads: HEA-GDQVRGWU, HEA-HZ7X3FX6, HEA-CFSUX9PS, HEA-HACCRASH, HEA-WE34WQKH.
+[2026-05-26T14:00:00+04:00] Run complete. WA: 0 need_reply (API OFFLINE), 0 waiting. Gmail: 7 urgent, 8 action items.
+[2026-05-26 13:11 UAE] Run complete. WA: OFFLINE (API down). Gmail: 6 urgent, 9 action, 12 info. Total unread scanned: ~47.
+[2026-05-26T14:12:43+04:00] Run complete. WA: API OFFLINE (0 need_reply, 0 waiting). Gmail: 6 urgent, 4 action items. Critical: Hirushi Shenaya policy expires in 1 day.
+[2026-05-26 15:11 UTC+4] Run complete. WA: OFFLINE (API down). Gmail: 5 urgent, 11 action items. Top priority: Dinu Paul reply (HEA-WXD99WYY) + Hirushi Shenaya renewal (expires tomorrow).
+[2026-05-26 16:13 UAE] Run complete. WA: OFFLINE (API connection refused). Gmail: 6 urgent, 8 action items. Drafts: 7 generated.
+[2026-05-26 20:00 UAE] Run complete. WA: OFFLINE (bridge unreachable). Gmail: 5 urgent, 10 action items. Renewals flagged: 4 (1 critical/expiring tomorrow). Tasks saved: 13.
+[2026-05-26 18:11 UAE] Run complete. WA: 0 need_reply (API OFFLINE), 0 waiting. Gmail: 7 urgent (1 critical renewal, 3 active leads, 1 client awaiting reply 23d, 1 internal task, 1 7-day renewal). WhatsApp API connection refused - manual check required.
+[2026-05-26 18:30 UTC+4] Run complete. WA: API OFFLINE (connection refused). Gmail: 5 urgent (1 client escalation, 3 Alfred callbacks, 1 colleague request), 7 renewals actioned (1 CRITICAL expires today), 3 renewal pipelines. Total tasks: 13 prioritized.
+[2026-05-27 09:13:44 UAE] Run complete. WA: 0 need_reply (API OFFLINE), 0 waiting. Gmail: 6 urgent (3 Alfred callbacks, 1 overdue client, 1 internal action, 1 policy docs), 8 action items (1 critical renewal). WhatsApp bridge at 72.60.199.15:8080 is DOWN — restart required.
+[2026-05-28 12:13 UAE] Run complete. WA: OFFLINE (API timeout). Gmail: 6 urgent client actions, 8 action items, 10 renewals tracked. Daily audit saved.
+[2026-05-28 16:10 UAE] Run complete. WA: OFFLINE (API refused connection). Gmail: 6 urgent, 7 action items. Renewals critical: Hirushi Shenaya (likely expired), Orhan Faour (3 days), Shiela Marie (6 days).
+[2026-05-28T12:00:00+04:00] Run complete. WA: OFFLINE (API unreachable), Gmail: 7 urgent, 5 action. Top priority: Hirushi policy expired, Mariamma Jose 25d unanswered, QIC revised quote Dinu.
+[2026-05-29T09:12:41 UAE] Run complete. WA: API_OFFLINE (connection refused — 0 chats retrieved). Gmail: 7 urgent, 8 action items, 9 info skipped.
+[2026-05-29 10:10 UAE] Run complete. WA: 0 need_reply (API OFFLINE), 0 waiting. Gmail: 3 urgent, 8 action_required.

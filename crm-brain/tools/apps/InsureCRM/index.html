@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>InsureCRM — Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --primary: #6366f1;
+    --primary-light: #818cf8;
+    --primary-dark: #4f46e5;
+    --primary-bg: #eef2ff;
+    --success: #10b981;
+    --success-bg: #ecfdf5;
+    --warning: #f59e0b;
+    --warning-bg: #fffbeb;
+    --danger: #ef4444;
+    --danger-bg: #fef2f2;
+    --info: #3b82f6;
+    --info-bg: #eff6ff;
+    --violet: #8b5cf6;
+    --violet-bg: #f5f3ff;
+
+    --sidebar-bg: #ffffff;
+    --sidebar-border: #e5e7eb;
+    --sidebar-text: #6b7280;
+    --sidebar-text-hover: #374151;
+    --sidebar-hover: #f3f4f6;
+    --sidebar-active-bg: #eef2ff;
+    --sidebar-active-text: #6366f1;
+    --sidebar-footer-border: #f3f4f6;
+
+    --header-bg: #ffffff;
+    --header-border: #e5e7eb;
+
+    --card-bg: #ffffff;
+    --card-border: #f3f4f6;
+    --card-shadow: 0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
+    --card-shadow-hover: 0 4px 6px -1px rgba(0,0,0,.07), 0 2px 4px -2px rgba(0,0,0,.05);
+
+    --bg-main: #f9fafb;
+    --bg-subtle: #f3f4f6;
+    --bg-inset: #f9fafb;
+
+    --text-primary: #111827;
+    --text-secondary: #4b5563;
+    --text-tertiary: #6b7280;
+    --text-muted: #9ca3af;
+    --text-placeholder: #d1d5db;
+
+    --border-light: #f3f4f6;
+    --border-main: #e5e7eb;
+
+    --input-bg: #f3f4f6;
+
+    --kpi-renewals-icon-bg: #eef2ff;
+    --kpi-renewals-icon-color: #6366f1;
+    --kpi-renewals-value: #6366f1;
+    --kpi-premiums-icon-bg: #ecfdf5;
+    --kpi-premiums-icon-color: #10b981;
+    --kpi-premiums-value: #10b981;
+    --kpi-commissions-icon-bg: #fffbeb;
+    --kpi-commissions-icon-color: #f59e0b;
+    --kpi-commissions-value: #f59e0b;
+    --kpi-target-icon-bg: #f5f3ff;
+    --kpi-target-icon-color: #8b5cf6;
+    --kpi-target-value: #8b5cf6;
+
+    --task-check-border: #d1d5db;
+    --task-check-bg: #6366f1;
+    --table-border: #f3f4f6;
+    --table-row-hover: #f9fafb;
+
+    --chart-bar-1: #6366f1;
+    --chart-bar-2: #10b981;
+    --chart-grid: #e5e7eb;
+
+    --contact-avatar-bg: #eef2ff;
+  }
+
+  [data-theme="dark"] {
+    --primary: #818cf8;
+    --primary-light: #a5b4fc;
+    --primary-dark: #6366f1;
+    --primary-bg: #1e1b4b;
+    --success: #34d399;
+    --success-bg: #064e3b;
+    --warning: #fbbf24;
+    --warning-bg: #451a03;
+    --danger: #f87171;
+    --danger-bg: #450a0a;
+    --info: #60a5fa;
+    --info-bg: #172554;
+    --violet: #a78bfa;
+    --violet-bg: #2e1065;
+
+    --sidebar-bg: #0f172a;
+    --sidebar-border: #1e293b;
+    --sidebar-text: #94a3b8;
+    --sidebar-text-hover: #e2e8f0;
+    --sidebar-hover: #1e293b;
+    --sidebar-active-bg: #1e1b4b;
+    --sidebar-active-text: #818cf8;
+    --sidebar-footer-border: #1e293b;
+
+    --header-bg: #0f172a;
+    --header-border: #1e293b;
+
+    --card-bg: #1e293b;
+    --card-border: #334155;
+    --card-shadow: 0 1px 3px rgba(0,0,0,.3), 0 1px 2px rgba(0,0,0,.2);
+    --card-shadow-hover: 0 4px 6px -1px rgba(0,0,0,.4), 0 2px 4px -2px rgba(0,0,0,.3);
+
+    --bg-main: #0b1121;
+    --bg-subtle: #1e293b;
+    --bg-inset: #0f172a;
+
+    --text-primary: #f1f5f9;
+    --text-secondary: #cbd5e1;
+    --text-tertiary: #94a3b8;
+    --text-muted: #64748b;
+    --text-placeholder: #475569;
+
+    --border-light: #1e293b;
+    --border-main: #334155;
+    --input-bg: #1e293b;
+
+    --kpi-renewals-icon-bg: #1e1b4b;
+    --kpi-renewals-icon-color: #818cf8;
+    --kpi-renewals-value: #818cf8;
+    --kpi-premiums-icon-bg: #064e3b;
+    --kpi-premiums-icon-color: #34d399;
+    --kpi-premiums-value: #34d399;
+    --kpi-commissions-icon-bg: #451a03;
+    --kpi-commissions-icon-color: #fbbf24;
+    --kpi-commissions-value: #fbbf24;
+    --kpi-target-icon-bg: #2e1065;
+    --kpi-target-icon-color: #a78bfa;
+    --kpi-target-value: #a78bfa;
+
+    --task-check-border: #475569;
+    --task-check-bg: #818cf8;
+    --table-border: #1e293b;
+    --table-row-hover: #0f172a;
+
+    --chart-bar-1: #818cf8;
+    --chart-bar-2: #34d399;
+    --chart-grid: #334155;
+
+    --contact-avatar-bg: #1e1b4b;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, system-ui, sans-serif;
+    background: var(--bg-main);
+    color: var(--text-primary);
+    display: flex;
+    min-height: 100vh;
+    line-height: 1.5;
+    transition: background .3s, color .3s;
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    width: 260px;
+    background: var(--sidebar-bg);
+    border-right: 1px solid var(--sidebar-border);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0; left: 0;
+    height: 100vh;
+    z-index: 100;
+    transition: background .3s, border-color .3s;
+  }
+  .sidebar-logo {
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--sidebar-border);
+  }
+  .sidebar-logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--primary), var(--primary-light));
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 800; font-size: 16px;
+  }
+  .sidebar-logo h1 { font-size: 18px; font-weight: 700; color: var(--text-primary); }
+  .sidebar-logo span { font-size: 11px; color: var(--text-muted); font-weight: 500; }
+  .sidebar-nav { padding: 16px 12px; flex: 1; overflow-y: auto; }
+  .sidebar-nav .section-label {
+    font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--text-muted);
+    padding: 12px 12px 6px;
+  }
+  .sidebar-nav a {
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 12px; border-radius: 8px;
+    color: var(--sidebar-text); font-size: 14px; font-weight: 500;
+    text-decoration: none; transition: all .2s; cursor: pointer;
+    margin-bottom: 2px;
+  }
+  .sidebar-nav a:hover { background: var(--sidebar-hover); color: var(--sidebar-text-hover); }
+  .sidebar-nav a.active {
+    background: var(--sidebar-active-bg); color: var(--sidebar-active-text); font-weight: 600;
+  }
+  .sidebar-nav a .icon { font-size: 18px; width: 22px; text-align: center; }
+  .sidebar-nav a .badge {
+    margin-left: auto; background: var(--bg-subtle); color: var(--text-tertiary);
+    font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 10px;
+  }
+  .sidebar-nav a.active .badge { background: var(--primary); color: #fff; }
+  .sidebar-footer {
+    padding: 16px 20px; border-top: 1px solid var(--sidebar-footer-border);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .sidebar-footer .avatar {
+    width: 36px; height: 36px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--primary), var(--info));
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 600; font-size: 14px;
+  }
+  .sidebar-footer .info { flex: 1; }
+  .sidebar-footer .name { font-size: 13px; font-weight: 600; color: var(--text-primary); }
+  .sidebar-footer .role { font-size: 11px; color: var(--text-muted); }
+
+  /* ── Main ── */
+  .main { margin-left: 260px; flex: 1; min-height: 100vh; }
+
+  /* ── Header ── */
+  .header {
+    height: 68px; background: var(--header-bg); border-bottom: 1px solid var(--header-border);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 32px; position: sticky; top: 0; z-index: 50;
+    transition: background .3s, border-color .3s;
+  }
+  .header-left { display: flex; align-items: center; gap: 16px; }
+  .header-left h2 { font-size: 20px; font-weight: 700; color: var(--text-primary); }
+  .header-left .date {
+    font-size: 13px; color: var(--text-muted);
+    background: var(--bg-subtle); padding: 4px 12px; border-radius: 20px;
+  }
+  .header-right { display: flex; align-items: center; gap: 12px; }
+  .header-right .search-box {
+    display: flex; align-items: center; background: var(--input-bg);
+    border-radius: 8px; padding: 0 12px; gap: 8px; transition: background .3s;
+  }
+  .header-right .search-box input {
+    border: none; background: transparent; padding: 8px 0; font-size: 13px;
+    outline: none; width: 200px; font-family: inherit; color: var(--text-primary);
+  }
+  .header-right .search-box input::placeholder { color: var(--text-placeholder); }
+  .header-right .icon-btn {
+    width: 38px; height: 38px; border-radius: 10px; border: none;
+    background: transparent; font-size: 18px; cursor: pointer;
+    transition: all .2s; display: flex; align-items: center;
+    justify-content: center; position: relative; color: var(--text-tertiary);
+  }
+  .header-right .icon-btn:hover { background: var(--bg-subtle); color: var(--text-primary); }
+  .header-right .icon-btn .dot {
+    position: absolute; top: 8px; right: 8px;
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--danger); border: 2px solid var(--header-bg);
+  }
+
+  /* ── Pages ── */
+  .page { display: none; }
+  .page.active { display: block; }
+
+  .content { padding: 28px 32px 40px; }
+
+  /* ── KPI Row ── */
+  .kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .kpi-card {
+    background: var(--card-bg); border-radius: 12px; padding: 20px 22px;
+    box-shadow: var(--card-shadow); border: 1px solid var(--card-border);
+    transition: all .2s, background .3s, border-color .3s;
+  }
+  .kpi-card:hover { box-shadow: var(--card-shadow-hover); transform: translateY(-2px); }
+  .kpi-card .kpi-top {
+    display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 8px;
+  }
+  .kpi-card .kpi-label { font-size: 12px; font-weight: 500; color: var(--text-tertiary); }
+  .kpi-card .kpi-icon {
+    width: 38px; height: 38px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center; font-size: 18px;
+  }
+  .kpi-card .kpi-value {
+    font-size: 28px; font-weight: 800; letter-spacing: -.03em; margin-bottom: 2px;
+  }
+  .kpi-card .kpi-sub { font-size: 12px; color: var(--text-muted); }
+  .kpi-card .kpi-change {
+    font-size: 12px; font-weight: 600; display: inline-flex; align-items: center; gap: 3px;
+  }
+  .kpi-card .kpi-change.up { color: var(--success); }
+  .kpi-card .kpi-change.down { color: var(--danger); }
+
+  .kpi-card.renewals .kpi-icon { background: var(--kpi-renewals-icon-bg); color: var(--kpi-renewals-icon-color); }
+  .kpi-card.renewals .kpi-value { color: var(--kpi-renewals-value); }
+  .kpi-card.premiums .kpi-icon { background: var(--kpi-premiums-icon-bg); color: var(--kpi-premiums-icon-color); }
+  .kpi-card.premiums .kpi-value { color: var(--kpi-premiums-value); }
+  .kpi-card.commissions .kpi-icon { background: var(--kpi-commissions-icon-bg); color: var(--kpi-commissions-icon-color); }
+  .kpi-card.commissions .kpi-value { color: var(--kpi-commissions-value); }
+  .kpi-card.target .kpi-icon { background: var(--kpi-target-icon-bg); color: var(--kpi-target-icon-color); }
+  .kpi-card.target .kpi-value { color: var(--kpi-target-value); }
+
+  .kpi-card .mini-progress {
+    margin-top: 8px; height: 4px; border-radius: 2px; background: var(--bg-subtle); overflow: hidden;
+  }
+  .kpi-card .mini-progress .fill {
+    height: 100%; border-radius: 2px; transition: width .6s ease;
+  }
+  .kpi-card .mini-progress .fill.green { background: var(--success); }
+  .kpi-card .mini-progress .fill.violet { background: var(--violet); }
+
+  /* ── Grid Layouts ── */
+  .grid-2col { display: grid; grid-template-columns: 1.3fr 1fr; gap: 20px; margin-bottom: 24px; }
+  .grid-3col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-bottom: 24px; }
+
+  /* ── Cards ── */
+  .card {
+    background: var(--card-bg); border-radius: 12px;
+    box-shadow: var(--card-shadow); border: 1px solid var(--card-border);
+    transition: background .3s, border-color .3s, box-shadow .3s;
+  }
+  .card-header {
+    padding: 18px 24px; border-bottom: 1px solid var(--card-border);
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .card-header h3 { font-size: 15px; font-weight: 600; color: var(--text-primary); }
+  .card-header .action {
+    font-size: 13px; color: var(--primary); font-weight: 500; cursor: pointer; text-decoration: none;
+  }
+  .card-header .action:hover { color: var(--primary-dark); }
+  .card-body { padding: 20px 24px; }
+
+  /* ── Target Progress ── */
+  .target-block + .target-block { margin-top: 18px; }
+  .target-label { display: flex; justify-content: space-between; margin-bottom: 6px; }
+  .target-label .name { font-size: 13px; font-weight: 600; color: var(--text-secondary); }
+  .target-label .nums { font-size: 13px; font-weight: 700; color: var(--text-primary); }
+  .target-label .nums .goal { color: var(--text-muted); font-weight: 500; }
+  .target-bar {
+    height: 10px; border-radius: 5px; background: var(--bg-subtle); overflow: hidden;
+  }
+  .target-bar .fill {
+    height: 100%; border-radius: 5px; transition: width .8s ease;
+    display: flex; align-items: center; justify-content: flex-end;
+    padding-right: 6px; font-size: 8px; font-weight: 700; color: #fff;
+  }
+  .target-bar .fill.premium-fill { background: linear-gradient(90deg, #10b981, #34d399); }
+  .target-bar .fill.comm-fill { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+  .target-note {
+    display: flex; justify-content: space-between; margin-top: 4px; font-size: 11px; color: var(--text-muted);
+  }
+
+  /* ── Monthly Chart ── */
+  .chart-wrap { padding-top: 8px; }
+  .chart-legend { display: flex; gap: 20px; margin-bottom: 16px; }
+  .chart-legend .leg { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-tertiary); }
+  .chart-legend .leg .sw { width: 12px; height: 12px; border-radius: 3px; }
+  .chart-grid { display: flex; align-items: flex-end; gap: 12px; height: 160px; padding: 0 4px; }
+  .chart-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; height: 100%; }
+  .chart-bars { flex: 1; display: flex; align-items: flex-end; gap: 4px; width: 100%; }
+  .chart-bars .bar {
+    flex: 1; border-radius: 3px 3px 0 0; min-height: 4px;
+    transition: height .6s ease, background .3s;
+  }
+  .chart-bars .bar.bar-premium { background: var(--chart-bar-1); }
+  .chart-bars .bar.bar-comm { background: var(--chart-bar-2); }
+  .chart-col .month-label { font-size: 10px; font-weight: 600; color: var(--text-muted); white-space: nowrap; }
+  .chart-col .bar-value {
+    font-size: 9px; font-weight: 600; color: var(--text-muted); opacity: 0;
+    transition: opacity .3s;
+  }
+  .chart-col:hover .bar-value { opacity: 1; }
+
+  /* ── Leads Overview ── */
+  .leads-summary { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+  .leads-stat {
+    text-align: center; padding: 14px; border-radius: 8px;
+    background: var(--bg-subtle); border: 1px solid var(--border-light);
+  }
+  .leads-stat .number { font-size: 24px; font-weight: 800; color: var(--text-primary); }
+  .leads-stat .label { font-size: 11px; color: var(--text-muted); font-weight: 500; }
+  .leads-stat.total .number { color: var(--primary); }
+  .leads-stat.active .number { color: var(--success); }
+
+  .pipeline-label { font-size: 13px; font-weight: 600; color: var(--text-secondary); margin-bottom: 10px; }
+  .pipeline-bar { display: flex; height: 8px; border-radius: 4px; overflow: hidden; margin-bottom: 14px; background: var(--bg-subtle); }
+  .pipeline-bar .seg.new { background: var(--info); }
+  .pipeline-bar .seg.contacted { background: var(--primary); }
+  .pipeline-bar .seg.qualified { background: var(--warning); }
+  .pipeline-bar .seg.proposal { background: var(--primary-light); }
+  .pipeline-bar .seg.closed { background: var(--success); }
+
+  .pipeline-stages { display: flex; flex-direction: column; gap: 6px; }
+  .pipeline-stage {
+    display: flex; align-items: center; gap: 10px; padding: 8px 12px;
+    border-radius: 8px; background: var(--bg-subtle); border: 1px solid var(--border-light);
+  }
+  .pipeline-stage .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .pipeline-stage .dot.new { background: var(--info); }
+  .pipeline-stage .dot.contacted { background: var(--primary); }
+  .pipeline-stage .dot.qualified { background: var(--warning); }
+  .pipeline-stage .dot.proposal { background: var(--primary-light); }
+  .pipeline-stage .dot.closed { background: var(--success); }
+  .pipeline-stage .stage-name { flex: 1; font-size: 13px; font-weight: 500; color: var(--text-secondary); }
+  .pipeline-stage .stage-count { font-size: 14px; font-weight: 700; color: var(--text-primary); }
+  .pipeline-stage .stage-pct { font-size: 11px; color: var(--text-muted); width: 36px; text-align: right; }
+
+  /* ── Tasks ── */
+  .task-list { list-style: none; }
+  .task-item {
+    display: flex; align-items: flex-start; gap: 12px; padding: 10px 0;
+    border-bottom: 1px solid var(--card-border);
+  }
+  .task-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .task-item:first-child { padding-top: 0; }
+  .task-item .checkbox {
+    width: 20px; height: 20px; border-radius: 6px; border: 2px solid var(--task-check-border);
+    flex-shrink: 0; cursor: pointer; margin-top: 2px;
+    transition: all .2s; display: flex; align-items: center; justify-content: center;
+  }
+  .task-item .checkbox:hover { border-color: var(--primary); }
+  .task-item .checkbox.checked { background: var(--task-check-bg); border-color: var(--task-check-bg); }
+  .task-item .checkbox.checked::after { content: '✓'; color: #fff; font-size: 12px; font-weight: 700; }
+  .task-item .task-content { flex: 1; }
+  .task-item .task-title { font-size: 14px; font-weight: 500; color: var(--text-primary); margin-bottom: 2px; }
+  .task-item .task-title.done { text-decoration: line-through; color: var(--text-muted); }
+  .task-item .task-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); }
+  .task-item .priority { font-size: 10px; font-weight: 600; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; }
+  .task-item .priority.high { background: var(--danger-bg); color: var(--danger); }
+  .task-item .priority.med { background: var(--warning-bg); color: var(--warning); }
+  .task-item .priority.low { background: var(--primary-bg); color: var(--primary); }
+
+  /* ── Activity ── */
+  .activity-list .item {
+    display: flex; align-items: flex-start; gap: 12px; padding: 10px 0;
+    border-bottom: 1px solid var(--card-border);
+  }
+  .activity-list .item:last-child { border-bottom: none; padding-bottom: 0; }
+  .activity-list .item:first-child { padding-top: 0; }
+  .activity-list .item .a-icon {
+    width: 34px; height: 34px; border-radius: 8px;
+    display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0;
+  }
+  .activity-list .item .a-icon.lead { background: var(--info-bg); }
+  .activity-list .item .a-icon.deal { background: var(--success-bg); }
+  .activity-list .item .a-icon.task { background: var(--warning-bg); }
+  .activity-list .item .a-text { flex: 1; font-size: 13px; color: var(--text-secondary); }
+  .activity-list .item .a-text strong { color: var(--text-primary); font-weight: 600; }
+  .activity-list .item .a-time { font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+
+  /* ── Client Table ── */
+  .client-table { width: 100%; border-collapse: collapse; }
+  .client-table th {
+    text-align: left; font-size: 11px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .05em;
+    color: var(--text-muted); padding: 8px 0 12px;
+    border-bottom: 1px solid var(--table-border);
+  }
+  .client-table td { padding: 10px 0; font-size: 13px; border-bottom: 1px solid var(--table-border); }
+  .client-table tr:last-child td { border-bottom: none; }
+  .client-table .client-name { font-weight: 600; color: var(--text-primary); }
+  .client-table .status {
+    font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; display: inline-block;
+  }
+  .client-table .status.active { background: var(--success-bg); color: var(--success); }
+  .client-table .status.pending { background: var(--warning-bg); color: var(--warning); }
+  .client-table .status.renewed { background: var(--primary-bg); color: var(--primary); }
+  .client-table .amount { font-weight: 600; color: var(--text-primary); }
+
+  /* ═══════════════════════════════════════
+     CONTACTS PAGE
+     ═══════════════════════════════════════ */
+  .contacts-toolbar {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 24px; gap: 16px; flex-wrap: wrap;
+  }
+  .contacts-toolbar .left { display: flex; align-items: center; gap: 12px; }
+  .contacts-toolbar .left h2 { font-size: 20px; font-weight: 700; color: var(--text-primary); }
+  .contacts-toolbar .left .count { font-size: 13px; color: var(--text-muted); }
+  .contacts-toolbar .right { display: flex; align-items: center; gap: 10px; }
+  .contacts-toolbar .right .filter-btn {
+    padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border-main);
+    background: var(--card-bg); font-size: 13px; color: var(--text-secondary);
+    cursor: pointer; font-family: inherit; font-weight: 500;
+    display: flex; align-items: center; gap: 6px; transition: all .2s;
+  }
+  .contacts-toolbar .right .filter-btn:hover { border-color: var(--primary); color: var(--primary); }
+  .contacts-toolbar .right .add-btn {
+    padding: 8px 18px; border-radius: 8px; border: none;
+    background: var(--primary); color: #fff; font-size: 13px;
+    font-weight: 600; cursor: pointer; font-family: inherit;
+    display: flex; align-items: center; gap: 6px; transition: all .2s;
+  }
+  .contacts-toolbar .right .add-btn:hover { background: var(--primary-dark); }
+
+  .contacts-grid {
+    display: grid; gap: 16px;
+  }
+
+  .contact-card {
+    background: var(--card-bg); border-radius: 12px;
+    border: 1px solid var(--card-border); overflow: hidden;
+    transition: all .2s, background .3s, border-color .3s;
+  }
+  .contact-card:hover { box-shadow: var(--card-shadow-hover); }
+  .contact-card .contact-head {
+    display: flex; align-items: center; gap: 16px;
+    padding: 18px 22px; cursor: pointer;
+    border-bottom: 1px solid transparent;
+  }
+  .contact-card.expanded .contact-head { border-bottom-color: var(--card-border); }
+  .contact-card .contact-avatar {
+    width: 44px; height: 44px; border-radius: 10px;
+    background: var(--contact-avatar-bg); color: var(--primary);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 16px; flex-shrink: 0;
+  }
+  .contact-card .contact-info { flex: 1; min-width: 0; }
+  .contact-card .contact-info .name { font-size: 15px; font-weight: 600; color: var(--text-primary); }
+  .contact-card .contact-info .sub {
+    font-size: 12px; color: var(--text-muted);
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  }
+  .contact-card .contact-info .sub span { display: flex; align-items: center; gap: 4px; }
+  .contact-card .contact-toggle {
+    width: 30px; height: 30px; border-radius: 8px; border: none;
+    background: transparent; color: var(--text-muted); font-size: 16px;
+    cursor: pointer; transition: all .2s; flex-shrink: 0;
+  }
+  .contact-card .contact-toggle:hover { background: var(--bg-subtle); }
+  .contact-card.expanded .contact-toggle { transform: rotate(180deg); }
+
+  .contact-card .contact-details {
+    display: none; padding: 0 22px 18px;
+  }
+  .contact-card.expanded .contact-details { display: block; }
+
+  .contact-details .detail-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+    margin-top: 12px;
+  }
+  .contact-details .detail-item { }
+  .contact-details .detail-item .lbl { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; }
+  .contact-details .detail-item .val { font-size: 13px; font-weight: 500; color: var(--text-primary); margin-top: 2px; word-break: break-all; }
+  .contact-details .policy-cards { margin-top: 14px; }
+  .contact-details .policy-cards .title { font-size: 12px; font-weight: 600; color: var(--text-muted); margin-bottom: 8px; }
+  .contact-details .policy-row {
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 14px; border-radius: 8px;
+    background: var(--bg-subtle); border: 1px solid var(--border-light);
+    margin-bottom: 6px; font-size: 13px;
+  }
+  .contact-details .policy-row .p-type { font-weight: 600; color: var(--text-primary); min-width: 70px; }
+  .contact-details .policy-row .p-detail { color: var(--text-tertiary); flex: 1; }
+  .contact-details .policy-row .p-premium { font-weight: 700; color: var(--text-primary); }
+  .contact-details .policy-row .p-status { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; }
+  .contact-details .policy-row .p-status.active { background: var(--success-bg); color: var(--success); }
+  .contact-details .policy-row .p-status.lapsed { background: var(--danger-bg); color: var(--danger); }
+
+  /* ── Responsive ── */
+  @media (max-width: 1200px) {
+    .kpi-row { grid-template-columns: repeat(2, 1fr); }
+    .grid-3col { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 992px) {
+    .grid-2col, .grid-3col { grid-template-columns: 1fr; }
+    .sidebar { display: none; }
+    .main { margin-left: 0; }
+    .contact-details .detail-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 640px) {
+    .kpi-row { grid-template-columns: 1fr; }
+    .content { padding: 20px 16px; }
+    .header { padding: 0 16px; }
+    .header-left .date { display: none; }
+    .header-right .search-box { display: none; }
+    .contacts-toolbar { flex-direction: column; align-items: stretch; }
+    .contacts-toolbar .right { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ─── Sidebar ─── -->
+<aside class="sidebar">
+  <div class="sidebar-logo">
+    <div class="sidebar-logo-icon">IC</div>
+    <div>
+      <h1>InsureCRM</h1>
+      <span>Insurance Agency</span>
+    </div>
+  </div>
+  <nav class="sidebar-nav">
+    <div class="section-label">Main</div>
+    <a class="active" onclick="switchPage('dashboard', this)">
+      <span class="icon">📊</span> Dashboard <span class="badge">6</span>
+    </a>
+    <a onclick="switchPage('contacts', this)">
+      <span class="icon">👥</span> Contacts <span class="badge">48</span>
+    </a>
+    <a href="#"><span class="icon">🔄</span> Renewals</a>
+    <a href="#"><span class="icon">📋</span> Policies</a>
+    <div class="section-label" style="margin-top:16px;">Management</div>
+    <a href="#"><span class="icon">💰</span> Premiums</a>
+    <a href="#"><span class="icon">🏆</span> Commissions</a>
+    <a href="#"><span class="icon">📝</span> Tasks <span class="badge">12</span></a>
+    <div class="section-label" style="margin-top:16px;">Settings</div>
+    <a href="#"><span class="icon">👤</span> Profile</a>
+    <a href="#"><span class="icon">⚙️</span> Settings</a>
+  </nav>
+  <div class="sidebar-footer">
+    <div class="avatar">JD</div>
+    <div class="info">
+      <div class="name">John Doe</div>
+      <div class="role">Insurance Agent</div>
+    </div>
+  </div>
+</aside>
+
+<!-- ─── Main ─── -->
+<div class="main">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <h2 id="pageTitle">Dashboard</h2>
+      <span class="date">June 2026</span>
+    </div>
+    <div class="header-right">
+      <div class="search-box">
+        <span>🔍</span>
+        <input type="text" placeholder="Search leads, policies..." id="globalSearch">
+      </div>
+      <button class="icon-btn theme-toggle" onclick="toggleTheme()" id="themeBtn" title="Toggle theme">🌙</button>
+      <button class="icon-btn">🔔 <span class="dot"></span></button>
+      <button class="icon-btn">⚡</button>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════
+       PAGE: DASHBOARD
+       ═══════════════════════════════════════ -->
+  <div class="page active" id="page-dashboard">
+    <div class="content">
+
+      <!-- KPI Row -->
+      <div class="kpi-row">
+        <div class="kpi-card renewals">
+          <div class="kpi-top">
+            <span class="kpi-label">Renewals This Month</span>
+            <div class="kpi-icon">🔄</div>
+          </div>
+          <div class="kpi-value">48</div>
+          <div class="kpi-sub">Renewal Premium: <strong>AED 32,400</strong></div>
+        </div>
+        <div class="kpi-card premiums">
+          <div class="kpi-top">
+            <span class="kpi-label">Total Premiums Collected</span>
+            <div class="kpi-icon">💰</div>
+          </div>
+          <div class="kpi-value">AED 84,250</div>
+          <div class="kpi-sub">of AED 200,000 target</div>
+          <div class="mini-progress"><div class="fill green" style="width:42%"></div></div>
+        </div>
+        <div class="kpi-card commissions">
+          <div class="kpi-top">
+            <span class="kpi-label">Commissions Earned</span>
+            <div class="kpi-icon">🏆</div>
+          </div>
+          <div class="kpi-value">AED 16,850</div>
+          <div class="kpi-sub">of AED 20,000 target</div>
+          <div class="mini-progress"><div class="fill violet" style="width:84%"></div></div>
+        </div>
+        <div class="kpi-card target">
+          <div class="kpi-top">
+            <span class="kpi-label">Office Target Progress</span>
+            <div class="kpi-icon">🎯</div>
+          </div>
+          <div class="kpi-value">42%</div>
+          <div class="kpi-sub">Premium + Commission combined</div>
+          <div class="mini-progress"><div class="fill" style="width:42%;background:linear-gradient(90deg,#6366f1,#8b5cf6)"></div></div>
+        </div>
+      </div>
+
+      <!-- Targets Detail + Monthly History -->
+      <div class="grid-2col">
+        <!-- Target Progress detail -->
+        <div class="card">
+          <div class="card-header">
+            <h3>🎯 Monthly Targets</h3>
+            <span class="action">Office Goal — June 2026</span>
+          </div>
+          <div class="card-body">
+            <div class="target-block">
+              <div class="target-label">
+                <span class="name">💰 Premiums</span>
+                <span class="nums">AED 84,250 <span class="goal">/ AED 200,000</span></span>
+              </div>
+              <div class="target-bar">
+                <div class="fill premium-fill" style="width:42%">42%</div>
+              </div>
+              <div class="target-note">
+                <span>Remaining: AED 115,750</span>
+                <span>On track ✓</span>
+              </div>
+            </div>
+            <div class="target-block">
+              <div class="target-label">
+                <span class="name">🏆 Commissions</span>
+                <span class="nums">AED 16,850 <span class="goal">/ AED 20,000</span></span>
+              </div>
+              <div class="target-bar">
+                <div class="fill comm-fill" style="width:84%">84%</div>
+              </div>
+              <div class="target-note">
+                <span>Remaining: AED 3,150</span>
+                <span>Almost there! 🔥</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Monthly History Chart -->
+        <div class="card">
+          <div class="card-header">
+            <h3>📈 Monthly History</h3>
+            <span class="action">Last 6 months</span>
+          </div>
+          <div class="card-body">
+            <div class="chart-legend">
+              <div class="leg"><span class="sw" style="background:var(--chart-bar-1)"></span> Premiums</div>
+              <div class="leg"><span class="sw" style="background:var(--chart-bar-2)"></span> Commissions</div>
+            </div>
+            <div class="chart-grid">
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:45%"></div>
+                  <div class="bar bar-comm" style="height:52%"></div>
+                </div>
+                <div class="bar-value">45k / 10k</div>
+                <div class="month-label">Jan</div>
+              </div>
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:52%"></div>
+                  <div class="bar bar-comm" style="height:48%"></div>
+                </div>
+                <div class="bar-value">52k / 9.5k</div>
+                <div class="month-label">Feb</div>
+              </div>
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:58%"></div>
+                  <div class="bar bar-comm" style="height:60%"></div>
+                </div>
+                <div class="bar-value">58k / 12k</div>
+                <div class="month-label">Mar</div>
+              </div>
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:63%"></div>
+                  <div class="bar bar-comm" style="height:68%"></div>
+                </div>
+                <div class="bar-value">63k / 13.5k</div>
+                <div class="month-label">Apr</div>
+              </div>
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:72%"></div>
+                  <div class="bar bar-comm" style="height:74%"></div>
+                </div>
+                <div class="bar-value">72k / 14.8k</div>
+                <div class="month-label">May</div>
+              </div>
+              <div class="chart-col">
+                <div class="chart-bars">
+                  <div class="bar bar-premium" style="height:42%"></div>
+                  <div class="bar bar-comm" style="height:84%"></div>
+                </div>
+                <div class="bar-value">84k / 16.8k</div>
+                <div class="month-label">Jun</div>
+              </div>
+            </div>
+            <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--card-border);display:flex;justify-content:space-between;font-size:12px;color:var(--text-muted)">
+              <span>AED values in thousands</span>
+              <span style="font-weight:600;color:var(--text-secondary)">↑ Trending up 📈</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Leads Pipeline + Tasks -->
+      <div class="grid-2col">
+        <div class="card">
+          <div class="card-header">
+            <h3>📌 Lead Pipeline</h3>
+            <a href="#" class="action">View All →</a>
+          </div>
+          <div class="card-body">
+            <div class="leads-summary">
+              <div class="leads-stat total"><div class="number">284</div><div class="label">Total Leads</div></div>
+              <div class="leads-stat active"><div class="number">196</div><div class="label">Active Leads</div></div>
+            </div>
+            <div class="pipeline-label">Lead Stages</div>
+            <div class="pipeline-bar">
+              <div class="seg new" style="width:22%"></div>
+              <div class="seg contacted" style="width:28%"></div>
+              <div class="seg qualified" style="width:18%"></div>
+              <div class="seg proposal" style="width:20%"></div>
+              <div class="seg closed" style="width:12%"></div>
+            </div>
+            <div class="pipeline-stages">
+              <div class="pipeline-stage"><span class="dot new"></span><span class="stage-name">🆕 New Leads</span><span class="stage-count">62</span><span class="stage-pct">22%</span></div>
+              <div class="pipeline-stage"><span class="dot contacted"></span><span class="stage-name">📞 Contacted</span><span class="stage-count">80</span><span class="stage-pct">28%</span></div>
+              <div class="pipeline-stage"><span class="dot qualified"></span><span class="stage-name">⭐ Qualified</span><span class="stage-count">51</span><span class="stage-pct">18%</span></div>
+              <div class="pipeline-stage"><span class="dot proposal"></span><span class="stage-name">📄 Proposal Sent</span><span class="stage-count">57</span><span class="stage-pct">20%</span></div>
+              <div class="pipeline-stage"><span class="dot closed"></span><span class="stage-name">✅ Closed-Won</span><span class="stage-count">34</span><span class="stage-pct">12%</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h3>📋 Pending Tasks</h3>
+            <a href="#" class="action">+ Add Task</a>
+          </div>
+          <div class="card-body">
+            <ul class="task-list">
+              <li class="task-item">
+                <div class="checkbox"></div>
+                <div class="task-content">
+                  <div class="task-title">Call Sarah about auto policy renewal</div>
+                  <div class="task-meta"><span>📅 Today, 2:00 PM</span><span class="priority high">High</span></div>
+                </div>
+              </li>
+              <li class="task-item">
+                <div class="checkbox"></div>
+                <div class="task-content">
+                  <div class="task-title">Send proposal to Johnson Family (Life Insurance)</div>
+                  <div class="task-meta"><span>📅 Tomorrow</span><span class="priority high">High</span></div>
+                </div>
+              </li>
+              <li class="task-item">
+                <div class="checkbox"></div>
+                <div class="task-content">
+                  <div class="task-title">Review Q2 premium reports</div>
+                  <div class="task-meta"><span>📅 Jun 5, 2026</span><span class="priority med">Med</span></div>
+                </div>
+              </li>
+              <li class="task-item">
+                <div class="checkbox checked"></div>
+                <div class="task-content">
+                  <div class="task-title done">Follow up with Mark on homeowner's claim</div>
+                  <div class="task-meta"><span>✅ Completed</span></div>
+                </div>
+              </li>
+              <li class="task-item">
+                <div class="checkbox"></div>
+                <div class="task-content">
+                  <div class="task-title">Update commission spreadsheet for May</div>
+                  <div class="task-meta"><span>📅 Jun 7, 2026</span><span class="priority low">Low</span></div>
+                </div>
+              </li>
+              <li class="task-item">
+                <div class="checkbox"></div>
+                <div class="task-content">
+                  <div class="task-title">Prepare renewal notices for Q3 batch</div>
+                  <div class="task-meta"><span>📅 Jun 10, 2026</span><span class="priority med">Med</span></div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Activity + Recent Clients -->
+      <div class="grid-2col">
+        <div class="card">
+          <div class="card-header"><h3>⚡ Recent Activity</h3><a href="#" class="action">View All →</a></div>
+          <div class="card-body activity-list">
+            <div class="item"><div class="a-icon lead">📞</div><div class="a-text"><strong>Robert Chen</strong> moved to <strong>Contacted</strong> stage</div><span class="a-time">12 min ago</span></div>
+            <div class="item"><div class="a-icon deal">💰</div><div class="a-text"><strong>AED 2,400</strong> premium collected — <strong>Maria Santos</strong></div><span class="a-time">34 min ago</span></div>
+            <div class="item"><div class="a-icon deal">✅</div><div class="a-text"><strong>David Kim</strong> — Policy renewed (Auto + Home) — <strong>AED 1,850</strong></div><span class="a-time">1 hr ago</span></div>
+            <div class="item"><div class="a-icon task">📄</div><div class="a-text"><strong>Proposal</strong> sent to Thompson &amp; Associates</div><span class="a-time">2 hr ago</span></div>
+            <div class="item"><div class="a-icon lead">🆕</div><div class="a-text"><strong>3 new leads</strong> added from website referral</div><span class="a-time">3 hr ago</span></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header"><h3>👥 Recent Clients</h3><a href="#" class="action">View All →</a></div>
+          <div class="card-body">
+            <table class="client-table">
+              <thead><tr><th>Client</th><th>Policy</th><th>Status</th><th>Premium</th></tr></thead>
+              <tbody>
+                <tr><td class="client-name">Maria Santos</td><td>Auto</td><td><span class="status active">Active</span></td><td class="amount">AED 1,200</td></tr>
+                <tr><td class="client-name">James Wilson</td><td>Home</td><td><span class="status renewed">Renewed</span></td><td class="amount">AED 850</td></tr>
+                <tr><td class="client-name">Emily Park</td><td>Life</td><td><span class="status pending">Pending</span></td><td class="amount">AED 2,400</td></tr>
+                <tr><td class="client-name">Robert Chen</td><td>Auto + Home</td><td><span class="status active">Active</span></td><td class="amount">AED 1,850</td></tr>
+                <tr><td class="client-name">Linda Thompson</td><td>Health</td><td><span class="status renewed">Renewed</span></td><td class="amount">AED 3,200</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════
+       PAGE: CONTACTS
+       ═══════════════════════════════════════ -->
+  <div class="page" id="page-contacts">
+    <div class="content">
+
+      <div class="contacts-toolbar">
+        <div class="left">
+          <h2>Contacts</h2>
+          <span class="count">48 clients</span>
+        </div>
+        <div class="right">
+          <button class="filter-btn">🏷️ All Clients</button>
+          <button class="filter-btn">⬇️ Export</button>
+          <button class="add-btn">+ Add Contact</button>
+        </div>
+      </div>
+
+      <div class="contacts-grid">
+
+        <!-- Contact 1 -->
+        <div class="contact-card">
+          <div class="contact-head" onclick="toggleContact(this)">
+            <div class="contact-avatar">MS</div>
+            <div class="contact-info">
+              <div class="name">Maria Santos</div>
+              <div class="sub">
+                <span>📧 maria.santos@email.com</span>
+                <span>📞 +971 50 123 4567</span>
+                <span>📍 Dubai, UAE</span>
+              </div>
+            </div>
+            <button class="contact-toggle">▼</button>
+          </div>
+          <div class="contact-details">
+            <div class="detail-grid">
+              <div class="detail-item"><div class="lbl">Date of Birth</div><div class="val">15 Mar 1985</div></div>
+              <div class="detail-item"><div class="lbl">Nationality</div><div class="val">Filipino</div></div>
+              <div class="detail-item"><div class="lbl">Occupation</div><div class="val">Engineer</div></div>
+              <div class="detail-item"><div class="lbl">Client Since</div><div class="val">Jan 2023</div></div>
+              <div class="detail-item"><div class="lbl">Last Contact</div><div class="val">2 days ago</div></div>
+              <div class="detail-item"><div class="lbl">Total Premium</div><div class="val">AED 5,400</div></div>
+            </div>
+            <div class="policy-cards">
+              <div class="title">📋 Policies</div>
+              <div class="policy-row">
+                <span class="p-type">🚗 Auto</span>
+                <span class="p-detail">Policy #A-2024-0382 · Comprehensive · Valid until Dec 2026</span>
+                <span class="p-premium">AED 1,200/yr</span>
+                <span class="p-status active">Active</span>
+              </div>
+              <div class="policy-row">
+                <span class="p-type">🏠 Home</span>
+                <span class="p-detail">Policy #H-2024-0711 · Building + Contents · Valid until Mar 2027</span>
+                <span class="p-premium">AED 2,800/yr</span>
+                <span class="p-status active">Active</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact 2 -->
+        <div class="contact-card">
+          <div class="contact-head" onclick="toggleContact(this)">
+            <div class="contact-avatar">JW</div>
+            <div class="contact-info">
+              <div class="name">James Wilson</div>
+              <div class="sub">
+                <span>📧 j.wilson@outlook.com</span>
+                <span>📞 +971 55 987 6543</span>
+                <span>📍 Abu Dhabi, UAE</span>
+              </div>
+            </div>
+            <button class="contact-toggle">▼</button>
+          </div>
+          <div class="contact-details">
+            <div class="detail-grid">
+              <div class="detail-item"><div class="lbl">Date of Birth</div><div class="val">22 Nov 1978</div></div>
+              <div class="detail-item"><div class="lbl">Nationality</div><div class="val">British</div></div>
+              <div class="detail-item"><div class="lbl">Occupation</div><div class="val">Consultant</div></div>
+              <div class="detail-item"><div class="lbl">Client Since</div><div class="val">Mar 2022</div></div>
+              <div class="detail-item"><div class="lbl">Last Contact</div><div class="val">1 week ago</div></div>
+              <div class="detail-item"><div class="lbl">Total Premium</div><div class="val">AED 3,400</div></div>
+            </div>
+            <div class="policy-cards">
+              <div class="title">📋 Policies</div>
+              <div class="policy-row">
+                <span class="p-type">🏠 Home</span>
+                <span class="p-detail">Policy #H-2022-0145 · Building Only · Valid until Aug 2026</span>
+                <span class="p-premium">AED 850/yr</span>
+                <span class="p-status renewed">Renewed</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact 3 -->
+        <div class="contact-card">
+          <div class="contact-head" onclick="toggleContact(this)">
+            <div class="contact-avatar">EP</div>
+            <div class="contact-info">
+              <div class="name">Emily Park</div>
+              <div class="sub">
+                <span>📧 emily.park@gmail.com</span>
+                <span>📞 +971 52 345 6789</span>
+                <span>📍 Sharjah, UAE</span>
+              </div>
+            </div>
+            <button class="contact-toggle">▼</button>
+          </div>
+          <div class="contact-details">
+            <div class="detail-grid">
+              <div class="detail-item"><div class="lbl">Date of Birth</div><div class="val">03 Jun 1990</div></div>
+              <div class="detail-item"><div class="lbl">Nationality</div><div class="val">South Korean</div></div>
+              <div class="detail-item"><div class="lbl">Occupation</div><div class="val">Teacher</div></div>
+              <div class="detail-item"><div class="lbl">Client Since</div><div class="val">Sep 2024</div></div>
+              <div class="detail-item"><div class="lbl">Last Contact</div><div class="val">3 days ago</div></div>
+              <div class="detail-item"><div class="lbl">Total Premium</div><div class="val">AED 2,400</div></div>
+            </div>
+            <div class="policy-cards">
+              <div class="title">📋 Policies</div>
+              <div class="policy-row">
+                <span class="p-type">❤️ Life</span>
+                <span class="p-detail">Policy #L-2024-0512 · Term Life 20yr · Valid until Sep 2044</span>
+                <span class="p-premium">AED 2,400/yr</span>
+                <span class="p-status pending">Pending</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact 4 -->
+        <div class="contact-card">
+          <div class="contact-head" onclick="toggleContact(this)">
+            <div class="contact-avatar">RC</div>
+            <div class="contact-info">
+              <div class="name">Robert Chen</div>
+              <div class="sub">
+                <span>📧 robert.chen@hotmail.com</span>
+                <span>📞 +971 54 876 5432</span>
+                <span>📍 Dubai, UAE</span>
+              </div>
+            </div>
+            <button class="contact-toggle">▼</button>
+          </div>
+          <div class="contact-details">
+            <div class="detail-grid">
+              <div class="detail-item"><div class="lbl">Date of Birth</div><div class="val">18 Sep 1982</div></div>
+              <div class="detail-item"><div class="lbl">Nationality</div><div class="val">Chinese</div></div>
+              <div class="detail-item"><div class="lbl">Occupation</div><div class="val">Business Owner</div></div>
+              <div class="detail-item"><div class="lbl">Client Since</div><div class="val">Jan 2024</div></div>
+              <div class="detail-item"><div class="lbl">Last Contact</div><div class="val">Today</div></div>
+              <div class="detail-item"><div class="lbl">Total Premium</div><div class="val">AED 3,700</div></div>
+            </div>
+            <div class="policy-cards">
+              <div class="title">📋 Policies</div>
+              <div class="policy-row">
+                <span class="p-type">🚗 Auto</span>
+                <span class="p-detail">Policy #A-2024-0551 · Comprehensive · Valid until Mar 2027</span>
+                <span class="p-premium">AED 1,850/yr</span>
+                <span class="p-status active">Active</span>
+              </div>
+              <div class="policy-row">
+                <span class="p-type">🏠 Home</span>
+                <span class="p-detail">Policy #H-2025-0023 · Building + Contents · Valid until Jun 2027</span>
+                <span class="p-premium">AED 1,850/yr</span>
+                <span class="p-status active">Active</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact 5 -->
+        <div class="contact-card">
+          <div class="contact-head" onclick="toggleContact(this)">
+            <div class="contact-avatar">LT</div>
+            <div class="contact-info">
+              <div class="name">Linda Thompson</div>
+              <div class="sub">
+                <span>📧 linda.t@company.com</span>
+                <span>📞 +971 58 112 2334</span>
+                <span>📍 Dubai, UAE</span>
+              </div>
+            </div>
+            <button class="contact-toggle">▼</button>
+          </div>
+          <div class="contact-details">
+            <div class="detail-grid">
+              <div class="detail-item"><div class="lbl">Date of Birth</div><div class="val">27 Dec 1975</div></div>
+              <div class="detail-item"><div class="lbl">Nationality</div><div class="val">American</div></div>
+              <div class="detail-item"><div class="lbl">Occupation</div><div class="val">Executive Director</div></div>
+              <div class="detail-item"><div class="lbl">Client Since</div><div class="val">Jun 2021</div></div>
+              <div class="detail-item"><div class="lbl">Last Contact</div><div class="val">5 days ago</div></div>
+              <div class="detail-item"><div class="lbl">Total Premium</div><div class="val">AED 9,600</div></div>
+            </div>
+            <div class="policy-cards">
+              <div class="title">📋 Policies</div>
+              <div class="policy-row">
+                <span class="p-type">❤️ Life</span>
+                <span class="p-detail">Policy #L-2021-0037 · Whole Life · Valid until Dec 2041</span>
+                <span class="p-premium">AED 3,200/yr</span>
+                <span class="p-status renewed">Renewed</span>
+              </div>
+              <div class="policy-row">
+                <span class="p-type">🏥 Health</span>
+                <span class="p-detail">Policy #H-2023-0188 · Family Plan · Valid until Nov 2026</span>
+                <span class="p-premium">AED 6,400/yr</span>
+                <span class="p-status active">Active</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  // ─── Theme ───
+  function toggleTheme() {
+    const html = document.documentElement;
+    const btn = document.getElementById('themeBtn');
+    if (html.getAttribute('data-theme') === 'dark') {
+      html.removeAttribute('data-theme');
+      btn.textContent = '🌙';
+      localStorage.setItem('crm-theme', 'light');
+    } else {
+      html.setAttribute('data-theme', 'dark');
+      btn.textContent = '☀️';
+      localStorage.setItem('crm-theme', 'dark');
+    }
+  }
+  (function initTheme() {
+    const saved = localStorage.getItem('crm-theme');
+    const btn = document.getElementById('themeBtn');
+    if (saved === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      if (btn) btn.textContent = '☀️';
+    } else {
+      if (btn) btn.textContent = '🌙';
+    }
+  })();
+
+  // ─── Page Switching ───
+  function switchPage(name, el) {
+    // Hide all pages
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    // Show target
+    document.getElementById('page-' + name).classList.add('active');
+    // Update sidebar active state
+    document.querySelectorAll('.sidebar-nav a').forEach(a => a.classList.remove('active'));
+    if (el) el.classList.add('active');
+    // Update header title
+    const titles = { dashboard: 'Dashboard', contacts: 'Contacts' };
+    document.getElementById('pageTitle').textContent = titles[name] || name;
+  }
+
+  // ─── Contact Accordion ───
+  function toggleContact(head) {
+    const card = head.closest('.contact-card');
+    card.classList.toggle('expanded');
+  }
+</script>
+
+</body>
+</html>

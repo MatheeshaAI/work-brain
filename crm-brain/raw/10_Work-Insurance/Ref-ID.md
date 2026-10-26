@@ -1,0 +1,702 @@
+ Ref-ID
+HEA-PRYA6SGP
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    07-Feb-2026 13:27:34
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:40:53
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Entry level
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    Bimala
+LAST NAME
+    Lo
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971508009820
+EMAIL
+    melwynster@gmail.com
+NATIONALITY
+    Nepalese
+DATE OF BIRTH
+    27-07-1975
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Female-Married
+MARITAL STATUS
+SALARY BAND
+    AED 4000 and below
+MEMBER CATEGORY
+    Employee with salary AED 4000 and below
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+Bimala Lo	
+No
+	Female-Married	27-07-1975		Nepalese	Dubai	Employee with salary AED 4000 and below
+------------------------------------------------------------------
+
+ Ref-ID
+HEA-TCWG4DVG
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    07-Feb-2026 12:16:46
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:42:44
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    MOBILE
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Family
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Entry level
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    Khaled
+LAST NAME
+    Mansour
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971588045696
+EMAIL
+    medo_mansourr@yahoo.com
+NATIONALITY
+    Egyptian
+DATE OF BIRTH
+    03-10-1999
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Fujairah
+GENDER
+    Female-Married
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Dependent spouse
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+Rania Mekaway	
+No
+	Female-Married	03-10-1999		Egyptian	Fujairah	Dependent spouse	
+Noah Mansour	
+No
+	Male	26-01-2026		Egyptian	Fujairah	Dependent child
+
+---------------------------------------------------
+ Ref-ID
+HEA-8UU9CPGB
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    07-Feb-2026 12:33:43
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    07-Feb-2026 12:34:47
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Good
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    Nikolija
+LAST NAME
+    Lukovic
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971529030282
+EMAIL
+    andrearajsic@gmail.com
+NATIONALITY
+    Serbian
+DATE OF BIRTH
+    23-10-2024
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Female-Single
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Dependent child
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+Nikolija Lukovic	
+No
+	Female-Single	23-10-2024		Serbian	Dubai	Dependent child
+
+-------------------------------------------------
+
+ Ref-ID
+HEA-8R7RK6Z7
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    06-Feb-2026 11:17:38
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:44:04
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Good
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    ella
+LAST NAME
+    akaoui
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971522066203
+EMAIL
+    mohamadakkawi00@gmail.com
+NATIONALITY
+    Lebanese
+DATE OF BIRTH
+    02-02-2026
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Ajman
+GENDER
+    Female-Single
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Dependent child
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+ella akaoui	
+No
+	Female-Single	02-02-2026		Lebanese	Ajman	Dependent child	
+_--------------------------------------------------------------
+
+ Ref-ID
+HEA-NJ2GKR2X
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    23-Jan-2026 00:32:09
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/insurance-companies/qatar-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    07-Feb-2026 13:18:40
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Entry level
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    5
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    TRAN
+LAST NAME
+    CHI
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971543541996
+EMAIL
+    dumpadapo@gmail.com
+NATIONALITY
+    Vietnamese
+DATE OF BIRTH
+    18-03-2025
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Male
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Dependent child
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+TRAN CHI	
+No
+	Male	18-03-2025		Vietnamese	Dubai	Dependent child	
+
+
+------------------------------------------------
+
+ Ref-ID
+HEA-TMQRYYBW
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    07-Feb-2026 11:24:22
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance-quotes/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:46:21
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Good
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    muhammad
+LAST NAME
+    alam
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +971566267000
+EMAIL
+    alam@xsite.ae
+NATIONALITY
+    Pakistani
+DATE OF BIRTH
+    10-11-1993
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Male
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Self-employed or Freelancer
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+muhammad alam	
+No
+	Male	10-11-1993		Pakistani	Dubai	Self-employed or Freelancer
+
+---------------------------------------------
+ Ref-ID
+HEA-WFQ88EPH
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    06-Feb-2026 19:26:33
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:46:54
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Entry level
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    1
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    FathimathulNihala
+LAST NAME
+    Nisar
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +970567892459
+EMAIL
+    nihala.nizar9503@gmail.com
+NATIONALITY
+    Indian
+DATE OF BIRTH
+    22-03-1995
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Female-Married
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Employee with salary above AED 4000
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+FathimathulNihala Nisar	
+No
+	Female-Married	22-03-1995		Indian	Dubai	Employee with salary above AED 4000
+-------------------------------------------------------
+
+ Ref-ID
+HEA-CV4F6G8V
+CUSTOMER TYPE
+    Individual
+IM AML STATUS
+    AML Pending
+INSURER AML STATUS
+    N/A
+CREATED DATE
+    06-Feb-2026 10:34:26
+SUBTEAM
+    Good
+ADVISOR
+    Matheesha Sarathchandra
+OE/AE
+SOURCE
+    https://insurancemarket.ae/health-insurance/
+IMCRM SUB-SOURCE
+N/A
+SUB SOURCE OPTION
+N/A
+LAST MODIFIED DATE
+    08-Feb-2026 12:47:51
+PARENT REF-ID
+IS ECOMMERCE
+    Yes
+IS EBP RENEWAL
+    No
+LOST REASON
+DEVICE
+    DESKTOP
+
+Quote Details
+
+FOR WHOM DO YOU REQUIRE HEALTH INSURANCE?
+    Individual
+CURRENTLY INSURED WITH
+TYPE OF PLAN
+    Good
+NEXT FOLLOWUP DATE
+    -
+DETAILS
+TRANSACTION APPROVED AT
+ENQUIRY COUNT
+    2
+ADDITIONAL NOTES
+
+Customer Profile
+KYC - Pending
+
+FIRST NAME
+    RodrigoAndres
+LAST NAME
+    DeMingoLozano
+INSURED FIRST NAME
+INSURED LAST NAME
+MOBILE NUMBER
+    +919910114045
+EMAIL
+    aarti@aalcompany.com
+NATIONALITY
+    Spanish
+DATE OF BIRTH
+    23-10-1978
+RECEIVE MARKETING UPDATES
+    Yes
+EMIRATES ID NUMBER
+EMIRATES ID EXPIRY DATE
+EMIRATE OF VISA
+    Dubai
+GENDER
+    Male
+MARITAL STATUS
+SALARY BAND
+    More than AED 4000
+MEMBER CATEGORY
+    Employee with salary above AED 4000
+PRIVATE CLIENT
+    No
+RISK CATEGORY
+    Pending for review
+
+RodrigoAndres DeMingoLozano	
+No
+	Male	23-10-1978		Spanish	Dubai	Employee with salary above AED 4000
+
+---------------------------------------

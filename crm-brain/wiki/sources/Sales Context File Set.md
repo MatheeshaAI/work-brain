@@ -1,0 +1,36 @@
+---
+type: source
+sources: ["raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/INDEX.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/browser-profile.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/tools-to-use.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/imcrm.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/whatsapp.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/lead-handling-rules.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/message-style.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/business-goals.md", "raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/do-not-do.md"]
+updated: 2026-10-22
+tags: [sales, context, rules, workspace]
+summary: "Eight short context notes that make the Sales workspace usable by an agent: browser profile, tools, CRM and WhatsApp knowledge, lead rules, message style, targets, safety limits."
+---
+# Source: Sales Context File Set
+
+Original notes: the eight files in `raw/20_AI-and-Agents/My-Shared-Brain/workspaces/Sales/Context/` (`INDEX.md`, `browser-profile.md`, `tools-to-use.md`, `imcrm.md`, `whatsapp.md`, `lead-handling-rules.md`, `message-style.md`, `business-goals.md`, `do-not-do.md`). This is the working context for [[Sales]] inside [[My Shared Brain]], and the only context folder in the tree that is actually populated.
+
+## The index
+- States the folder's job: "stable reference context for sales work", part of the broader Sales Index and Company Index domains.
+- **Files list:** browser-profile, tools-to-use, imcrm, whatsapp, lead-handling-rules, message-style, business-goals, do-not-do.
+- **What belongs here:** stable working rules, tool choices, CRM knowledge, communication preferences, lead handling rules.
+- **What does not belong here:** raw lead exports, monthly lead tables, temporary scraped output, daily follow-up lists - those go to `../Leads/` and `../Workflows/`.
+
+## The eight notes
+| File | Content |
+|---|---|
+| `browser-profile.md` | Use the profile already logged into IMCRM, WhatsApp Business and Gmail. Prefer a fresh controlled tab for automation; existing tabs may be visible but controlled tabs are safer. For IMCRM work open a controllable tab before extracting; for WhatsApp open a controllable WhatsApp Web tab before reading chats. Never mix personal and work profiles. The harness can see other tabs in the same profile but only safely controls tabs it opened itself; if the wrong profile is open, switch first. |
+| `tools-to-use.md` | Preferred tools: `browser_snapshot` (page structure), `browser_execute_js` (tables, values, chat previews, embedded data), `browser_click` (by snapshot coordinates), `browser_type`, `browser_press_key`, `browser_network_requests`. Rules: snapshot first, extract with JS not screenshots, use screenshots only for visual verification, prefer page data for paginated CRM tables, save repeated-task scripts to `../Workflows/Scripts/`. Use cases: IMCRM lead extraction via `browser_execute_js`; WhatsApp unread lists via snapshot + JS; CRM navigation via click + type. |
+| `imcrm.md` | IMCRM is the main CRM for lead and quote work. Known pages: Health List at `/quotes/health?...`. Patterns: the list is paginated and the data is embedded in the page's `data-page` JSON, so all pages can be extracted without clicking through; lead detail pages sit at `/quotes/health/<UUID>` and carry fields the list does not show (mobile, email). Useful fields: Ref ID, first and last name, mobile, email, emirate, lead status, created and last-modified dates, team, premium, insurer. Recorded workflow: open the filtered list, confirm filters, read `data-page`, follow `next_page_url` to the end, fetch each detail page for contact fields, save into `../Leads/`. |
+| `whatsapp.md` | WhatsApp Business is used from the work profile for follow-up support. Allowed: list unread chats, summarise unread previews, open a controllable WhatsApp Web tab, draft next actions from chat content. Rules: do not send unless explicitly instructed; reading previews is fine for summaries; open the chat only when exact context is needed; keep work and personal chats separate. Patterns: unread chats can be filtered from the chat list, and a preview summary often avoids opening every conversation. |
+| `lead-handling-rules.md` | Priority order: New Lead, Quoted, Application Pending, Qualified, Followed Up but stale, Lost. Hot-lead signals: asking for a payment link, asking for final confirmation, asking for hospital or network confirmation, asking for an urgent update, large premium case, ready-to-buy language. Suggested handling per status and escalation rules (big premium plus clear intent, any client waiting on your confirmation = high priority; old stale low-intent leads = lower priority unless strategic). See [[Lead prioritization]]. |
+| `message-style.md` | Tone: concise, direct, professional, helpful without fluff. Replies move the client to the next step, stay easy to read, use simple language, avoid long paragraphs unless needed. Preferred next steps: confirm documents, confirm quote, schedule a call, send a payment link, ask one clear closing question. Avoid overexplaining, vague follow-ups, passive wording and overly formal corporate tone. See [[Client message style]]. |
+| `business-goals.md` | Monthly sales target 200,000 AED; revenue target 25,000 AED. Focus: faster follow-up, better conversion from active leads, moving qualified leads toward quote, confirmation and payment, protecting time by prioritising high-intent opportunities. Prioritisation lens: urgency, premium size, likelihood to convert, stage in pipeline. See [[Business Goals]]. |
+| `do-not-do.md` | Do not send WhatsApp messages unless explicitly instructed; do not edit CRM data unless asked; do not use the wrong browser profile for sales work; do not mix personal and work chats without care; do not store credentials or sensitive secrets in notes; do not rely on screenshots for data extraction when page data is available; do not save temporary exports in `Context/`. See [[Automation guardrails]]. |
+
+## Status and caveats
+- This folder is what the empty `context/sales/` domain was supposed to hold. The same material exists in two places, and only the workspace copy is written - see [[Context Routing Index and Domain Folders]] and [[Context routing]].
+- The notes are deliberately short - roughly 9 to 43 lines each - and written as rules rather than prose. That is the point: the agent reads only what it needs.
+- `business-goals.md` mixes two different units under one heading, "Monthly sales target" and "Revenue target". As written they are ambiguous - a monthly sales target of 200,000 AED against a revenue target of 25,000 AED could be annual, or a second business, or a typo. Flagged rather than resolved.
+- The targets are undated; nothing records when they were set or whether they still hold.
+
+Related: [[My Shared Brain]], [[Sales]], [[Business Goals]], [[Lead prioritization]], [[Client message style]], [[Automation guardrails]], [[Work browser profile]], [[Page data over screenshots]], [[Extract IMCRM Health Leads Workflow]], [[IMCRM Health Leads May 2026]], [[Transcribe Media Workflow]].

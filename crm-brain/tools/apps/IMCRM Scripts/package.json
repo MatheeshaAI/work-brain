@@ -1,0 +1,33 @@
+{
+  "name": "health-insurance-whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp integration with Baileys and SQLite for health insurance CRM",
+  "main": "wa-sync.js",
+  "type": "commonjs",
+  "scripts": {
+    "sync:start": "node wa-sync.js start",
+    "sync:stop": "node wa-sync.js stop",
+    "sync:status": "node wa-sync.js status",
+    "send": "node wa-send.js",
+    "search": "node wa-search.js",
+    "export": "node wa-export.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "crm",
+    "insurance"
+  ],
+  "author": "Matheesha Sarathchandra",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "baileys": "^6.7.18",
+    "dotenv": "^17.4.2",
+    "pino": "^8.0.0",
+    "playwright": "^1.59.1",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.0"
+  }
+}
