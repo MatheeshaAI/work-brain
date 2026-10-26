@@ -48,7 +48,7 @@ Never put passwords, keys or personal-life topics in a note.
 | Claude Code | `~/.claude/CLAUDE.md` |
 | Codex | `~/.codex/AGENTS.md` |
 | OpenCode | `~/.config/opencode/AGENTS.md` |
-| Hermes | its persona or memory file under `~/.hermes/` (check its docs for the exact name) |
+| Hermes | `~/.hermes/SOUL.md` (its global persona file) |
 | Others | whatever "custom instructions" or system-prompt file the agent offers |
 
 **Claude Desktop (chat, not the Code tab):** chat cannot write files by itself. In Claude Desktop go to Settings → Extensions, install **Filesystem**, and allow only the `work-brain` folder. Then paste the snippet above into Settings → Profile → custom instructions. The Code tab uses `~/.claude/CLAUDE.md` like Claude Code.
