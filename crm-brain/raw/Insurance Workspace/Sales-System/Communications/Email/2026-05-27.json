@@ -1,0 +1,130 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "10:00 UAE (UTC+4)",
+  "scan_window": "2026-05-13 to 2026-05-27",
+  "summary": {
+    "urgent": 6,
+    "action": 8,
+    "info_skipped": 12
+  },
+  "urgent": [
+    {
+      "id": "alfred-HEA-HZ7X3FX6",
+      "subject": "Attention urgent assistance required: HEA-HZ7X3FX6 / Client Plan Type Update - Jonalyn Aboc",
+      "from": "alfred@alert.insurancemarket.email / no-reply@alert.insurancemarket.email",
+      "date": "2026-05-20",
+      "days_old": 7,
+      "snippet": "Client is online now, inquired again. Plan type updated to Entry level. Kindly check and contact urgently.",
+      "classification": "Urgent — Alfred callback alert, client re-engaged",
+      "action": "Call Jonalyn Aboc (HEA-HZ7X3FX6) immediately — client updated plan type to Entry Level and re-inquired"
+    },
+    {
+      "id": "alfred-HEA-CFSUX9PS",
+      "subject": "Attention urgent assistance required: HEA-CFSUX9PS / Client Plan Type Update - Hany Said",
+      "from": "alfred@alert.insurancemarket.email / no-reply@alert.insurancemarket.email",
+      "date": "2026-05-20",
+      "days_old": 7,
+      "snippet": "Client is online, inquired again. Plan type updated to Good.",
+      "classification": "Urgent — Alfred callback alert, client re-engaged",
+      "action": "Call Hany Said (HEA-CFSUX9PS) — re-inquired with plan type Good selected"
+    },
+    {
+      "id": "alfred-HEA-HACCRASH",
+      "subject": "Attention urgent assistance required: HEA-HACCRASH / Plan type updates — kuzhaliniyan udhayakumar",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-18",
+      "days_old": 9,
+      "snippet": "Client inquired again multiple times. Plan type updated from Best to Good.",
+      "classification": "Urgent — multiple re-inquiries, stale lead",
+      "action": "Call kuzhaliniyan udhayakumar (HEA-HACCRASH) — multiple alerts, re-engaged twice, plan flip Best→Good"
+    },
+    {
+      "id": "remnto-DIC-0526-9574-00060",
+      "subject": "RE: Request for additional information — DIC-0526-9574-00060",
+      "from": "jasmeet@remnto.com",
+      "date": "2026-05-26",
+      "days_old": 1,
+      "snippet": "Policy documents issued for Avantika Vishnu & Shivram Vishnu. COI will be shared after policy issuance.",
+      "classification": "Urgent — policy docs received, client needs to be notified",
+      "action": "Inform client (Vishnu Ramachandran) policy is issued, COI coming shortly. Forward docs."
+    },
+    {
+      "id": "talib-HEA-GDQVRGWU",
+      "subject": "Fwd: Siddhiraj Vijaykumar Marathe Health Insurance — HEA-GDQVRGWU",
+      "from": "talib.rehan@insurancemarket.ae",
+      "date": "2026-05-21",
+      "days_old": 6,
+      "snippet": "Talib Rehan requesting Matheesha to assist with Adamjee policy issuance.",
+      "classification": "Urgent — colleague request, Adamjee policy issuance pending",
+      "action": "Action Adamjee policy issuance for HEA-GDQVRGWU. Respond to Talib."
+    },
+    {
+      "id": "mariamma-HEA-WXD99WYY",
+      "subject": "Re: Mariamma Jose Health Insurance — HEA-WXD99WYY",
+      "from": "bahdip@icloud.com",
+      "date": "2026-05-03",
+      "days_old": 24,
+      "snippet": "Client asking if Mediclinic is covered for wife's ongoing treatment. Waiting for Matheesha's answer.",
+      "classification": "Urgent — client waiting for network coverage answer, unresolved 24 days",
+      "action": "Check if Mediclinic is covered under the recommended plan. Reply to bahdip@icloud.com with confirmation + next step."
+    }
+  ],
+  "action": [
+    {
+      "id": "takaful-renewal-shiela-7572767978",
+      "subject": "Medical Insurance Renewal — Shiela Marie — Policy # 01-115-01-25-7572767978",
+      "days_to_expiry": 7,
+      "date_received": "2026-05-27",
+      "action": "Contact Shiela Marie re: renewal — expires in 7 days"
+    },
+    {
+      "id": "takaful-renewal-hirushi-9515395686",
+      "subject": "Medical Insurance Renewal — Hirushi Shenaya — Policy # 01-115-01-25-9515395686",
+      "days_to_expiry": 1,
+      "date_received": "2026-05-25",
+      "action": "CRITICAL — Hirushi Shenaya policy expires in 1 day. Renew immediately."
+    },
+    {
+      "id": "takaful-renewal-orhan-7487682108",
+      "subject": "Medical Insurance Renewal — Orhan Faour — Policy # 01-115-01-25-7487682108",
+      "days_to_expiry": 7,
+      "date_received": "2026-05-25",
+      "action": "Contact Orhan Faour — 7 days to renewal"
+    },
+    {
+      "id": "takaful-renewal-yana-4228889448",
+      "subject": "Medical Insurance Renewal — Yana Smith — Policy # 01-115-01-25-4228889448",
+      "days_to_expiry": 15,
+      "date_received": "2026-05-25",
+      "action": "Contact Yana Smith — 15 days to renewal"
+    },
+    {
+      "id": "takaful-renewal-ateeq-4098076757",
+      "subject": "Medical Insurance Renewal — Ateeq Ahmed — Policy # 01-115-01-25-4098076757",
+      "days_to_expiry": 30,
+      "date_received": "2026-05-24",
+      "action": "Contact Ateeq Ahmed — 30 days to renewal"
+    },
+    {
+      "id": "takaful-renewal-eranda-4305204390",
+      "subject": "Medical Insurance Renewal — ERANDA SAMPATH — Policy # 01-115-01-25-4305204390",
+      "days_to_expiry": 30,
+      "date_received": "2026-05-24",
+      "action": "Contact Eranda Sampath — 30 days to renewal"
+    },
+    {
+      "id": "pendency-careinsurance-may14",
+      "subject": "Pendency Insurance Market — as of 14-05-2026",
+      "from": "bdms.organic@insurancemarket.ae",
+      "date_received": "2026-05-15",
+      "action": "Review pendency report — check if Matheesha has any pending cases. 4 grand total IM pendencies."
+    },
+    {
+      "id": "july26-renewal-terms-dic",
+      "subject": "July '26 Renewal Terms — DIC | Hayah | Watania | E-CARE",
+      "from": "bdms.organic@insurancemarket.ae",
+      "date_received": "2026-05-23",
+      "action": "Read and note July '26 renewal terms for DIC, Hayah, Watania, E-CARE for upcoming renewals"
+    }
+  ]
+}

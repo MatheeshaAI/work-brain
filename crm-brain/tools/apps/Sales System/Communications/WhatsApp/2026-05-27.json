@@ -1,0 +1,12 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "10:00 UAE (UTC+4)",
+  "api_status": "OFFLINE — Connection refused at http://72.60.199.15:8080",
+  "summary": {
+    "need_to_reply": 0,
+    "waiting_reply": 0,
+    "outbound_only": 0,
+    "note": "WhatsApp API was unreachable during this run. Data unavailable. No classification performed."
+  },
+  "chats": []
+}

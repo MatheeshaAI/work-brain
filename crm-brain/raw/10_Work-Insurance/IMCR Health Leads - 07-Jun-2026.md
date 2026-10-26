@@ -1,0 +1,75 @@
+# IMCR Health Leads — All Pages
+
+**Date:** 07-Jun-2026
+**Total Leads:** 68
+
+| # | Ref ID | URL Link | Name | Lead Status | Assignment Type | Created Date | Visa Category |
+|---|--------|----------|------|-------------|----------------|-------------|--------------|
+| 1 | HEA-2XDP3NG7 | [https://imcrm.alfred.ae/quotes/health/2XDP3NG7](https://imcrm.alfred.ae/quotes/health/2XDP3NG7) | hamid yousaf | Quoted | System Assigned | 07-Jun-2026 03:14am | Sponsored (Employer or Family) |
+| 2 | HEA-LXG2BDWN | [https://imcrm.alfred.ae/quotes/health/LXG2BDWN](https://imcrm.alfred.ae/quotes/health/LXG2BDWN) | demo demo | Application Pending | System Assigned | 07-Jun-2026 02:00am | Sponsored (Employer or Family) |
+| 3 | HEA-X467HYMZ | [https://imcrm.alfred.ae/quotes/health/X467HYMZ](https://imcrm.alfred.ae/quotes/health/X467HYMZ) | Shafiq Rehman | Quoted | System Assigned | 07-Jun-2026 01:26am | Sponsored (Employer or Family) |
+| 4 | HEA-WCDC4J85 | [https://imcrm.alfred.ae/quotes/health/WCDC4J85](https://imcrm.alfred.ae/quotes/health/WCDC4J85) | Aman Man | Quoted | System Assigned | 06-Jun-2026 11:21pm | Investor / Partner |
+| 5 | HEA-8ZC9UZJA | [https://imcrm.alfred.ae/quotes/health/8ZC9UZJA](https://imcrm.alfred.ae/quotes/health/8ZC9UZJA) | Qambar had Sayed | Quoted | System Assigned | 06-Jun-2026 10:52pm | Sponsored (Employer or Family) |
+| 6 | HEA-DHHBTHMQ | [https://imcrm.alfred.ae/quotes/health/DHHBTHMQ](https://imcrm.alfred.ae/quotes/health/DHHBTHMQ) | Khizra Atiq Ahmed | Quoted | System Assigned | 06-Jun-2026 10:49pm | Sponsored (Employer or Family) |
+| 7 | HEA-VQUKPKHD | [https://imcrm.alfred.ae/quotes/health/VQUKPKHD](https://imcrm.alfred.ae/quotes/health/VQUKPKHD) | Liyakat khan | Quoted | System Assigned | 06-Jun-2026 07:47pm | Sponsored (Employer or Family) |
+| 8 | HEA-GG787SCQ | [https://imcrm.alfred.ae/quotes/health/GG787SCQ](https://imcrm.alfred.ae/quotes/health/GG787SCQ) | FAIS FAIS | Quoted | System Assigned | 06-Jun-2026 06:52pm | Investor / Partner |
+| 9 | HEA-J4K2Z6JD | [https://imcrm.alfred.ae/quotes/health/J4K2Z6JD](https://imcrm.alfred.ae/quotes/health/J4K2Z6JD) | Jawad Harfoush | Quoted | System Assigned | 06-Jun-2026 05:10pm | Investor / Partner |
+| 10 | HEA-MEV3SLLL | [https://imcrm.alfred.ae/quotes/health/MEV3SLLL](https://imcrm.alfred.ae/quotes/health/MEV3SLLL) | Anna Vreshch | Quoted | System Assigned | 06-Jun-2026 02:54pm | Sponsored (Employer or Family) |
+| 11 | HEA-BZH4NDJR | [https://imcrm.alfred.ae/quotes/health/BZH4NDJR](https://imcrm.alfred.ae/quotes/health/BZH4NDJR) | Boyet Gonzales | Quoted | System Assigned | 06-Jun-2026 02:13pm | Sponsored (Employer or Family) |
+| 12 | HEA-5FJA5E7Z | [https://imcrm.alfred.ae/quotes/health/5FJA5E7Z](https://imcrm.alfred.ae/quotes/health/5FJA5E7Z) | Peter Jamieson | Application Pending | System Assigned | 05-Jun-2026 06:49pm | Golden Visa |
+| 13 | HEA-LT5BTBQ8 | [https://imcrm.alfred.ae/quotes/health/LT5BTBQ8](https://imcrm.alfred.ae/quotes/health/LT5BTBQ8) | Mohammad Saad | Followed Up | System Assigned | 05-Jun-2026 06:31pm | Sponsored (Employer or Family) |
+| 14 | HEA-36QQ8NG3 | [https://imcrm.alfred.ae/quotes/health/36QQ8NG3](https://imcrm.alfred.ae/quotes/health/36QQ8NG3) | Venkatapathyraju Velusamy | Quoted | System Assigned | 05-Jun-2026 06:02pm | Sponsored (Employer or Family) |
+| 15 | HEA-KGNQRDMP | [https://imcrm.alfred.ae/quotes/health/KGNQRDMP](https://imcrm.alfred.ae/quotes/health/KGNQRDMP) | Dolma Subba | Quoted | System Assigned | 05-Jun-2026 05:45pm | Sponsored (Employer or Family) |
+| 16 | HEA-GMZLS9MK | [https://imcrm.alfred.ae/quotes/health/GMZLS9MK](https://imcrm.alfred.ae/quotes/health/GMZLS9MK) | Maria Fesalbon | Quoted | System Assigned | 05-Jun-2026 05:45pm | Sponsored (Employer or Family) |
+| 17 | HEA-RSRG3R6E | [https://imcrm.alfred.ae/quotes/health/RSRG3R6E](https://imcrm.alfred.ae/quotes/health/RSRG3R6E) | sanduni ediriweera | Quoted | System Assigned | 05-Jun-2026 05:32pm | Sponsored (Employer or Family) |
+| 18 | HEA-A34TTAME | [https://imcrm.alfred.ae/quotes/health/A34TTAME](https://imcrm.alfred.ae/quotes/health/A34TTAME) | Nassar Alterk | Followed Up | System Assigned | 05-Jun-2026 12:02pm | Sponsored (Employer or Family) |
+| 19 | HEA-E35R5G6P | [https://imcrm.alfred.ae/quotes/health/E35R5G6P](https://imcrm.alfred.ae/quotes/health/E35R5G6P) | Khaled Mohamed | New Lead | Self Assigned | 05-Jun-2026 11:51am | N/A |
+| 20 | HEA-SW3YAN7P | [https://imcrm.alfred.ae/quotes/health/SW3YAN7P](https://imcrm.alfred.ae/quotes/health/SW3YAN7P) | Khaled Mohamed | New Lead | Self Assigned | 05-Jun-2026 11:45am | Sponsored (Employer or Family) |
+| 21 | HEA-7K9TDMCC | [https://imcrm.alfred.ae/quotes/health/7K9TDMCC](https://imcrm.alfred.ae/quotes/health/7K9TDMCC) | Hritik Kumar Chaturvedi | Quoted | System Assigned | 05-Jun-2026 11:20am | Sponsored (Employer or Family) |
+| 22 | HEA-A7WRQLJL | [https://imcrm.alfred.ae/quotes/health/A7WRQLJL](https://imcrm.alfred.ae/quotes/health/A7WRQLJL) | SOLEIMAN Balagar | Quoted | System Assigned | 05-Jun-2026 06:06am | Sponsored (Employer or Family) |
+| 23 | HEA-3ZT656HW | [https://imcrm.alfred.ae/quotes/health/3ZT656HW](https://imcrm.alfred.ae/quotes/health/3ZT656HW) | Sallar Khan | Application Pending | System Assigned | 05-Jun-2026 04:32am | Sponsored (Employer or Family) |
+| 24 | HEA-RVHREGRY | [https://imcrm.alfred.ae/quotes/health/RVHREGRY](https://imcrm.alfred.ae/quotes/health/RVHREGRY) | Sakshi Shukla | Quoted | System Assigned | 04-Jun-2026 04:55pm | Golden Visa |
+| 25 | HEA-KQ4Y4P6S | [https://imcrm.alfred.ae/quotes/health/KQ4Y4P6S](https://imcrm.alfred.ae/quotes/health/KQ4Y4P6S) | Luis Gavin | Followed Up | System Assigned | 04-Jun-2026 04:39pm | Golden Visa |
+| 26 | HEA-KBK9KDPZ | [https://imcrm.alfred.ae/quotes/health/KBK9KDPZ](https://imcrm.alfred.ae/quotes/health/KBK9KDPZ) | Manal Pervaiz | Quoted | System Assigned | 04-Jun-2026 04:14pm | Sponsored (Employer or Family) |
+| 27 | HEA-M3JBKYDT | [https://imcrm.alfred.ae/quotes/health/M3JBKYDT](https://imcrm.alfred.ae/quotes/health/M3JBKYDT) | Ray Cbyhnk | Quoted | System Assigned | 04-Jun-2026 03:40pm | Investor / Partner |
+| 28 | HEA-3KZWMDCB | [https://imcrm.alfred.ae/quotes/health/3KZWMDCB](https://imcrm.alfred.ae/quotes/health/3KZWMDCB) | Yassin Hany Mohamed | Policy Booked | System Assigned | 04-Jun-2026 03:25pm | Golden Visa |
+| 29 | HEA-FEJHZFMV | [https://imcrm.alfred.ae/quotes/health/FEJHZFMV](https://imcrm.alfred.ae/quotes/health/FEJHZFMV) | Sanal Raj | Quoted | System Assigned | 04-Jun-2026 03:12pm | Sponsored (Employer or Family) |
+| 30 | HEA-UGWKXMJA | [https://imcrm.alfred.ae/quotes/health/UGWKXMJA](https://imcrm.alfred.ae/quotes/health/UGWKXMJA) | Remolita Canillo | Quoted | Self Assigned | 04-Jun-2026 02:18pm | Sponsored (Employer or Family) |
+| 31 | HEA-LXRJF8DE | [https://imcrm.alfred.ae/quotes/health/LXRJF8DE](https://imcrm.alfred.ae/quotes/health/LXRJF8DE) | Roshni Banerjee | New Lead | Self Assigned | 04-Jun-2026 12:10pm | Sponsored (Employer or Family) |
+| 32 | HEA-YR6FF5T7 | [https://imcrm.alfred.ae/quotes/health/YR6FF5T7](https://imcrm.alfred.ae/quotes/health/YR6FF5T7) | Rahul Kumar Jain | Application Pending | System Assigned | 04-Jun-2026 11:10am | N/A |
+| 33 | HEA-KMKKKA3D | [https://imcrm.alfred.ae/quotes/health/KMKKKA3D](https://imcrm.alfred.ae/quotes/health/KMKKKA3D) | Ronel Anwanda | Quoted | System Assigned | 04-Jun-2026 10:42am | N/A |
+| 34 | HEA-T22HUZVP | [https://imcrm.alfred.ae/quotes/health/T22HUZVP](https://imcrm.alfred.ae/quotes/health/T22HUZVP) | Rukhsar Ahmad | Followed Up | System Assigned | 04-Jun-2026 09:54am | Sponsored (Employer or Family) |
+| 35 | HEA-S6RMF9FV | [https://imcrm.alfred.ae/quotes/health/S6RMF9FV](https://imcrm.alfred.ae/quotes/health/S6RMF9FV) | Sherilyn Morales | Application Pending | System Assigned | 04-Jun-2026 06:47am | N/A |
+| 36 | HEA-M85THQ4L | [https://imcrm.alfred.ae/quotes/health/M85THQ4L](https://imcrm.alfred.ae/quotes/health/M85THQ4L) | Afra mohammed ali | Quoted | System Assigned | 04-Jun-2026 01:07am | N/A |
+| 37 | HEA-U3NTDTJV | [https://imcrm.alfred.ae/quotes/health/U3NTDTJV](https://imcrm.alfred.ae/quotes/health/U3NTDTJV) | Sirikhwan Kunphaen | Quoted | System Assigned | 03-Jun-2026 11:22pm | Sponsored (Employer or Family) |
+| 38 | HEA-N9YZTNYL | [https://imcrm.alfred.ae/quotes/health/N9YZTNYL](https://imcrm.alfred.ae/quotes/health/N9YZTNYL) | Sagar kasula | Quoted | System Assigned | 03-Jun-2026 09:01pm | Sponsored (Employer or Family) |
+| 39 | HEA-8DQMYFF6 | [https://imcrm.alfred.ae/quotes/health/8DQMYFF6](https://imcrm.alfred.ae/quotes/health/8DQMYFF6) | Hasna Shirbin | Quoted | System Reassigned | 03-Jun-2026 07:56pm | Sponsored (Employer or Family) |
+| 40 | HEA-WHFBDWS4 | [https://imcrm.alfred.ae/quotes/health/WHFBDWS4](https://imcrm.alfred.ae/quotes/health/WHFBDWS4) | Scarletlily villareal | Quoted | System Assigned | 03-Jun-2026 07:15pm | N/A |
+| 41 | HEA-5293VSRD | [https://imcrm.alfred.ae/quotes/health/5293VSRD](https://imcrm.alfred.ae/quotes/health/5293VSRD) | Jose alforte | Quoted | System Reassigned | 03-Jun-2026 03:33pm | Sponsored (Employer or Family) |
+| 42 | HEA-VTG4WV7N | [https://imcrm.alfred.ae/quotes/health/VTG4WV7N](https://imcrm.alfred.ae/quotes/health/VTG4WV7N) | Arshad Mohamed | Quoted | System Reassigned | 03-Jun-2026 02:04pm | Sponsored (Employer or Family) |
+| 43 | HEA-YPUMC8LH | [https://imcrm.alfred.ae/quotes/health/YPUMC8LH](https://imcrm.alfred.ae/quotes/health/YPUMC8LH) | Olga Blinova | Followed Up | System Assigned | 03-Jun-2026 12:31pm | Sponsored (Employer or Family) |
+| 44 | HEA-KSKWNYUK | [https://imcrm.alfred.ae/quotes/health/KSKWNYUK](https://imcrm.alfred.ae/quotes/health/KSKWNYUK) | JAMES DEQUILLA | Followed Up | System Assigned | 03-Jun-2026 11:53am | Sponsored (Employer or Family) |
+| 45 | HEA-KSEE8ZV7 | [https://imcrm.alfred.ae/quotes/health/KSEE8ZV7](https://imcrm.alfred.ae/quotes/health/KSEE8ZV7) | Zahid Abbas | Lost | System Assigned | 03-Jun-2026 10:42am | N/A |
+| 46 | HEA-6DZUMQHZ | [https://imcrm.alfred.ae/quotes/health/6DZUMQHZ](https://imcrm.alfred.ae/quotes/health/6DZUMQHZ) | Mohammad Ghanem | Lost | System Assigned | 03-Jun-2026 10:05am | Sponsored (Employer or Family) |
+| 47 | HEA-K9ZEQS5V | [https://imcrm.alfred.ae/quotes/health/K9ZEQS5V](https://imcrm.alfred.ae/quotes/health/K9ZEQS5V) | Florence Dias | Followed Up | System Assigned | 03-Jun-2026 09:17am | N/A |
+| 48 | HEA-AMB9XRTK | [https://imcrm.alfred.ae/quotes/health/AMB9XRTK](https://imcrm.alfred.ae/quotes/health/AMB9XRTK) | sn mitra | Followed Up | System Reassigned | 03-Jun-2026 08:46am | Sponsored (Employer or Family) |
+| 49 | HEA-PYFGNGZ3 | [https://imcrm.alfred.ae/quotes/health/PYFGNGZ3](https://imcrm.alfred.ae/quotes/health/PYFGNGZ3) | Khaled Mohamed | Application Pending | System Assigned | 03-Jun-2026 06:51am | Sponsored (Employer or Family) |
+| 50 | HEA-TPTHBX2H | [https://imcrm.alfred.ae/quotes/health/TPTHBX2H](https://imcrm.alfred.ae/quotes/health/TPTHBX2H) | Sanjay Poovan | Followed Up | System Assigned | 02-Jun-2026 11:37pm | Sponsored (Employer or Family) |
+| 51 | HEA-32EZWGXY | [https://imcrm.alfred.ae/quotes/health/32EZWGXY](https://imcrm.alfred.ae/quotes/health/32EZWGXY) | 'Muhammad Jamshad' | Followed Up | System Assigned | 02-Jun-2026 11:14pm | Sponsored (Employer or Family) |
+| 52 | HEA-DLHSK4UY | [https://imcrm.alfred.ae/quotes/health/DLHSK4UY](https://imcrm.alfred.ae/quotes/health/DLHSK4UY) | Junly Dela | Quoted | System Assigned | 02-Jun-2026 10:55pm | Sponsored (Employer or Family) |
+| 53 | HEA-KPK49BHF | [https://imcrm.alfred.ae/quotes/health/KPK49BHF](https://imcrm.alfred.ae/quotes/health/KPK49BHF) | Erwin Ricahuerta | In Negotiation | System Assigned | 02-Jun-2026 10:28pm | Sponsored (Employer or Family) |
+| 54 | HEA-UR3595T9 | [https://imcrm.alfred.ae/quotes/health/UR3595T9](https://imcrm.alfred.ae/quotes/health/UR3595T9) | Ajit Nair | Followed Up | System Reassigned | 02-Jun-2026 08:50pm | Sponsored (Employer or Family) |
+| 55 | HEA-N7HUG854 | [https://imcrm.alfred.ae/quotes/health/N7HUG854](https://imcrm.alfred.ae/quotes/health/N7HUG854) | Aizabelle Dalangin | Followed Up | System Assigned | 02-Jun-2026 05:45pm | Sponsored (Employer or Family) |
+| 56 | HEA-P7MJXBND | [https://imcrm.alfred.ae/quotes/health/P7MJXBND](https://imcrm.alfred.ae/quotes/health/P7MJXBND) | Faisal Aziz | Quoted | System Reassigned | 02-Jun-2026 05:30pm | Sponsored (Employer or Family) |
+| 57 | HEA-4CD9CRA5 | [https://imcrm.alfred.ae/quotes/health/4CD9CRA5](https://imcrm.alfred.ae/quotes/health/4CD9CRA5) | SITI FATIMAH | Followed Up | System Assigned | 02-Jun-2026 05:14pm | Sponsored (Employer or Family) |
+| 58 | HEA-7BG2CB2E | [https://imcrm.alfred.ae/quotes/health/7BG2CB2E](https://imcrm.alfred.ae/quotes/health/7BG2CB2E) | Mazen Ghazi | Lost | System Assigned | 02-Jun-2026 04:27pm | Sponsored (Employer or Family) |
+| 59 | HEA-EGG6AF7M | [https://imcrm.alfred.ae/quotes/health/EGG6AF7M](https://imcrm.alfred.ae/quotes/health/EGG6AF7M) | Nema Alrifai Aljandali | Quoted | System Reassigned | 02-Jun-2026 03:57pm | Sponsored (Employer or Family) |
+| 60 | HEA-WGBT26NR | [https://imcrm.alfred.ae/quotes/health/WGBT26NR](https://imcrm.alfred.ae/quotes/health/WGBT26NR) | Ali Askar | Followed Up | System Assigned | 02-Jun-2026 02:40pm | Investor / Partner |
+| 61 | HEA-S3UAHLZN | [https://imcrm.alfred.ae/quotes/health/S3UAHLZN](https://imcrm.alfred.ae/quotes/health/S3UAHLZN) | AHMED SHALKAMY EISSA MOHAMED | Lost | System Assigned | 02-Jun-2026 02:30pm | Sponsored (Employer or Family) |
+| 62 | HEA-2E6TPK2H | [https://imcrm.alfred.ae/quotes/health/2E6TPK2H](https://imcrm.alfred.ae/quotes/health/2E6TPK2H) | Grace Ivan | Quoted | System Reassigned | 02-Jun-2026 02:14pm | Sponsored (Employer or Family) |
+| 63 | HEA-PZTBEBZ9 | [https://imcrm.alfred.ae/quotes/health/PZTBEBZ9](https://imcrm.alfred.ae/quotes/health/PZTBEBZ9) | Ahmad shah | Followed Up | System Assigned | 02-Jun-2026 09:41am | Sponsored (Employer or Family) |
+| 64 | HEA-ATABRS7Z | [https://imcrm.alfred.ae/quotes/health/ATABRS7Z](https://imcrm.alfred.ae/quotes/health/ATABRS7Z) | Mohammed Zaidee | Followed Up | System Assigned | 02-Jun-2026 12:24am | Sponsored (Employer or Family) |
+| 65 | HEA-MD4K37HV | [https://imcrm.alfred.ae/quotes/health/MD4K37HV](https://imcrm.alfred.ae/quotes/health/MD4K37HV) | ALBI NASSARKHAN | Followed Up | System Reassigned | 01-Jun-2026 09:31pm | Sponsored (Employer or Family) |
+| 66 | HEA-D6TNZNTP | [https://imcrm.alfred.ae/quotes/health/D6TNZNTP](https://imcrm.alfred.ae/quotes/health/D6TNZNTP) | Ramachandran Gnanasekaran | Followed Up | System Assigned | 01-Jun-2026 01:48pm | Sponsored (Employer or Family) |
+| 67 | HEA-7MDEWS4U | [https://imcrm.alfred.ae/quotes/health/7MDEWS4U](https://imcrm.alfred.ae/quotes/health/7MDEWS4U) | Nevin Chalissery | Quoted | Self Assigned | 01-Jun-2026 12:34pm | Sponsored (Employer or Family) |
+| 68 | HEA-8PQDXDQ9 | [https://imcrm.alfred.ae/quotes/health/8PQDXDQ9](https://imcrm.alfred.ae/quotes/health/8PQDXDQ9) | Shrinkhala acharya | Followed Up | System Reassigned | 31-May-2026 01:21pm | N/A |

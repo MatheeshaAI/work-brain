@@ -1,0 +1,11 @@
+{
+  "scan_date": "2026-05-29",
+  "scan_time_uae": "10:10",
+  "api_status": "OFFLINE",
+  "api_url": "http://72.60.199.15:8080",
+  "error": "Connection timed out after 15 seconds. WhatsApp bridge is unreachable.",
+  "need_to_reply": [],
+  "waiting_reply": [],
+  "outbound_only": [],
+  "notes": "WhatsApp API was unreachable at time of scan. Manual check required. API connectivity should be investigated — bridge may need restart."
+}

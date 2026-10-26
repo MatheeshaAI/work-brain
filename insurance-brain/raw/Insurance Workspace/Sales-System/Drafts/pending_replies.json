@@ -1,0 +1,80 @@
+{
+  "generated": "2026-05-29T10:10:00+04:00",
+  "source": "Gmail (WhatsApp API offline)",
+  "drafts": [
+    {
+      "id": "draft_001",
+      "lead": "HEA-WXD99WYY",
+      "client": "Dinu Paul",
+      "contact_email": "dinu_paul@cathaypacific.com",
+      "channel": "email",
+      "urgency": "urgent",
+      "context": "Client says Takaful Emarat premium is too high given his wife's estimated annual treatment cost under AED 40K. Waiting on QIC quote. Wants something more affordable.",
+      "draft_reply": "Dear Dinu, good morning! Hope you're feeling well. I completely understand your concern — if the annual treatment is expected to be under AED 40K, we don't need to go with a premium-heavy plan. I'm still chasing QIC for their final number, but in the meantime let me put together a couple of mid-range options that give Mediclinic access without the high premium. I'll send that across today. Thanks for your patience."
+    },
+    {
+      "id": "draft_002",
+      "lead": "HEA-SQPVXE5P",
+      "client": "Mr. Ishak",
+      "contact_email": "hishamishak@gmail.com",
+      "channel": "email",
+      "urgency": "urgent",
+      "context": "Client frustrated that claim was rejected again via NextCare app on May 21 despite escalation. Aman Giri from claims team is handling but last update was May 24. Client needs visible progress.",
+      "draft_reply": "Dear Mr. Ishak, I completely understand your frustration, and I sincerely apologize for the difficulty you've been facing. I've personally followed up with our claims team this morning to get an update. This matter has been escalated with the insurer and I'll have a concrete update for you today. Please bear with us — we're pushing hard to get this resolved for you."
+    },
+    {
+      "id": "draft_003",
+      "lead": "HEA-GDQVRGWU",
+      "client": "Siddhiraj Marathe",
+      "contact_via": "Talib Rehan (talib.rehan@insurancemarket.ae)",
+      "channel": "email_internal",
+      "urgency": "urgent",
+      "context": "Colleague Talib explicitly tagged Matheesha to handle Adamjee policy issuance for this lead.",
+      "draft_reply": "Hi Talib, sorry for the delay — I've picked this up now. Will action the Adamjee policy issuance for HEA-GDQVRGWU today and keep you posted."
+    },
+    {
+      "id": "draft_004",
+      "lead": "HEA-HZ7X3FX6",
+      "client": "Jonalyn Aboc",
+      "channel": "phone_or_whatsapp",
+      "urgency": "follow_up",
+      "context": "Client updated plan type to Entry Level and re-inquired on May 20. Alfred triggered callback alert. 9 days no contact.",
+      "draft_reply": "Hi Jonalyn, Matheesha here from InsuranceMarket. Sorry for the delay — saw you checked out the plans again. Happy to walk you through the entry-level options, they're actually quite solid. When's a good time for a quick call? I can also send a comparison if that's easier."
+    },
+    {
+      "id": "draft_005",
+      "lead": "HEA-CFSUX9PS",
+      "client": "Hany Said",
+      "channel": "phone_or_whatsapp",
+      "urgency": "follow_up",
+      "context": "Client updated to 'Good' plan tier and Alfred triggered alert on May 20. 9 days no contact.",
+      "draft_reply": "Hi Hany, this is Matheesha from InsuranceMarket. I noticed you updated your preference to a Good-tier plan — great choice, those have solid coverage. Let me know if you'd like me to walk you through the best options or if you need a quote. Happy to help."
+    },
+    {
+      "id": "draft_006",
+      "lead": "HEA-HACCRASH",
+      "client": "kuzhaliniyan udhayakumar",
+      "channel": "phone_or_whatsapp",
+      "urgency": "cold",
+      "context": "Client updated plan preference twice (Best, then Good) on May 18. Multiple Alfred alerts. 11 days no contact.",
+      "draft_reply": "Hi, this is Matheesha from InsuranceMarket. I noticed you'd been looking at health insurance plans — sorry I missed reaching out sooner. If you're still interested, I can put together a good-tier comparison quickly. What coverage are you looking for and how many people is this for?"
+    },
+    {
+      "id": "draft_007",
+      "lead": "HEA-WXD99WYY_renewal",
+      "client": "Shiela Marie",
+      "channel": "phone_or_whatsapp",
+      "urgency": "CRITICAL",
+      "context": "Takaful Emarat renewal — only 7 days left as of May 27. Policy #01-115-01-25-7572767978. Likely expires around June 3.",
+      "draft_reply": "Hi, this is Matheesha from InsuranceMarket. Your Takaful Emarat health insurance is due to expire in the next few days. I wanted to make sure you don't have a gap in coverage. Happy to process the renewal quickly — can I call you today to confirm the details?"
+    },
+    {
+      "id": "draft_008",
+      "client": "Hirushi Shenaya",
+      "channel": "phone_or_whatsapp",
+      "urgency": "CRITICAL",
+      "context": "Renewal was 1 day away on May 25 — policy #01-115-01-25-9515395686 likely lapsed. Immediate check required.",
+      "draft_reply": "Hi, Matheesha here from InsuranceMarket. I'm calling regarding your health insurance policy which was due to renew on May 26. I just want to make sure you're not uninsured — if the renewal hasn't gone through please let me know so we can fix this immediately."
+    }
+  ]
+}

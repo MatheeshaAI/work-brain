@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Health Insurance OS</title>
+  <link rel="stylesheet" href="main.css" />
+</head>
+<body class="dark">
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand-block">
+        <p class="eyebrow">Localhost Workspace</p>
+        <h1>Health Insurance OS</h1>
+        <p class="brand-copy">A compact command center for leads, renewals, tasks, comments, and documents.</p>
+      </div>
+
+      <div class="panel">
+        <div class="panel-head compact">
+          <h2>Lead Explorer</h2>
+          <span id="leadCount" class="mini-pill">0</span>
+        </div>
+        <div class="form-stack">
+          <input id="leadSearch" type="text" placeholder="Search name, REF-ID, status" />
+          <select id="statusFilter">
+            <option value="all">All leads</option>
+            <option value="new">New lead</option>
+            <option value="quoted">Quoted / Followed Up</option>
+            <option value="payment">Application / Payment</option>
+            <option value="booked">Booked / Allocated</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="leadList" class="lead-list panel"></div>
+    </aside>
+
+    <main class="workspace">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Operations Dashboard</p>
+          <h2>Run the day from one screen</h2>
+          <p class="hero-copy">See the live work queues, jump into a lead, add notes, and upload documents without leaving the workspace.</p>
+        </div>
+        <div class="hero-actions">
+          <button id="refreshDashboard" type="button" class="ghost-button">Refresh</button>
+          <button id="toggleDarkMode" type="button" class="ghost-button">Light mode</button>
+        </div>
+      </header>
+
+      <section id="overviewCards" class="overview-grid"></section>
+
+      <section class="board-layout">
+        <div class="board-column wide">
+          <div class="panel">
+            <div class="panel-head">
+              <h2>Focus Board</h2>
+              <p>Fast access to the live queues from `PIPELINE.md`.</p>
+            </div>
+            <div id="focusBoard" class="focus-grid"></div>
+          </div>
+        </div>
+
+        <div class="board-column narrow">
+          <div class="panel">
+            <div class="panel-head">
+              <h2>Priority Radar</h2>
+              <p>Urgent items and today’s open tasks.</p>
+            </div>
+            <div id="priorityBoard" class="stack-grid"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="summary" class="lead-summary empty">
+        <div class="empty-state">
+          <p class="eyebrow">Lead Workspace</p>
+          <h2>Select a lead to start working</h2>
+          <p>Use the explorer on the left or click a card from the Focus Board.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

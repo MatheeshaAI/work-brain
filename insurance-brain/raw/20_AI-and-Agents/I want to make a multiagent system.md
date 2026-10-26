@@ -1,0 +1,1 @@
+ I want to make a multiagent system with a Orchestration system to query from this project, each folder will have a agent like Nextcare Agent, Mednet Agent and ect..

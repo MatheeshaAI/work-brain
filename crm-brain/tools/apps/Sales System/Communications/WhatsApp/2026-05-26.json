@@ -1,0 +1,11 @@
+{
+  "scan_date": "2026-05-26",
+  "scan_time_uae": "18:30 UTC+4",
+  "api_status": "OFFLINE",
+  "api_endpoint": "http://72.60.199.15:8080",
+  "error": "Connection refused - WhatsApp API server is not reachable",
+  "need_to_reply": [],
+  "waiting_reply": [],
+  "outbound_only": [],
+  "notes": "WhatsApp scan could not be completed. API server at 72.60.199.15:8080 returned connection refused. Please check if the WhatsApp bridge (e.g. whatsapp-web.js or baileys instance) is running on the server."
+}

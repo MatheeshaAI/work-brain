@@ -1,0 +1,143 @@
+{
+  "run_date": "2026-05-28",
+  "generated_at": "2026-05-28T12:00:00+04:00",
+  "scan_window_days": 14,
+  "urgent": [
+    {
+      "id": "19e694f357488f11",
+      "category": "Urgent",
+      "subject": "Your Medical Insurance Quote is Revised",
+      "from": "medonline@eb.qicuae.com",
+      "date": "2026-05-27T12:00:56Z",
+      "snippet": "Dear Dinu Tharamadathil — QIC revised quote Reference QIC-0526-05007 after MAF review",
+      "action": "QIC has revised the premium for Mariamma Jose (HEA-WXD99WYY). Must forward revised quote to Dinu Paul and push to close — client is comparing against Takaful Emarat and concerned about cost vs treatment coverage."
+    },
+    {
+      "id": "19e63eaebe0f1f65",
+      "category": "Urgent",
+      "subject": "Re: Mariamma Jose's Health Insurance - Client Objection on Premium",
+      "from": "dinu_paul@cathaypacific.com",
+      "date": "2026-05-26T10:52:55Z",
+      "snippet": "Considering my estimated medical treatment expenses for the entire year would be less than AED 40000, the quoted premium seems high",
+      "action": "Client Dinu Paul (Mariamma Jose case HEA-WXD99WYY) is pushing back on premium — medical expenses ~AED 40k/yr, premium feels too high. Need to present cost/benefit breakdown and close with best option."
+    },
+    {
+      "id": "19e46077fe088162",
+      "category": "Urgent",
+      "subject": "Attention urgent assistance required: HEA-HZ7X3FX6",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-20T15:35:55Z",
+      "snippet": "Client Jonalyn Aboc is online and has inquired again — please contact urgently",
+      "action": "Client Jonalyn Aboc (HEA-HZ7X3FX6) re-inquired and updated plan type to Entry level. Contact and qualify."
+    },
+    {
+      "id": "19e45e26e16a2788",
+      "category": "Urgent",
+      "subject": "Attention urgent assistance required: HEA-CFSUX9PS",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-20T14:55:26Z",
+      "snippet": "Client Hany Said is online and has inquired again — please contact urgently",
+      "action": "Client Hany Said (HEA-CFSUX9PS) re-inquired and updated plan type to Good. Contact and qualify."
+    },
+    {
+      "id": "19e4a02ecc241bcd",
+      "category": "Urgent",
+      "subject": "Fwd: Siddhiraj Marathe Health Insurance HEA-GDQVRGWU",
+      "from": "talib.rehan@insurancemarket.ae",
+      "date": "2026-05-21T10:09:13Z",
+      "snippet": "Kindly assist with the Adamjee policy issuance",
+      "action": "Colleague Talib Rehan has forwarded Siddhiraj Marathe's case (HEA-GDQVRGWU) — needs Adamjee policy issuance assistance. Check CRM and coordinate."
+    }
+  ],
+  "action": [
+    {
+      "id": "19e6d047545e6633",
+      "category": "Action - Renewal",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-8887113304",
+      "from": "noreply@mail.te-services.ae",
+      "date": "2026-05-28T05:17:47Z",
+      "client": "Arwa Mostafa",
+      "days_to_expiry": 15,
+      "action": "Contact Arwa Mostafa — Takaful Emarat policy expiring in 15 days. Send renewal quote."
+    },
+    {
+      "id": "19e67e05b064f195",
+      "category": "Action - Renewal CRITICAL",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-7572767978",
+      "from": "noreply@mail.te-services.ae",
+      "date": "2026-05-27T05:20:10Z",
+      "client": "Shiela Marie",
+      "days_to_expiry": 7,
+      "action": "URGENT — Shiela Marie policy expires in 7 days. Contact immediately to renew."
+    },
+    {
+      "id": "19e5d9c3f8e467c1",
+      "category": "Action - Renewal CRITICAL",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-9515395686",
+      "from": "noreply@mail.te-services.ae",
+      "date": "2026-05-25T05:29:40Z",
+      "client": "Hirushi Shenaya",
+      "days_to_expiry": 1,
+      "action": "CRITICAL — Hirushi Shenaya policy expiring in 1 DAY (notified May 25). Check if renewed, if not escalate immediately."
+    },
+    {
+      "id": "19e5d99d8e6cf33d",
+      "category": "Action - Renewal",
+      "subject": "Medical Insurance Renewal Notification Policy # 01-115-01-25-7487682108",
+      "from": "noreply@mail.te-services.ae",
+      "date": "2026-05-25T05:27:03Z",
+      "client": "Orhan Faour",
+      "days_to_expiry": 7,
+      "action": "Orhan Faour policy expiring soon. Contact and send renewal quote."
+    },
+    {
+      "id": "19e2abba302a78c1",
+      "category": "Action - Pendency",
+      "subject": "Pendency Insurance Market",
+      "from": "bdms.organic@insurancemarket.ae",
+      "date": "2026-05-15T08:22:55Z",
+      "snippet": "Pendency report as on 14-05-2026 — 4 pending cases",
+      "action": "Review pendency report. 4 cases pending. Identify which are yours and action."
+    },
+    {
+      "id": "19e69a33e4230995",
+      "category": "Action - Payment Follow-up",
+      "subject": "Pay now for your health insurance: HEA-CEFKU68K",
+      "from": "alfred@notify.insurancemarket.ae",
+      "date": "2026-05-27T13:32:45Z",
+      "client": "Sohel",
+      "action": "Client Sohel (HEA-CEFKU68K) has been approved and sent a payment link. Follow up to ensure payment is completed."
+    },
+    {
+      "id": "19e3a26d8342e3c8",
+      "category": "Action - Active Lead",
+      "subject": "Client Plan Type Update + Urgent Alert: HEA-HACCRASH",
+      "from": "alfred@alert.insurancemarket.email",
+      "date": "2026-05-18T08:14:40Z",
+      "client": "kuzhaliniyan udhayakumar",
+      "action": "Client kuzhaliniyan udhayakumar (HEA-HACCRASH) changed plan from Best to Good — still active. Contact and qualify budget."
+    }
+  ],
+  "info_skipped": [
+    "NextCare survey (clientsatisfaction@nextcarehealth.com)",
+    "DubaiCare Network List update",
+    "July'26 Renewal terms broadcast",
+    "IT maintenance notice",
+    "Google Chat missed message (Shoeb Khan)",
+    "HR attendance/login-logout notifications",
+    "Travel insurance UX release notes",
+    "Sukoon Purple Investment Plan launch announcement",
+    "Service Excellence Session takeaways",
+    "War Cover on Motor update",
+    "Sublime coding event",
+    "Holiday Market staycation deals",
+    "Craft app update",
+    "Marie Gautron template newsletter"
+  ],
+  "summary": {
+    "urgent_count": 5,
+    "action_count": 7,
+    "info_skipped_count": 14,
+    "total_unread_scanned": 50
+  }
+}
