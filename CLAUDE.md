@@ -14,6 +14,7 @@ Built on 2026-10-26 from PKM-Work (Brain-Work). Personal topics stay in PKM-Pers
 2. A question that spans both (for example "which plan fits this lead") reads both brains' indexes.
 3. Follow the rulebook of the brain you write in. Never write into the other brain during an ingest; link a stub instead.
 4. A new source goes into the `raw/` of the brain it belongs to. If unsure which, ask the owner.
+5. Agents capture new work as inbox notes (rules in `AGENTS.md`, machine setup in `SETUP.md`). The daily filing job files `raw/Inbox - To sort/` into the wiki.
 
 ## Layout of each brain
 - `raw/` sources, read-only.
