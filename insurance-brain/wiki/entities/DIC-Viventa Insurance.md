@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/DICViventa.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, dic, viventa, mednet, benefitsplus]
 summary: "DIC-Viventa: 9 Access Health BenefitsPlus plans on the Mednet network, AED 3,180.57 to 9,428.20 before VAT, spanning Silk Road, Emerald, Green, Silver, and Gold."
+aliases: ["DIC-Viventa"]
 ---
-# DIC-Viventa
+# DIC-Viventa Insurance
 
 **DIC-Viventa** represents a specialized product partnership between [[Dubai Insurance]] Company (DIC) and benefits administrator Viventa, marketed under the **Access Health BenefitsPlus** brand on the **[[Mednet]]** TPA network.
 

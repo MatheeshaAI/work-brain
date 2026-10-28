@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Max-Health.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, max-health, maxwell, executive, premium]
 summary: "Max Health: 3 executive-tier health plans on the Maxwell network, AED 12,949 to 16,716 before VAT, featuring zero co-pays on diagnostics and medicines."
+aliases: ["Max Health"]
 ---
-# Max Health
+# Max Health Insurance
 
 **Max Health** is an executive health insurance provider in the UAE operating under the **Maxwell** provider network label.
 
@@ -43,6 +44,6 @@ All 3 plans operate on the **Maxwell** network, designed for corporate executive
 
 ## 4. Market Position & Sales Notes
 - **Frictionless Executive Product**: Attractive to clients seeking simple flat-fee consultations with zero pharmacy or laboratory out-of-pocket costs.
-- **Narrow Niche**: With only 3 plans and zero budget tiers, Max Health represents a boutique alternative to larger IPMI carriers like [[Cigna]] or [[BUPA]].
+- **Narrow Niche**: With only 3 plans and zero budget tiers, Max Health represents a boutique alternative to larger IPMI carriers like [[Cigna Insurance]] or [[BUPA Insurance]].
 
 Related: [[Plans - Max Health]], [[Plan library]], [[Plan price tiers]], [[Network tiers]].

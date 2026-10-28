@@ -7,7 +7,7 @@ summary: "Orient Insurance: 13 plans, 7 on Mednet and 6 on Nextcare, AED 1,559 t
 ---
 # Orient Insurance
 
-Insurer with 13 plans, 7 on [[Mednet]] and 6 on [[Nextcare]]. Detail: [[Plans - Orient Insurance]], [[Insurance plan catalogue]]. Related group entities: [[Orient Takaful]], [[Orient-Allianz]].
+Insurer with 13 plans, 7 on [[Mednet]] and 6 on [[Nextcare]]. Detail: [[Plans - Orient Insurance]], [[Insurance plan catalogue]]. Related group entities: [[Orient Takaful Insurance]], [[Orient-Allianz Insurance]].
 
 ## Plan Catalogue & Networks (2026-05-01)
 Orient Insurance lists **13 plans** across two major TPAs: **[[Mednet]]** (7 plans) and **[[Nextcare]]** (6 plans), spanning AED 1,558.57 to AED 8,199.13 before VAT.
@@ -44,7 +44,7 @@ Orient Insurance lists **13 plans** across two major TPAs: **[[Mednet]]** (7 pla
 ## Correction: `OI2` is Oman Insurance, not Orient (2026-10-22)
 An earlier version of this page read the renewal code **`OI2`** as Orient. The renewal file says otherwise: *"Provider: **Oman Insurance** (OI2)"*, with an Oman policy number of the form `P/01/<year>/<serial>`. `OI2` is a renewal-file prefix for **Oman Insurance**, an unrelated insurer with no plan file in the library. See [[Oman Insurance]].
 
-**Orient Insurance has no renewals in the workspace.** It appears instead in the commission exports: **6 of the 84 rows** across the ten dated exports - the third largest book after [[Takaful Emarat]] and [[Abu Dhabi National Takaful]]. Source: [[Sales commission export]].
+**Orient Insurance has no renewals in the workspace.** It appears instead in the commission exports: **6 of the 84 rows** across the ten dated exports - the third largest book after [[Takaful Emarat Insurance]] and [[Abu Dhabi National Takaful Insurance]]. Source: [[Sales commission export]].
 
 ## A name collision worth watching
-Orient's Mednet range includes **Silk Road** - and so does [[NLGIC Liva]]'s. Two insurers, two networks' products with the same plan-family name, and different prices: a quote comparison that lists "Silk Road" without the insurer will be ambiguous. See [[Plan sheet format]] and [[Insurance plan catalogue]].
+Orient's Mednet range includes **Silk Road** - and so does [[NLGIC Liva Insurance]]'s. Two insurers, two networks' products with the same plan-family name, and different prices: a quote comparison that lists "Silk Road" without the insurer will be ambiguous. See [[Plan sheet format]] and [[Insurance plan catalogue]].

@@ -7,7 +7,7 @@ summary: "7 Nextcare plans, lettered G down to A, from AED 1,163 (the cheapest e
 ---
 # Plans - Fidelity United
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Fidelity United]]. All plans are on [[Nextcare]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Fidelity United Insurance]]. All plans are on [[Nextcare]].
 
 | Type | Plans | Price AED (excl. VAT) | With VAT |
 |---|---|---|---|

@@ -10,4 +10,4 @@ summary: "Intent: build a multiagent system with an orchestration system to quer
 Intent: build a multiagent system with an orchestration system to query from this project. Each folder will have an agent like Nextcare Agent, Mednet Agent, etc.
 
 ## Relations
-Directly relates to [[Multi-agent systems]], [[Router agent]], [[Specialist agents]], [[Parallel agent search]], [[TPA Network Lookup Agents]] (existing design with router + 4 TPA specialists).
+Directly relates to Multi-agent systems, Router agent, Specialist agents, Parallel agent search, [[TPA Network Lookup Agents]] (existing design with router + 4 TPA specialists).

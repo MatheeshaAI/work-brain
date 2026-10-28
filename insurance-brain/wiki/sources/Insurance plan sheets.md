@@ -73,4 +73,4 @@ A provider with plans on several networks gets one `## Network:` block per netwo
 - [[Basic plan filter]]
 - [[Co-pay and co-insurance]]
 - [[Health Insurance Companies]]
-- [[Dubai Insurance]], [[Takaful Emarat]], [[QIC]], [[Adamjee]]
+- [[Dubai Insurance]], [[Takaful Emarat Insurance]], [[Qatar Insurance Company]], [[Adamjee Insurance]]

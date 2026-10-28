@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/BUPA.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, premium, international, bupa, sukoon]
 summary: "BUPA: 5 luxury international private medical insurance plans on Sukoon networks, AED 14,455 to 102,498 before VAT; Ultimate is the most expensive plan in the vault."
+aliases: ["BUPA"]
 ---
-# BUPA
+# BUPA Insurance
 
 **British United Provident Association (BUPA)** is a leading international private medical insurance (IPMI) provider. In the UAE market, BUPA operates in local regulatory partnership with **[[Sukoon Insurance]]** (formerly Oman Insurance Company), utilizing Sukoon's premium healthcare provider networks.
 

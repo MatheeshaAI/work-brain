@@ -17,7 +17,7 @@ Eight TPAs with their networks:
 | [[Mednet]] | Gold, Silver Premium, Silver Classic, Emerald, Pearl, Silk Road IP, Silk Road OP (7) | wide, UAE-wide |
 | [[Nextcare]] | GN+, GN, GN Limited, RN, RN2, RN3 (6) | wide, Dubai |
 | [[Dubai Care]] | N1, Exclusive N2, N2, N3, N4, N5 (6) | Dubai-focused |
-| [[ADNIC]] (stub) | Platinum, Gold, Silver, Bronze (4) | Abu Dhabi focus |
+| [[Abu Dhabi National Insurance Company]] (stub) | Platinum, Gold, Silver, Bronze (4) | Abu Dhabi focus |
 | [[Sukoon Insurance]] (stub) | Premium, Edge, Signature + Medcare, Signature, Advance, Vital (6) | regional |
 | [[Ecare]] | Classic, Green, Blue (3) | budget, Northern Emirates |
 | [[Aafiya]] | APN Plus, APN, Essential (3) | various |
@@ -34,4 +34,4 @@ Architecture: user question, a TPA orchestrator, a router agent that decides whi
 - Nothing in these four notes actually lists hospitals; the data lives in the network lists (for example [[Dubaicare-Hospitals-Dubai]] and the NAS network files in raw) and facility-search tools.
 - Status: design and an empty template; no implementation.
 
-Related: [[Finding a hospital in a network]], [[Router agent]], [[Specialist agents]], [[Work OS Master Index]].
+Related: [[Finding a hospital in a network]], Router agent, Specialist agents, [[Work OS Master Index]].

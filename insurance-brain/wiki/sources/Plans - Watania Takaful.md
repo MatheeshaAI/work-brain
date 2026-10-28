@@ -7,7 +7,7 @@ summary: "12 plans: 6 on Mednet (Silk Road AED 3,143 to Gold 9,162) and 6 on NAS
 ---
 # Plans - Watania Takaful
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Watania Takaful]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Watania Takaful Insurance]].
 
 | Network | Entry | Good | Best |
 |---|---|---|---|

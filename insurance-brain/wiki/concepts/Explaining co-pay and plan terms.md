@@ -38,7 +38,7 @@ The largest block of talk in [[Call transcriptions]] is the advisor reading the 
 - It is also the source of the [[Customer categories]] signal: salary band, visa type and network choice decide which of these lines the customer will actually use.
 - The same three terms (consultation 20% capped at AED 50, diagnostics 20%, medicines 20%) appear in the written channel - the chat exports use them as the standard line for every plan quoted - so the explanation on the phone matches the sheet in the message.
 
-Related: [[Plan price tiers]], [[Network tiers]], [[Dubai Care]], [[Takaful Emarat]], [[Call handling routine]], [[Customer objections]].
+Related: [[Plan price tiers]], [[Network tiers]], [[Dubai Care]], [[Takaful Emarat Insurance]], [[Call handling routine]], [[Customer objections]].
 
 ## The extraction-side distinction (2026-10-22 ingest)
 The customer explanation above mixes co-pay and co-insurance, but the **data extraction has to keep them apart**: on an IMCRM quote page the co-pay column header also matches "co-insurance", so the original extraction code put the two in one column. The fix requires the co-pay header to exclude "insurance" and matches co-insurance separately, giving two output columns. See [[Co-pay and co-insurance]].

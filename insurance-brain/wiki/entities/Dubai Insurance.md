@@ -25,15 +25,15 @@ Sources: [[Entry level plans extraction plan]], [[Plan price tiers]].
 **The name is unstable.** Three spellings appear across the vault and the CRM catalogue, and the older vault vocabulary says "Dubai Care N4". This is a template artefact, not a plan family - flagged in [[Plan price tiers]].
 
 ## Its place in the business
-- **5 of the 32 policies** in the 09-Mar-2026 commission export are with Dubai Insurance - second only to [[Takaful Emarat]] (22). See [[Sales commission export]], [[Commission and premium reporting]].
-- It is one of the insurers writing on the **Ecare** network, alongside [[Takaful Emarat]]'s E Care Blue writing. See [[Network tiers]].
+- **5 of the 32 policies** in the 09-Mar-2026 commission export are with Dubai Insurance - second only to [[Takaful Emarat Insurance]] (22). See [[Sales commission export]], [[Commission and premium reporting]].
+- It is one of the insurers writing on the **Ecare** network, alongside [[Takaful Emarat Insurance]]'s E Care Blue writing. See [[Network tiers]].
 - Its N4 plan appears in the family-plan comparison alongside a Takaful Emarat plan and a HAYAH plan - see [[Quote request handling]].
 
 ## Caveats
 - The workspace holds two dedicated files for this insurer (`Workspace/Knowledge Base/Dubai-Insurance.md` and `Workspace/Plans/Dubai-Insurance.md`) which are **not in this ingest scope**; they are the place to look for the canonical plan list and underwriting notes.
-- Nothing ingested here measures its approval speed or service level. The "10-20 minutes faster approval" argument in the calls is a sales claim about the operator, not about this insurer - see [[Takaful Emarat]] and [[Customer objections]].
+- Nothing ingested here measures its approval speed or service level. The "10-20 minutes faster approval" argument in the calls is a sales claim about the operator, not about this insurer - see [[Takaful Emarat Insurance]] and [[Customer objections]].
 
-Related: [[Dubai Care]], [[Ecare]], [[Takaful Emarat]], [[Entry level plans]], [[Network tiers]], [[Plan price tiers]].
+Related: [[Dubai Care]], [[Ecare]], [[Takaful Emarat Insurance]], [[Entry level plans]], [[Network tiers]], [[Plan price tiers]].
 
 ## Cross-source note: leads and renewals (2026-10-22)
 Dubai Insurance (code DIC) is the incumbent on 7 of 20 renewals and is mentioned in 15 individual lead files ([[Health renewals leads folder]], [[Individual health insurance leads folder]]).

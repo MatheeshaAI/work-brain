@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/10_Work-Insurance/whatsapp-analysis-may-june-2026.md", "raw/Insurance Workspace/Daily_Audit_2026-05-26.md", "raw/Insurance Workspace/Daily_Audit_2026-05-27.md", "raw/Insurance Workspace/Daily_Audit_2026-05-28.md", "raw/Insurance Workspace/Daily_Audit_2026-05-29.md", "raw/10_Work-Insurance/Call transcriptions.md", "raw/10_Work-Insurance/Matheesha Sarathchandra_09-Mar-2026 10_33_57.csv", "raw/10_Work-Insurance/steps to get the client data from imcrm.md", "raw/Health-Insurance/docs/superpowers/plans/2026-05-22-entry-level-plans-extraction.md", "raw/Health-Insurance/Memory/IMCRM_Chrome_Extension.md", "raw/work_os system designing documents/03_INSURANCE_KNOWLEDGE/Companies.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, insurance]
 summary: "The largest insurer in the book of business - 22 of 32 policies - and the plans it writes on the Aafiya, E Care Blue and Nextcare networks."
+aliases: ["Live Insurance", "Takaful Emarat"]
 ---
-# Takaful Emarat
+# Takaful Emarat Insurance
 
 An insurer whose plans appear in [[WhatsApp analysis May-June 2026]].
 
@@ -23,7 +24,7 @@ Observed renewal-notice behaviour:
 - The pipeline was **7 policies deep on 26 and 27 May, 10 on 28 May**, and 4 critical on 29 May - roughly 10 live policies needing renewal at any time.
 - Two policies had **already passed their expiry** by the end of the window, having been flagged days earlier. Renewal notices do not stop; a lapsed policy has to be chased by hand.
 
-The exact terms of the renewal notice are not in the vault beyond what the audits quote. See [[Daily sales audit]], [[Sales operations issues]], [[QIC]].
+The exact terms of the renewal notice are not in the vault beyond what the audits quote. See [[Daily sales audit]], [[Sales operations issues]], [[Qatar Insurance Company]].
 
 ## The biggest insurer in the book of business
 The commission export of 09-Mar-2026 holds **32 policies**, of which **22 are with Takaful Emarat** - 69% of the book, and 94% once [[Dubai Care]] (5) and HAYAH (3) are added. Source: [[Sales commission export]], [[Commission and premium reporting]].
@@ -107,12 +108,12 @@ Largest insurer in the plan price listing (33 rows): [[IMCRM health detail plan 
 - **Installment Financing**: Takaful Emarat is unique in supporting split installment plans (e.g. Tabby / debit schedules), driving high sales conversion.
 
 ## The book of business, measured twice (2026-10-22 ingest)
-- **60 of the 84 rows** in the ten dated commission exports in `Sales Reports/` are Takaful Emarat (see [[Sales commission export]]). Add [[Dubai Insurance]] (4), [[Abu Dhabi National Takaful]] (8), [[Orient Insurance]] (6), [[Cigna]] (3) and [[QIC]] (3) and the book is 94% concentrated in six insurers.
-- [[Adamjee]] and [[Oman Insurance]] appear in **no** commission export at all.
+- **60 of the 84 rows** in the ten dated commission exports in `Sales Reports/` are Takaful Emarat (see [[Sales commission export]]). Add [[Dubai Insurance]] (4), [[Abu Dhabi National Takaful Insurance]] (8), [[Orient Insurance]] (6), [[Cigna Insurance]] (3) and [[Qatar Insurance Company]] (3) and the book is 94% concentrated in six insurers.
+- [[Adamjee Insurance]] and [[Oman Insurance]] appear in **no** commission export at all.
 - The renewal book matches: **6 of the 10 May 2026 renewal cases** and **4 of the 8 April board rows** are Takaful Emarat. Source: [[Renewals board]], [[Client dossiers]].
 
 ## Three names for one insurer
-The workspace writes this insurer as **Takaful Emarat Insurance** (commission exports), **TE** (renewal filenames and board rows) and **Live Insurance** (one renewals-board row). Policy numbers are `01-115-01-25-XXXXXXXXXX`, and the renewal filename rule keeps only the **last ten digits** - `TE-XXXXXXXXXX`. See [[Live Insurance]] and [[Lead reference IDs]].
+The workspace writes this insurer as **Takaful Emarat Insurance** (commission exports), **TE** (renewal filenames and board rows) and **Live Insurance** (one renewals-board row). Policy numbers are `01-115-01-25-XXXXXXXXXX`, and the renewal filename rule keeps only the **last ten digits** - `TE-XXXXXXXXXX`. See Takaful Emarat and [[Lead reference IDs]].
 
 ## What the workspace does not settle
 - The **TE Gold / TE Yakut** tier names appear in a task note describing an upgrade - a plan upgrade handled as a renewal case, with the client circumstances recorded in the task rather than the dossier. See [[Task list]].
@@ -121,6 +122,9 @@ The workspace writes this insurer as **Takaful Emarat Insurance** (commission ex
 ## In the work_os design set (2026-10-22 ingest)
 This insurer appears in the work_os roster of **24 UAE insurers** that the design set claims to support, listed both in `03_INSURANCE_KNOWLEDGE/Companies.md` and in the "Insurance Companies Supported" section of the sales-agent plan. The roster also carries the renaming history - **GIG (previously AXA)**, **Sukoon (previously Oman Insurance)**, **Max Health (a product of Dubai Insurance)** - and it is the roster that names this insurer **Takaful Emarat Insurance**. Source: [[Health Insurance Companies]], [[Health Insurance Sales Agent Plan (Jan 2026)]].
 
-The roster is a **design claim**: the same design set's own code never gets past stubs, so "supported" means "written down". See [[Planning document]].
+The roster is a **design claim**: the same design set's own code never gets past stubs, so "supported" means "written down". See Planning document.
 
 One network detail from that set is worth keeping here: the work_os network lists give **Ecare** three networks (Classic, Green, Blue), and it is this insurer's **E Care Blue** plans that carry that network label, while Dubai Insurance writes the plain "Ecare" label. So one TPA's three networks appear in the CRM under two different labels, one of which is also one of this insurer's plan names. See [[Ecare]], [[Network tiers]], [[TPA and network reference]].
+
+## Names used on the desk
+Takaful Emarat appears under three labels: the contract name, the short code `TE` on renewal filenames, and **Live Insurance** on the renewals board. The Live Insurance link is an inference from the policy-number format (`01-115-01-25-...`); no workspace source states it in words. One April 2026 renewal was completed under the Live Insurance label, consolidated into a combined family policy. Source: [[Renewals board]].

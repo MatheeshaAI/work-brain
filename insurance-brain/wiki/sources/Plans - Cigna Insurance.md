@@ -7,7 +7,7 @@ summary: "40 international-style plans on the Neuron network, all Best, AED 12,4
 ---
 # Plans - Cigna Insurance
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Cigna]]. Every plan is on the [[Neuron]] network and all are classed Best; there is no entry-level product.
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Cigna Insurance]]. Every plan is on the [[Neuron]] network and all are classed Best; there is no entry-level product.
 
 ## Structure
 Product families: **Regional** (UAE and region), **International**, **International Plus**, each with levels **General**, **General Plus**, **Comprehensive** (and "Comprehensive excl. AH", meaning excluding an add-on), optional **Healthy Connect** and a **WW** (worldwide) or **WWE** (worldwide excluding the US) reach. Names are formulas like "International Plus - Comprehensive + Healthy Connect WW".

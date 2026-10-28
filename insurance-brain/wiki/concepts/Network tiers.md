@@ -37,7 +37,7 @@ The CRM platform's own catalogue names the network on every plan line. From the 
 | **Mednet** | Takaful Emarat, Adamjee, NLGIC, Abu Dhabi National Takaful |
 | **Sukoon** | Oman Insurance |
 
-Twelve insurers write on those eight networks. This is the same set the vault's provider-lookup skills cover - [[Mednet]], [[NAS]], [[Nextcare]], [[Dubai Care]], [[Takaful Emarat]], [[Adamjee]] - which confirms the network list and the plan catalogue are two views of one thing. See [[Insurance plan catalogue]], [[Network database design]].
+Twelve insurers write on those eight networks. This is the same set the vault's provider-lookup skills cover - [[Mednet]], [[NAS]], [[Nextcare]], [[Dubai Care]], [[Takaful Emarat Insurance]], [[Adamjee Insurance]] - which confirms the network list and the plan catalogue are two views of one thing. See [[Insurance plan catalogue]], [[Network database design]].
 
 ## How the network appears to the customer
 **A network is named on the quotation sheet, and the sheet can look identical between two insurers.** The customer sees "Dubai Care N4" or "Pearl" or "Next N5" on a line and cannot tell which company operates it. That is why the sales advice on the calls is to compare **operator and service**, not benefits - see [[Handling the price objection]].
@@ -58,7 +58,7 @@ Three problems with reading that as a tier rule:
 The 2026-05-22 extraction plan changes the key from network to **plan name** precisely to avoid this, which is why the two rules appear in the vault together and disagree. See [[Entry level plans]], [[Aafiya]], [[Ecare]].
 
 ## Additional plan-code lists (added)
-[[Network plan code list (NAS_CN)]] adds insurer ladders that are not TPA networks: [[ADNIC]] (Platinum, Gold, Silver, Bronze) and [[Sukoon Insurance]] (Premium, Edge, Signature, Advance, Vital). The Mednet provider columns are in [[MEDNET provider list schema]].
+[[Network plan code list (NAS_CN)]] adds insurer ladders that are not TPA networks: [[Abu Dhabi National Insurance Company]] (Platinum, Gold, Silver, Bronze) and [[Sukoon Insurance]] (Premium, Edge, Signature, Advance, Vital). The Mednet provider columns are in [[MEDNET provider list schema]].
 
 ## Network count discrepancies (work_os)
 The work_os design note for the TPA agents gives Mednet 8 networks, Dubai Care 7 (N5 split into OP and IP) and NAS 6, while the work_os TPA list gives Mednet 7, Dubai Care 6 and NAS 5 (CN, GN, RN, SRN, WN). This page's table uses the 8/7/6/6 split; see [[TPAs and Networks Reference (Work OS)]].

@@ -1,9 +1,10 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Abu-Dhabi-National-Insurance-Company.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, insurance, adnic, shifa, uae]
 summary: "Abu Dhabi National Insurance Company (ADNIC): 36 Shifa-branded plans on its proprietary network, AED 3,178 to 14,966 before VAT, spanning Bronze, Silver, and Gold with dental/optical riders."
+aliases: ["ADNIC"]
 ---
 # Abu Dhabi National Insurance Company
 
@@ -83,8 +84,11 @@ All 36 plans sit on the insurer's own network (**Abu Dhabi National Insurance Co
 ---
 
 ## 4. Market Position & Sales Observations
-- **Premium Entry Floor**: ADNIC's cheapest plan (`SHIFA BRONZE 4` at AED 3,178.00) costs nearly three times the baseline entry plans of [[Takaful Emarat]] (AED 1,114) or [[Fidelity United]] (AED 1,163), placing it in the mid-to-high personal visa bracket.
-- **Sister Takaful Operator**: ADNIC operates alongside its Islamic window [[Abu Dhabi National Takaful]], which sells via [[NAS]].
+- **Premium Entry Floor**: ADNIC's cheapest plan (`SHIFA BRONZE 4` at AED 3,178.00) costs nearly three times the baseline entry plans of [[Takaful Emarat Insurance]] (AED 1,114) or [[Fidelity United Insurance]] (AED 1,163), placing it in the mid-to-high personal visa bracket.
+- **Sister Takaful Operator**: ADNIC operates alongside its Islamic window [[Abu Dhabi National Takaful Insurance]], which sells via [[NAS]].
 - **Sales Presence**: The vault contains no direct commission rows or renewal files for ADNIC, indicating it is primarily a benchmark reference rather than a core high-conversion carrier for the desk.
 
-Related: [[Plans - Abu Dhabi National Insurance Company]], [[Abu Dhabi National Takaful]], [[Plan library]], [[Network tiers]], [[Plan price tiers]].
+Related: [[Plans - Abu Dhabi National Insurance Company]], [[Abu Dhabi National Takaful Insurance]], [[Plan library]], [[Network tiers]], [[Plan price tiers]].
+
+## Also known as ADNIC
+Short name on the NAS CN plan code list. Its plan ladder there is Platinum, Gold, Silver and Bronze. Sources: `raw/10_Work-Insurance/NAS_CN.md`, [[Copilot chat 2026-02-24 insurance notes]].

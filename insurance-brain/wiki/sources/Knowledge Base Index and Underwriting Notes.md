@@ -16,7 +16,7 @@ Rows: Dubai Insurance (child-alone policy conditions), Takaful Emarat (bank tran
 Ages 6 to 12 only. A child-alone policy is accepted only if one of: the sponsor parent is insured with any insurer; both parents are insured with any insurer; one parent is insured with [[Dubai Insurance]] on the same or a higher plan. A policy copy must be uploaded in each case.
 
 ## Takaful Emarat - bank transfer delay
-Bank transfers take one business day to reflect; documents are issued only after confirmation, so a transfer client gets the policy about 24 hours later, never the same day. Set that expectation up front. See [[Takaful Emarat]].
+Bank transfers take one business day to reflect; documents are issued only after confirmation, so a transfer client gets the policy about 24 hours later, never the same day. Set that expectation up front. See [[Takaful Emarat Insurance]].
 
 ## General - age over 65
 - Applies above 65 (unclear for exactly 65, so apply when over 65 to be safe).

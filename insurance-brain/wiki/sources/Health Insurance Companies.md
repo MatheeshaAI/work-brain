@@ -15,7 +15,7 @@ Includes: Abu Dhabi National Insurance, Abu Dhabi National Takaful, Adamjee Insu
 
 - [[Insurance plan catalogue]]
 - [[Plan price tiers]]
-- [[Insurance Sales Platform]]
+- Insurance Sales Platform
 
 ## Also stored in work_os
 The same list appears in three places in the `work_os system designing documents` folder: `00_ORIGINALS/Health Insurance Companies.md` (plain list, same as this note), `00_ORIGINALS/Insurance Companies.md` (the list as wikilinks, with a closing explanation that each name can become a plan note) and `03_INSURANCE_KNOWLEDGE/Companies.md` (headed "UAE Health Insurance Companies", states "all 24" companies). All carry the same 24 names. The conversation log in the same folder says "23+" companies, so 24 is the count to use. The list drives the per-insurer plan notes and the expert prompt: [[Health Insurance Expert System Prompt]], [[Work OS Master Index]].

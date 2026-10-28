@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Abu-Dhabi-National-Takaful.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, takaful, nas, adnic]
 summary: "Abu Dhabi National Takaful: 30 plans across the NAS network, AED 2,228 to 29,273 before VAT, spanning WN, SRN, RN, GN, CN, and IPMI tiers."
+aliases: ["Abu Dhabi National Takaful"]
 ---
-# Abu Dhabi National Takaful
+# Abu Dhabi National Takaful Insurance
 
 **Abu Dhabi National Takaful** is the Sharia-compliant sister company of [[Abu Dhabi National Insurance Company]] (ADNIC). In the health insurance workspace, it operates entirely on the **[[NAS]]** TPA network, offering an extensive structured hierarchy across NAS provider networks.
 

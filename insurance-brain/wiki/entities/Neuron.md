@@ -8,7 +8,7 @@ summary: "Stub: a network label that appears in the workspace only on Cigna Insu
 ---
 # Neuron
 
-**Stub.** A network label (`NEURON`) that the workspace plan library uses for **one insurer only**: all **40** of [[Cigna]]'s plans - Regional, International and International Plus, General to Comprehensive, with the Healthy Connect and worldwide variants. No other insurer in the library writes on it. Source: [[Plans - Cigna Insurance]], [[Insurance plan catalogue]].
+**Stub.** A network label (`NEURON`) that the workspace plan library uses for **one insurer only**: all **40** of [[Cigna Insurance]]'s plans - Regional, International and International Plus, General to Comprehensive, with the Healthy Connect and worldwide variants. No other insurer in the library writes on it. Source: [[Plans - Cigna Insurance]], [[Insurance plan catalogue]].
 
 **What it is worth knowing:**
 - **All 40 plans are Best tier**, priced AED **12,434 to 45,576** before VAT (13,094 to 47,894 with VAT), on a single co-pay line: 20 percent up to AED 100 per visit. It is an international-cover network, not a cheap one.
@@ -17,7 +17,7 @@ summary: "Stub: a network label that appears in the workspace only on Cigna Insu
 - **No network documentation was ingested.** Neuron appears in the workspace only as a label in the plan tables - there is no provider file, no tier ladder and no hospital list for it, so this page is a stub and says so.
 
 ## Related
-- [[Cigna]]
+- [[Cigna Insurance]]
 - [[Plans - Cigna Insurance]]
 - [[Insurance plan catalogue]]
 - [[Network tiers]]

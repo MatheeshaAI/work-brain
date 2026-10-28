@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/WATANIA-TAKAFUL.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, watania, takaful, mednet, nas]
 summary: "Watania Takaful: 12 plans across Mednet and NAS networks, AED 2,568 to 10,747 before VAT, featuring lower diagnostic/medicine co-pays (10%) traded against higher base premiums."
+aliases: ["Watania Takaful"]
 ---
-# Watania Takaful
+# Watania Takaful Insurance
 
 **Watania International Holding** (formerly Noor Takaful / Dar Al Takaful) is a major UAE Islamic insurance provider. In health insurance, Watania offers a balanced product catalogue split between **[[Mednet]]** and **[[NAS]]** TPA networks.
 
@@ -62,7 +63,7 @@ In the workspace plan catalogue ([[Plans - Watania Takaful]]), Watania lists **1
 ---
 
 ## 4. Market Position & Sales Notes
-- **Favorable Co-Pay Trade-Off**: Watania charges higher upfront premiums than [[NLGIC Liva]] or [[Adamjee]] on the same networks, but rewards policyholders with lower co-pays on diagnostic tests and medicines.
+- **Favorable Co-Pay Trade-Off**: Watania charges higher upfront premiums than [[NLGIC Liva Insurance]] or [[Adamjee Insurance]] on the same networks, but rewards policyholders with lower co-pays on diagnostic tests and medicines.
 - **Top-End NAS Ceiling**: `Plan 1` at AED 10,747 is one of the highest priced commercial SME plans on NAS outside dedicated IPMI products.
 
 Related: [[Plans - Watania Takaful]], [[Mednet]], [[NAS]], [[Plan library]], [[Plan price tiers]], [[Network tiers]].

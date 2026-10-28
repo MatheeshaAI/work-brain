@@ -16,7 +16,7 @@ Despite the file name, this is not about one network. It is a seven-block list o
 | [[Mednet]] | Gold, Silver Premium, Silver Classic, Emerald, Pearl, Silk Road IP, Silk Road OP |
 | [[Nextcare]] | GN Plus, GN, GN Limited, RN, RN2, RN3 |
 | [[Dubai Care]] | N1, Exclusive N2, N2, N3, N4, N5 |
-| [[ADNIC]] | Platinum, Gold, Silver, Bronze |
+| [[Abu Dhabi National Insurance Company]] | Platinum, Gold, Silver, Bronze |
 | [[Sukoon Insurance]] | Premium, Edge, Signature + Medcare, Signature, Advance, Vital |
 | [[Ecare]] and [[Aafiya]] | Ecare Classic, Green, Blue; Aafiya APN Plus, APN, Essential |
 

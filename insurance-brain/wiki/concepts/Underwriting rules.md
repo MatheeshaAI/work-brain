@@ -23,7 +23,7 @@ The pattern is worth keeping: **eligibility gates are plan-family specific, not 
 At Takaful Emarat a **bank transfer takes one business day** to reflect, and documents are issued only once the payment has confirmed. The rule's real content is a client expectation: the policy will not be issued on the same day. See [[Takaful Emarat underwriting notes]].
 
 ## What the rules are not
-- **They are not pricing rules.** Nothing here says a condition raises a premium; loadings come back in the revised quote, as in [[QIC]].
+- **They are not pricing rules.** Nothing here says a condition raises a premium; loadings come back in the revised quote, as in [[Qatar Insurance Company]].
 - **They are not verified citations.** Every note is a desk note with no insurer document attached, and all three are dated April 2026.
 - **They are not complete.** The knowledge base index lists a fourth note - a client-scoped plan scrape - whose file is missing from the folder. See [[Knowledge base index]].
 

@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Insurance Workspace/Daily_Audit_2026-05-26.md", "raw/Insurance Workspace/Daily_Audit_2026-05-27.md", "raw/Insurance Workspace/Daily_Audit_2026-05-28.md", "raw/Insurance Workspace/Daily_Audit_2026-05-29.md", "raw/Insurance Workspace/Sales-System/Tasks/tasks.json", "raw/Health-Insurance/Workspace/Plans/Adamjee-Insurance.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, insurance, mednet, nas]
 summary: "Adamjee Insurance: 19 plans on Mednet and NAS, AED 2,686 to 9,301; the insurer behind the stalled May 2026 policy issuance - and it has no commission history in the exports."
+aliases: ["Adamjee"]
 ---
-# Adamjee
+# Adamjee Insurance
 
 An insurer named in the [[Daily sales audit]] window in connection with a **policy issuance**. This page was a stub built from the audit notes; the plan library has since been ingested.
 
@@ -13,7 +14,7 @@ An insurer named in the [[Daily sales audit]] window in connection with a **poli
 - The action the audits proposed: pull the case from the CRM, ask the insurer's underwriting team to issue, and reply to the colleague confirming it had been picked up.
 - The audit noted that the outstanding question was whether all the documents were already on the CRM, so the hold-up was document collection rather than underwriting.
 
-Adamjee also appears in [[Takaful Emarat]] as one of the insurers seen only as an internal contact in the WhatsApp report.
+Adamjee also appears in [[Takaful Emarat Insurance]] as one of the insurers seen only as an internal contact in the WhatsApp report.
 
 ## The plan library (2026-10-22 ingest)
 **19 plans** - Entry Level 3, Good 10, Best 6 - priced **AED 2,686 to 9,301** before VAT, across **two** networks: **MEDNET** and **NAS**. Detail: [[Plans - Adamjee Insurance]], [[Insurance plan sheets]].
@@ -55,6 +56,6 @@ Adamjee also appears in [[Takaful Emarat]] as one of the insurers seen only as a
 
 **No commission history.** Adamjee appears in **none** of the ten dated commission exports (84 rows) and not in the March export either - so there is no booked business to point at. The stalled issuance above is the only evidence of activity. That is worth chasing: an insurer with 19 listed plans, no renewals and no commissions is either a relationship the desk does not write, or a pipeline that never converts. See [[Sales commission export]] and [[Sales reporting]].
 
-Compare: [[Takaful Emarat]], [[QIC]], [[IMCRM]], [[Mednet]], [[NAS]].
+Compare: [[Takaful Emarat Insurance]], [[Qatar Insurance Company]], [[IMCRM]], [[Mednet]], [[NAS]].
 
 Plans on NAS and Mednet in [[Insurance Plans pages 76-90 of 443]].

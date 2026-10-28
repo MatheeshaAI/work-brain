@@ -18,7 +18,7 @@ summary: "Bank transfers to Takaful Emarat take one business day to reflect, so 
 The sequence the note gives: client pays by bank transfer -> 24-hour processing window -> policy documents issued. The instruction that follows from it is behavioural, not administrative: **set the client's expectation upfront, because the policy will not be issued on the same day.**
 
 ## Why it is on the desk's mind
-The insurer is the largest in the book of business - 22 of 32 policies in the March commission export, and 33 plans in the library spanning five networks (see [[Takaful Emarat]] and [[Insurance plan sheets]]). A payment method that adds a day to issuance is the kind of thing that turns into a chase: the client has paid, the documents have not arrived, and the follow-up lands a day later. The note is written as a **service-expectation** rule, not an underwriting one, even though it sits in the underwriting notes file.
+The insurer is the largest in the book of business - 22 of 32 policies in the March commission export, and 33 plans in the library spanning five networks (see [[Takaful Emarat Insurance]] and [[Insurance plan sheets]]). A payment method that adds a day to issuance is the kind of thing that turns into a chase: the client has paid, the documents have not arrived, and the follow-up lands a day later. The note is written as a **service-expectation** rule, not an underwriting one, even though it sits in the underwriting notes file.
 
 ## Caveats
 - It applies to **bank transfer only**. A card payment is a different path, and the workspace does not record what the insurer does with it.
@@ -27,7 +27,7 @@ The insurer is the largest in the book of business - 22 of 32 policies in the Ma
 - Nothing here says the delay applies to **renewals** as opposed to new business. Renewal notices arrive on their own schedule and are handled by a separate flow - see [[Renewal pipeline]].
 
 ## Related
-- [[Takaful Emarat]]
+- [[Takaful Emarat Insurance]]
 - [[Underwriting rules]]
 - [[Documentation requirements]]
 - [[Policy booking procedure]]

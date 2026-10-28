@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/NLGIC-Liva-Insurance.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, liva, nlgic, mednet, nas]
 summary: "NLGIC - Liva Insurance: 12 plans across Mednet and NAS networks, AED 2,036.14 to 7,543.43 before VAT; NAS Plan 5 is the cheapest NAS plan in the library."
+aliases: ["NLGIC Liva"]
 ---
-# NLGIC Liva
+# NLGIC Liva Insurance
 
 **National Life & General Insurance Company (NLGIC)**, operating under the rebranded regional insurance identity **Liva Group**, is an established Oman/UAE insurer. In the workspace, NLGIC Liva utilizes a dual-TPA approach, offering parallel product suites on both **[[Mednet]]** and **[[NAS]]**.
 
@@ -62,7 +63,7 @@ In the workspace plan catalogue ([[Plans - NLGIC Liva Insurance]]), NLGIC Liva l
 ---
 
 ## 4. Market Position & Sales Notes
-- **Price Leader on NAS**: `Plan 5` at AED 2,036.14 is the lowest priced option among all NAS network offerings in the library, beating competitor NAS plans from [[Abu Dhabi National Takaful]] (AED 2,228), [[Watania Takaful]] (AED 2,568), and [[Adamjee]] (AED 2,685).
-- **Aggressive Mednet Pricing**: Undercuts equivalent Mednet plans from [[Orient Insurance]] and [[Adamjee]] by roughly 5% to 10% across Silk Road, Pearl, and Emerald.
+- **Price Leader on NAS**: `Plan 5` at AED 2,036.14 is the lowest priced option among all NAS network offerings in the library, beating competitor NAS plans from [[Abu Dhabi National Takaful Insurance]] (AED 2,228), [[Watania Takaful Insurance]] (AED 2,568), and [[Adamjee Insurance]] (AED 2,685).
+- **Aggressive Mednet Pricing**: Undercuts equivalent Mednet plans from [[Orient Insurance]] and [[Adamjee Insurance]] by roughly 5% to 10% across Silk Road, Pearl, and Emerald.
 
 Related: [[Plans - NLGIC Liva Insurance]], [[Mednet]], [[NAS]], [[Plan library]], [[Plan price tiers]], [[Network tiers]].

@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/ISONSECURE.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, isonsecure, dental, optical]
 summary: "ISONSECURE: 7 health plans on proprietary ISONSECURE network, AED 5,590.30 to 16,163.38 before VAT, featuring built-in dental and optical benefits."
+aliases: ["ISONSECURE"]
 ---
-# ISONSECURE
+# ISONSECURE Insurance
 
 **ISONSECURE** is a specialized health insurance provider operating on its own proprietary provider network label (**ISONSECURE**).
 

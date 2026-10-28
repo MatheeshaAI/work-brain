@@ -7,7 +7,7 @@ summary: "9 individual Daman plans (Care Bronze to Platinum, Premier), AED 10,39
 ---
 # Plans - Daman
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Daman]] (National Health Insurance Company - Daman). Network: Daman's own.
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Daman Insurance]] (National Health Insurance Company - Daman). Network: Daman's own.
 
 | Type | Plans | Price AED (excl. VAT) |
 |---|---|---|

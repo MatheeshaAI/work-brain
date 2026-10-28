@@ -7,7 +7,7 @@ summary: "17 Sphera plans on the Allianz network, all Best, AED 11,271 to 27,129
 ---
 # Plans - Orient-Allianz
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Orient-Allianz]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Orient-Allianz Insurance]].
 
 ## Structure
 Product family **Sphera** at four levels: Essence, Base, Enhanced, Signature, each in General, General Plus or Comprehensive form, combined with Dental 1, 2 or 3. 16 Sphera rows plus one "Dubai Prime Silver (Comprehensive) Dental 3" row at the top, AED 27,128.76 (28,524.05 with VAT), whose co-pay differs (20 percent max AED 100 per visit).

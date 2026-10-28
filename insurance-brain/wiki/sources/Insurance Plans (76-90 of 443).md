@@ -55,7 +55,7 @@ A paginated export of 90 insurance plans from the [[IMCRM]] plan catalogue, sort
 ### RAK Insurance (4 plans)
 - RN3 ([[Nextcare]]), Workers OP (RAK NAS), FCP Silk Road ([[Mednet]]), FCP Pearl ([[Mednet]])
 
-### [[Takaful Emarat]] Insurance (25 plans — largest range)
+### [[Takaful Emarat Insurance]] Insurance (25 plans — largest range)
 - Basic: North Care, E Care Blue 1–4, Basic Plan - IP only (×3), Plan Basic (×2), Plan Basic Enhanced (×2), Plan Basic Enhanced Plus, APN (Aafiya), Silver (NAS)
 - Basic Enhanced: Silver ([[Nextcare]]), Silver ([[Mednet]]), Silver Lite ([[Mednet]]), Marjan ([[NAS]])
 - Enhanced: APN+ ([[Aafiya]]), Essential ([[Aafiya]]), Silver Pearl Lite, Silver Plus Lite, Silver Plus, Pearl (all [[Mednet]])
@@ -82,7 +82,7 @@ A paginated export of 90 insurance plans from the [[IMCRM]] plan catalogue, sort
 
 - [[Insurance Plans — By Category]] — same plans sorted by category type
 - [[Insurance plan catalogue]] — concept
-- [[Takaful Emarat]] — largest plan variety
+- [[Takaful Emarat Insurance]] — largest plan variety
 - [[Dubai Insurance]] — second largest, largest single-network provider
 - [[Mednet]] — most common enhanced-tier network
 - [[NAS]] — most common basic-tier network

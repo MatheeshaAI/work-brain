@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Orient-Takaful.md", "raw/Health-Insurance/Workflows/Filtered_Plans_4000_6000.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, orient-takaful, takaful, islamic]
 summary: "Orient Takaful: 6 Sharia-compliant plans on its proprietary network label (Plan 5 to Plan 1), AED 1,561.38 to 7,788.97 before VAT."
+aliases: ["Orient Takaful"]
 ---
-# Orient Takaful
+# Orient Takaful Insurance
 
 **Orient Takaful PJSC** is the Sharia-compliant Islamic insurance subsidiary of the Al-Futtaim Group's [[Orient Insurance]] PJSC. In health insurance, it markets a streamlined series of numbered plans on its own network designation (**orient takaful**).
 

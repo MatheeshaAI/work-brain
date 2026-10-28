@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/OrientAllianz.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, orient-allianz, allianz, sphera, international, premium]
 summary: "Orient-Allianz: 17 luxury Sphera international health plans on the Allianz network, AED 11,271.42 to 27,128.76 before VAT, all Best tier."
+aliases: ["Orient-Allianz"]
 ---
-# Orient-Allianz
+# Orient-Allianz Insurance
 
 **Orient-Allianz** is a strategic underwriting partnership combining the local corporate strength of [[Orient Insurance]] PJSC with the international medical network of **Allianz Partners**. It distributes the acclaimed **Sphera** international private medical insurance product range on the **Allianz** network.
 
@@ -58,7 +59,7 @@ All 17 plans operate on the **Allianz** international network, structured across
 ---
 
 ## 4. Market Position & Sales Notes
-- **Direct IPMI Competitor**: Competes directly with [[Cigna]], [[April Hayah]], and [[BUPA]] for multinational executives and senior management.
+- **Direct IPMI Competitor**: Competes directly with [[Cigna Insurance]], [[April Hayah Insurance]], and [[BUPA Insurance]] for multinational executives and senior management.
 - **Zero Low-End Products**: Lowest price in the catalogue is AED 11,271.42; Orient-Allianz serves clients seeking global portability and comprehensive inpatient hospital direct billing.
 
 Related: [[Plans - Orient-Allianz]], [[Orient Insurance]], [[Plan library]], [[Plan price tiers]], [[Network tiers]].

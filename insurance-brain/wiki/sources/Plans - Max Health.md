@@ -7,7 +7,7 @@ summary: "3 Best-class plans on the Maxwell network: Advanced AED 12,949, Presti
 ---
 # Plans - Max Health
 
-The smallest per-insurer file in the plan library ([[Plan library]]); entity page [[Max Health]].
+The smallest per-insurer file in the plan library ([[Plan library]]); entity page [[Max Health Insurance]].
 
 | Plan | Price AED (excl. VAT) | With VAT | Consultation co-pay |
 |---|---|---|---|

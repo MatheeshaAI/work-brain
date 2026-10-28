@@ -21,4 +21,4 @@ Pre-auth not obtained, non-network, missing docs, treatment not covered, sublimi
 ## Processes
 Planned admission (cashless): pre-auth → approval → admission → direct billing. Emergency: go to hospital/call insurer within 24-48h. Reimbursement: pay, collect docs, submit within 14-30 days.
 
-Cited: [[Health Insurance Claims — UAE Guide]], [[Insurance Sales Platform]], [[Network tiers]].
+Cited: [[Health Insurance Claims — UAE Guide]], Insurance Sales Platform, [[Network tiers]].

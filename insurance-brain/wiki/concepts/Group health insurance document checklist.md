@@ -7,7 +7,7 @@ summary: "Documents a company must supply to place a group health policy, as the
 ---
 # Group health insurance document checklist
 
-For placing group health policies (the example was clinics), from [[Henry memory 2026-03-16]]. Henry turned it into a client email with a six-item "Please arrange to send us" list.
+For placing group health policies (the example was clinics), from Henry memory 2026-03-16. Henry turned it into a client email with a six-item "Please arrange to send us" list.
 
 - **Company papers:** trade licence, establishment card, VAT certificate.
 - **Staff data:** census list in the TPA's format, salary declaration, MOL (labour ministry) list.

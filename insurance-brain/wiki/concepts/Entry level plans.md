@@ -14,12 +14,12 @@ The extraction plan of 2026-05-22 targets exactly **four plans by name**:
 
 | Provider | Plan | Network |
 |---|---|---|
-| [[Takaful Emarat]] | APN Plan | Aafiya |
-| [[Takaful Emarat]] | Silver Plan | Nextcare |
-| [[Takaful Emarat]] | Essential Plan | Aafiya |
+| [[Takaful Emarat Insurance]] | APN Plan | Aafiya |
+| [[Takaful Emarat Insurance]] | Silver Plan | Nextcare |
+| [[Takaful Emarat Insurance]] | Essential Plan | Aafiya |
 | [[Dubai Insurance]] | Remento N4 (also written RN4 / Remnto N4) | Dubai Care |
 
-Source: [[Entry level plans extraction plan]]. Three of the four are [[Takaful Emarat]] plans, which is why the network-based filter below excludes Takaful Emarat and still produces a Takaful-heavy list.
+Source: [[Entry level plans extraction plan]]. Three of the four are [[Takaful Emarat Insurance]] plans, which is why the network-based filter below excludes Takaful Emarat and still produces a Takaful-heavy list.
 
 ## Definition 2: the platform catalogue's entry-level flag
 The CRM platform catalogue carries an **entry level** marker on 15 plans, AED 930 to 1,183, spanning 8 networks and 12 insurers. That is the catalogue's own flag, on plans from many providers. See [[Insurance plan catalogue]], [[Network tiers]].
@@ -40,4 +40,4 @@ The extension's "Extract Basic Plans" button selects by **network**, not by plan
 - **The workspace has its own file for this** (`Workspace/Plans/Entry Level Plan.md`) which is not in this ingest scope and may well define the set differently.
 - The workspace's `Plans/` folder also holds a per-insurer plan file for most of the market; those are the natural place for a canonical definition.
 
-Related: [[Basic plan filter]], [[Insurance plan catalogue]], [[Takaful Emarat]], [[Dubai Insurance]], [[Plan price tiers]], [[IMCRM Data Extractor]].
+Related: [[Basic plan filter]], [[Insurance plan catalogue]], [[Takaful Emarat Insurance]], [[Dubai Insurance]], [[Plan price tiers]], [[IMCRM Data Extractor]].

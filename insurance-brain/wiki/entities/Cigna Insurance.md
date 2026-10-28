@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Cigna-Insurance.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, cigna, neuron, international, premium]
 summary: "Cigna Insurance: 40 executive IPMI plans on the Neuron network, AED 12,433.69 to 45,576.23 before VAT, structured across Regional, International, and International Plus tiers."
+aliases: ["Cigna"]
 ---
-# Cigna
+# Cigna Insurance
 
 **Cigna Healthcare Middle East** is a premier global health service company with extensive operations across the GCC. In the UAE, Cigna provides comprehensive local and expatriate medical insurance operating on the **[[Neuron]]** TPA network.
 
@@ -82,7 +83,7 @@ All 40 plans operate on the **[[Neuron]]** network and follow a modular triparti
 ---
 
 ## 4. Market Position & Sales Notes
-- **Direct Competitor to Global IPMI**: Competes head-to-head with [[BUPA]], [[April Hayah]], and [[Orient-Allianz]].
+- **Direct Competitor to Global IPMI**: Competes head-to-head with [[BUPA Insurance]], [[April Hayah Insurance]], and [[Orient-Allianz Insurance]].
 - **Corporate & Senior Expat Standard**: Widely quoted for Western expatriates, business owners, and senior managers seeking reliable international portable coverage.
 
 Related: [[Plans - Cigna Insurance]], [[Neuron]], [[Plan library]], [[Plan price tiers]], [[Network tiers]].

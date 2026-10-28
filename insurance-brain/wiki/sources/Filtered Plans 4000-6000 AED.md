@@ -10,7 +10,7 @@ summary: "A 12-row shortlist of entry-level and good plans priced AED 4,000-6,00
 The output of [[Workflow Filter Plans By Price]]: one lead's available-plans table cut to a price band of AED 4,000 to 6,000. The file names the lead (not repeated here; see the source).
 
 ## Shape of the result
-- 12 plans from 7 insurers: [[QIC|Qatar Insurance Company]] (3: BLUE01-03), [[Takaful Emarat]] (4: E Care Blue 1-3 and Silver), [[Fidelity United]] (2: Plan E, Plan F), [[Dubai Insurance]] (Dubai Care Next N5B), [[HAYAH Insurance]] (Care Protect RN3 B), [[Orient Takaful]] (Plan 5).
+- 12 plans from 7 insurers: [[Qatar Insurance Company|Qatar Insurance Company]] (3: BLUE01-03), [[Takaful Emarat Insurance]] (4: E Care Blue 1-3 and Silver), [[Fidelity United Insurance]] (2: Plan E, Plan F), [[Dubai Insurance]] (Dubai Care Next N5B), [[HAYAH Insurance]] (Care Protect RN3 B), [[Orient Takaful Insurance]] (Plan 5).
 - Plan type: 11 Entry Level, 1 Good (Orient Takaful Plan 5). See [[CRM plan type labels]].
 - Networks: QIC's own network (3), E Care Blue (3), Nextcare (4: Fidelity x2, Takaful Emarat Silver, HAYAH), Dubai Care (1), Orient Takaful (1).
 - Price range AED 4,204 to 5,223.45 before VAT; 4,491.90 to 5,562.32 with VAT (VAT is 5 percent).

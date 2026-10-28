@@ -7,7 +7,7 @@ summary: "12 plans: 7 on Mednet (Silk Road to Gold, AED 2,521-7,543) and 5 on NA
 ---
 # Plans - NLGIC Liva Insurance
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[NLGIC Liva]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[NLGIC Liva Insurance]].
 
 | Network | Entry | Good | Best |
 |---|---|---|---|

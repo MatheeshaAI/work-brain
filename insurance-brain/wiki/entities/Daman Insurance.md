@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/National-Health-insurance-Company-Daman.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, daman, government, adq, premium]
 summary: "National Health Insurance Company - Daman: 9 individual Care and Premier plans on its proprietary network, AED 10,392 to 45,506 before VAT."
+aliases: ["Daman"]
 ---
-# Daman
+# Daman Insurance
 
 **National Health Insurance Company - Daman** is the UAE's premier government-backed health insurer (majority-owned by PureHealth / ADQ). The dominant market leader in Abu Dhabi, Daman also distributes individual and corporate health insurance in Dubai and the Northern Emirates on its proprietary **Daman Insurance** network.
 

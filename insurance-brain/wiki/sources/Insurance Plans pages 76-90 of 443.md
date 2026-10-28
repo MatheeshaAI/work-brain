@@ -13,7 +13,7 @@ A slice of the full plan list that the CRM shows for a health-insurance quote re
 Every row has six columns: row number, plan name, plan type (`Entry Level` or `Good`), network provider, network, and category (`Basic Plan`, `Basic Enhance Plan` or `Enhance Plan`). The category cell is blank for a few rows (for example the plan called "Core").
 
 ## Insurers covered (13 sections)
-Abu Dhabi National Takaful, [[Adamjee]], DIC-Viventa, [[Dubai Insurance]], a separate "Dubai Insurance-Remnto" section, Fidelity United, HAYAH Insurance, NLGIC - Liva Insurance, Orient Insurance, Orient Takaful, RAK Insurance, [[Takaful Emarat]] and Watania Takaful.
+Abu Dhabi National Takaful, [[Adamjee Insurance]], DIC-Viventa, [[Dubai Insurance]], a separate "Dubai Insurance-Remnto" section, Fidelity United, HAYAH Insurance, NLGIC - Liva Insurance, Orient Insurance, Orient Takaful, RAK Insurance, [[Takaful Emarat Insurance]] and Watania Takaful.
 
 ## Patterns worth keeping
 - **The insurer does not decide the network.** One insurer sells plans on several TPA networks. Dubai Insurance alone lists plans on [[Dubai Care]] (N5, N5A, N5B, Next N5 variants, N4), [[Ecare]] (Blue 01-03, Classic Care 01-03) and [[Mednet]] (Silk Road, Pearl, Emerald with A/B variants). See [[Network tiers]].

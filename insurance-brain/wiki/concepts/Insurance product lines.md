@@ -29,6 +29,6 @@ Cross-cutting folders sit beside the three product folders: `Referral Leads/`, `
 - The root index files that carry the counts are duplicated inside the Leads area. See [[Lead folder index files]].
 
 ## The networks these lines are sold on
-The health line is quoted across the eight networks that actually sell in 2026: [[Dubai Care]], [[Ecare]], [[Aafiya]], [[Nextcare]], [[NAS]], [[Mednet]], E Care Blue and Sukoon - written by a dozen insurers including [[Takaful Emarat]] and [[Dubai Insurance]]. The network is what a customer actually chooses between, so it is a second axis alongside the product line and the price tier. See [[Network tiers]], [[Insurance plan catalogue]], [[Finding a hospital in a network]].
+The health line is quoted across the eight networks that actually sell in 2026: [[Dubai Care]], [[Ecare]], [[Aafiya]], [[Nextcare]], [[NAS]], [[Mednet]], E Care Blue and Sukoon - written by a dozen insurers including [[Takaful Emarat Insurance]] and [[Dubai Insurance]]. The network is what a customer actually chooses between, so it is a second axis alongside the product line and the price tier. See [[Network tiers]], [[Insurance plan catalogue]], [[Finding a hospital in a network]].
 
 Related: [[Individual Health Insurance leads index]], [[Motor Insurance leads index]], [[Group Health Insurance leads index]], [[Lead folder index files]], [[Lead pipeline stages]], [[Insurance plan catalogue]].

@@ -28,7 +28,7 @@ Tracked in spreadsheets/lists with: Provider, Plan Name, Plan Type/Level, Networ
 - [[Plan price tiers]]
 - [[Customer categories]]
 - [[Network tiers]]
-- [[Insurance Sales Platform]]
+- Insurance Sales Platform
 - [[TPA's and Their Networks with Structure]]
 - [[Mednet]], [[Dubai Care]], [[NAS]], [[Nextcare]]
 
@@ -53,7 +53,7 @@ The workspace plan library has **25 files** and **418 data rows** across **22 in
 | Tier mix | Best 216, Good 125, Entry Level 77 |
 | Price range | AED **1,114 - 102,498** before VAT |
 | Biggest insurer | [[Dubai Insurance]] 64 plans |
-| Smallest | [[Max Health]] 3 plans |
+| Smallest | [[Max Health Insurance]] 3 plans |
 
 `Plans.md` is the master table itself - see [[Plans Master List]] for the fixed-width Markdown copy and [[Plans Table 418 Plans]] for the sales-report export of the same 418 rows.
 

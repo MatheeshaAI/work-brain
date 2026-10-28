@@ -22,7 +22,7 @@ Sources: [[IMCRM extension memory note]], [[Plan price tiers]], [[Entry level pl
 | Network label | Insurer seen writing on it |
 |---|---|
 | Ecare | [[Dubai Insurance]] |
-| E Care Blue | [[Takaful Emarat]] |
+| E Care Blue | [[Takaful Emarat Insurance]] |
 
 Source: [[Network tiers]].
 
@@ -35,6 +35,6 @@ Source: [[Network tiers]].
 - **No Ecare plan appears in the four-plan entry-level extraction set** (Takaful APN, Takaful Silver, Takaful Essential, Dubai Insurance Remento N4). If E-care plans are meant to be entry-level, the two selection rules disagree - see [[Basic plan filter]].
 - The ingested sources give no hospital list, tier ladder or provider count for Ecare. The workspace's network folder holds provider lists for other TPAs only.
 
-Related: [[Aafiya]], [[Takaful Emarat]], [[Dubai Insurance]], [[Network tiers]], [[Basic plan filter]], [[Insurance plan catalogue]].
+Related: [[Aafiya]], [[Takaful Emarat Insurance]], [[Dubai Insurance]], [[Network tiers]], [[Basic plan filter]], [[Insurance plan catalogue]].
 
 See also (added): [[Network plan code list (NAS_CN)]] for the plan codes of this network.

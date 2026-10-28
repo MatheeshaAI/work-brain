@@ -76,47 +76,47 @@ Catalog of every page in this brain, generated 2026-10-26 from each page's front
 - [[TPAs and Networks Reference (Work OS)]] Eight TPAs and their network names, the empty TPA-network-emirate JSON template for hospital lookup, and the router-plus-four-specialists design with four query types.
 - [[UAE Health Insurance Plan Structure and Pricing]] The four-tier plan structure (Basic, Basic Enhanced, Enhanced Levels 1-6, International), the co-pay axis, a customer-to-tier guide, and three priced tables of real catalogue entries.
 
-## Entities (39)
+## Entities (41)
 
 - [[Aafiya]] A TPA network that appears in the extension's basic-plans allow-list and carries two of the four entry-level plans.
 - [[Abu Dhabi National Insurance Company]] Abu Dhabi National Insurance Company (ADNIC): 36 Shifa-branded plans on its proprietary network, AED 3,178 to 14,966 before VAT, spanning Bronze, Silver, and Gold with dental/optical riders.
-- [[Abu Dhabi National Takaful]] Abu Dhabi National Takaful: 30 plans across the NAS network, AED 2,228 to 29,273 before VAT, spanning WN, SRN, RN, GN, CN, and IPMI tiers.
-- [[Adamjee]] Adamjee Insurance: 19 plans on Mednet and NAS, AED 2,686 to 9,301; the insurer behind the stalled May 2026 policy issuance - and it has no commission history in the exports.
-- [[ADNIC]] **Stub.** Abu Dhabi National Insurance Company.
-- [[April Hayah]] International expat health insurance partnership between April International and HAYAH Insurance: 28 Best-tier modular plans on the Mednet network, AED 9,425.09 to AED 42,487.15 before VAT.
-- [[BUPA]] BUPA: 5 luxury international private medical insurance plans on Sukoon networks, AED 14,455 to 102,498 before VAT; Ultimate is the most expensive plan in the vault.
+- [[Abu Dhabi National Takaful Insurance]] Abu Dhabi National Takaful: 30 plans across the NAS network, AED 2,228 to 29,273 before VAT, spanning WN, SRN, RN, GN, CN, and IPMI tiers.
+- [[Adamjee Insurance]] Adamjee Insurance: 19 plans on Mednet and NAS, AED 2,686 to 9,301; the insurer behind the stalled May 2026 policy issuance - and it has no commission history in the exports.
+- [[April Hayah Insurance]] International expat health insurance partnership between April International and HAYAH Insurance: 28 Best-tier modular plans on the Mednet network, AED 9,425.09 to AED 42,487.15 before VAT.
+- [[BUPA Insurance]] BUPA: 5 luxury international private medical insurance plans on Sukoon networks, AED 14,455 to 102,498 before VAT; Ultimate is the most expensive plan in the vault.
 - [[Cigna Healthguard]] Cigna's Healthguard health plan family (International, Regional, International Plus) as used in the owner's sales, with figures from the 2025 documents.
-- [[Cigna]] Cigna Insurance: 40 executive IPMI plans on the Neuron network, AED 12,433.69 to 45,576.23 before VAT, structured across Regional, International, and International Plus tiers.
-- [[Daman]] National Health Insurance Company - Daman: 9 individual Care and Premier plans on its proprietary network, AED 10,392 to 45,506 before VAT.
-- [[DIC-Viventa]] DIC-Viventa: 9 Access Health BenefitsPlus plans on the Mednet network, AED 3,180.57 to 9,428.20 before VAT, spanning Silk Road, Emerald, Green, Silver, and Gold.
+- [[Cigna Insurance]] Cigna Insurance: 40 executive IPMI plans on the Neuron network, AED 12,433.69 to 45,576.23 before VAT, structured across Regional, International, and International Plus tiers.
+- [[Daman Insurance]] National Health Insurance Company - Daman: 9 individual Care and Premier plans on its proprietary network, AED 10,392 to 45,506 before VAT.
+- [[DIC-Viventa Insurance]] DIC-Viventa: 9 Access Health BenefitsPlus plans on the Mednet network, AED 3,180.57 to 9,428.20 before VAT, spanning Silk Road, Emerald, Green, Silver, and Gold.
 - [[Dubai Care]] Dubai Care TPA - Dubai-focused, 7 networks (N1 down to N5 OP/IP)
 - [[Dubai Insurance]] The insurer that writes Dubai Care and Ecare plans, including the Remento N4 entry-level plan - not to be confused with the Dubai Care TPA.
 - [[Ecare]] A TPA network on the extension's basic-plans allow-list, written by Dubai Insurance and Takaful Emarat.
-- [[Fidelity United]] Fidelity United: 7 plans on the Nextcare network (Plans G to A), AED 1,163 to 7,294 before VAT; Plan G is one of the market's lowest entry points.
+- [[Fidelity United Insurance]] Fidelity United: 7 plans on the Nextcare network (Plans G to A), AED 1,163 to 7,294 before VAT; Plan G is one of the market's lowest entry points.
 - [[HAYAH Insurance]] Insurer with two plan files: 21 Care Protect plans on Nextcare and 28 build-your-own Mednet plans; its RN3 B plan is the Basic Enhanced example.
 - [[Health insurance]] The owner's core business domain - individual and group health insurance in the UAE - and one of the six routed context domains.
 - [[HealthNet]] TPA/network used by National General Insurance plans (Classic/Prime) with dental enhanced and co-pay caps.
-- [[ISONSECURE]] ISONSECURE: 7 health plans on proprietary ISONSECURE network, AED 5,590.30 to 16,163.38 before VAT, featuring built-in dental and optical benefits.
-- [[Live Insurance]] Stub: the trading name Takaful Emarat's policies appear under on the renewals board - the same insurer, two provider labels.
-- [[Max Health]] Max Health: 3 executive-tier health plans on the Maxwell network, AED 12,949 to 16,716 before VAT, featuring zero co-pays on diagnostics and medicines.
+- [[ISONSECURE Insurance]] ISONSECURE: 7 health plans on proprietary ISONSECURE network, AED 5,590.30 to 16,163.38 before VAT, featuring built-in dental and optical benefits.
+- [[Orient Insurance Group]] Parent group for Orient Insurance, Orient Takaful Insurance and Orient-Allianz Insurance: one company with subsidiaries.
+- [[Takaful Emarat Insurance]] Stub: the trading name Takaful Emarat's policies appear under on the renewals board - the same insurer, two provider labels.
+- [[Max Health Insurance]] Max Health: 3 executive-tier health plans on the Maxwell network, AED 12,949 to 16,716 before VAT, featuring zero co-pays on diagnostics and medicines.
 - [[Mednet]] A TPA with a specialist agent in TPA Network Lookup Agents.
 - [[NAS]] A TPA with a specialist agent ('NAS Standard Specialist') in TPA Network Lookup Agents.
 - [[National General Insurance]] National General Insurance (NGI): 10 Classic and Prime plans on the HealthNet network, AED 3,392 to 11,386 before VAT, featuring enhanced dental and 0% diagnostics/pharmacy.
 - [[Neuron]] Stub: a network label that appears in the workspace only on Cigna Insurance's 40 international plans, outside the entry-level band and outside the eight networks the desk quotes.
 - [[Nextcare]] A TPA with a specialist agent in TPA Network Lookup Agents.
-- [[NLGIC Liva]] NLGIC - Liva Insurance: 12 plans across Mednet and NAS networks, AED 2,036.14 to 7,543.43 before VAT; NAS Plan 5 is the cheapest NAS plan in the library.
+- [[NLGIC Liva Insurance]] NLGIC - Liva Insurance: 12 plans across Mednet and NAS networks, AED 2,036.14 to 7,543.43 before VAT; NAS Plan 5 is the cheapest NAS plan in the library.
 - [[Oman Insurance]] Stub: the insurer behind the OI2 renewal code, one May 2026 renewal case, policy numbers in the P/01/<year>/<serial> form.
 - [[Orient Insurance]] Orient Insurance: 13 plans, 7 on Mednet and 6 on Nextcare, AED 1,559 to 8,199; 6 rows in the April commission exports - but it is NOT the OI2 in the renewal files.
-- [[Orient Takaful]] Orient Takaful: 6 Sharia-compliant plans on its proprietary network label (Plan 5 to Plan 1), AED 1,561.38 to 7,788.97 before VAT.
-- [[Orient-Allianz]] Orient-Allianz: 17 luxury Sphera international health plans on the Allianz network, AED 11,271.42 to 27,128.76 before VAT, all Best tier.
+- [[Orient Takaful Insurance]] Orient Takaful: 6 Sharia-compliant plans on its proprietary network label (Plan 5 to Plan 1), AED 1,561.38 to 7,788.97 before VAT.
+- [[Orient-Allianz Insurance]] Orient-Allianz: 17 luxury Sphera international health plans on the Allianz network, AED 11,271.42 to 27,128.76 before VAT, all Best tier.
 - [[Policy Bazaar]] Stub: quote source named as the replacement provider on a few April 2026 renewals. Not otherwise documented in the vault.
 - [[Qatar Insurance Company]] Qatar Insurance Company (QIC): 19 health insurance plans across proprietary network and QIC MEDNET, AED 1,186 to AED 7,281 before VAT, heavily weighted toward budget entry-level coverage (BLUE and CLASSIC series).
-- [[QIC]] Qatar Insurance Company: 19 plans on its own network and QIC MEDNET, AED 1,186 to 7,281, mostly entry-level; also the insurer behind the escalated revised quote of May 2026.
+- [[Qatar Insurance Company]] Qatar Insurance Company: 19 plans on its own network and QIC MEDNET, AED 1,186 to 7,281, mostly entry-level; also the insurer behind the escalated revised quote of May 2026.
 - [[RAK Insurance]] RAK Insurance: 18 plans across Mednet, Nextcare, and RAK NAS networks, AED 1,617.14 to 8,626 before VAT, featuring deductible-based co-pays.
 - [[Sukoon Insurance]] **Stub.** UAE insurer (previously Oman Insurance).
 - [[Sukoon]] Network label used by BUPA plans on Sukoon Signature + Medcare and Sukoon Premium.
-- [[Takaful Emarat]] The largest insurer in the book of business - 22 of 32 policies - and the plans it writes on the Aafiya, E Care Blue and Nextcare networks.
-- [[Watania Takaful]] Watania Takaful: 12 plans across Mednet and NAS networks, AED 2,568 to 10,747 before VAT, featuring lower diagnostic/medicine co-pays (10%) traded against higher base premiums.
+- [[Takaful Emarat Insurance]] The largest insurer in the book of business - 22 of 32 policies - and the plans it writes on the Aafiya, E Care Blue and Nextcare networks.
+- [[Watania Takaful Insurance]] Watania Takaful: 12 plans across Mednet and NAS networks, AED 2,568 to 10,747 before VAT, featuring lower diagnostic/medicine co-pays (10%) traded against higher base premiums.
 
 ## Concepts (23)
 
@@ -149,7 +149,7 @@ Catalog of every page in this brain, generated 2026-10-26 from each page's front
 - [[Multiagent System]] Intent to build a multiagent system with orchestration to query across this project.
 - [[TPA Network Lookup Agents]] **Goal.** Answer customer questions such as 'is hospital X in network Y?' and 'which plan covers hospitals A, B and C wi
 
-## Stubs (96)
+## Stubs (72)
 
 Pages that live elsewhere; each stub links to the real page.
 
@@ -160,22 +160,16 @@ Pages that live elsewhere; each stub links to the real page.
 - [[Client message style]] → sibling brain
 - [[Client privacy]] → sibling brain
 - [[Commission and premium reporting]] → sibling brain
-- [[Commission calculation]] → PKM-Work (not migrated)
-- [[Commission structure]] → PKM-Work (not migrated)
-- [[Context routing]] → PKM-Work (not migrated)
 - [[CRM hygiene]] → sibling brain
 - [[CRM plan type labels]] → sibling brain
 - [[Customer categories]] → sibling brain
 - [[Customer objections]] → sibling brain
 - [[Daily sales audit]] → sibling brain
-- [[Document attestation in the UAE]] → PKM-Work (not migrated)
 - [[Document renaming workflow]] → sibling brain
 - [[Document request handling]] → sibling brain
 - [[Dossier structure]] → sibling brain
 - [[Handling the price objection]] → sibling brain
-- [[Health insurance pillars]] → PKM-Work (not migrated)
 - [[Insurance CRM pipeline]] → sibling brain
-- [[Insurance social media strategy]] → PKM-Work (not migrated)
 - [[Lead file naming]] → sibling brain
 - [[Lead folder index files]] → sibling brain
 - [[Lead pipeline stages]] → sibling brain
@@ -183,39 +177,24 @@ Pages that live elsewhere; each stub links to the real page.
 - [[Lead reference IDs]] → sibling brain
 - [[Lead tracking in the CRM]] → sibling brain
 - [[Markdown-backed lead store]] → sibling brain
-- [[Multi-agent systems]] → PKM-Work (not migrated)
 - [[Negotiation stage stalls]] → sibling brain
-- [[Parallel agent search]] → PKM-Work (not migrated)
 - [[Pending reply drafts]] → sibling brain
 - [[Plan confirmation before payment]] → sibling brain
 - [[Plan delivery and review request]] → sibling brain
-- [[Planning document]] → PKM-Work (not migrated)
 - [[Policy booking procedure]] → sibling brain
-- [[Premium targeting]] → PKM-Work (not migrated)
-- [[Prompt library]] → PKM-Work (not migrated)
 - [[Quote request handling]] → sibling brain
 - [[Renewal pipeline]] → sibling brain
-- [[Router agent]] → PKM-Work (not migrated)
 - [[Sales operations issues]] → sibling brain
 - [[Sales reporting]] → sibling brain
-- [[Specialist agents]] → PKM-Work (not migrated)
 - [[Standard intro message]] → sibling brain
-- [[The 5 Levels of AI Agents]] → PKM-Work (not migrated)
-- [[Wikilink conventions]] → PKM-Work (not migrated)
-- [[Work OS duplication map]] → PKM-Work (not migrated)
-- [[Cigna agent]] → PKM-Work (not migrated)
 - [[IMCRM]] → sibling brain
 - [[Insurancemarket.ae]] → sibling brain
-- [[Obsidian Copilot]] → PKM-Work (not migrated)
 - [[Sales]] → sibling brain
 - [[WhatsApp Business]] → sibling brain
 - [[IMCRM Data Extractor]] → sibling brain
-- [[Insurance Sales Platform]] → PKM-Work (not migrated)
 - [[InsureCRM]] → sibling brain
-- [[My Shared Brain]] → PKM-Work (not migrated)
 - [[Call transcriptions]] → sibling brain
 - [[Client dossiers]] → sibling brain
-- [[Context Routing Index and Domain Folders]] → PKM-Work (not migrated)
 - [[Entry level plans extraction plan]] → sibling brain
 - [[Extract IMCRM Health Leads Workflow]] → sibling brain
 - [[Group Health Insurance leads index]] → sibling brain
@@ -226,9 +205,6 @@ Pages that live elsewhere; each stub links to the real page.
 - [[Health Insurance Sales Frameworks]] → sibling brain
 - [[Health Insurance subagent guide]] → sibling brain
 - [[Health renewals leads folder]] → sibling brain
-- [[Henry memory 2026-03-16]] → PKM-Work (not migrated)
-- [[Henry memory 2026-03-19]] → PKM-Work (not migrated)
-- [[Henry memory 2026-03-22 and 2026-03-23 (work log)]] → PKM-Work (not migrated)
 - [[IMCRM CRM Guide]] → sibling brain
 - [[IMCRM extension memory note]] → sibling brain
 - [[IMCRM health detail page extraction]] → sibling brain

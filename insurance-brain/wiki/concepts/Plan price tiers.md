@@ -11,9 +11,9 @@ The three tiers of health plan offered to leads, with a starting price including
 
 | Tier | Example plan | Starting price (AED, incl. VAT) |
 |---|---|---|
-| Basic | [[Takaful Emarat]] E Care Blue 1 | 1,128.75 |
+| Basic | [[Takaful Emarat Insurance]] E Care Blue 1 | 1,128.75 |
 | Basic Enhanced | HAYAH Care Protect RN3 B | 1,461.60 |
-| Enhanced | [[Takaful Emarat]] Essential | 2,417.10 |
+| Enhanced | [[Takaful Emarat Insurance]] Essential | 2,417.10 |
 
 ## Notes
 - "RN3" in the Basic Enhanced plan name matches one of the [[Nextcare]] networks listed in [[YOUR MULTI-AGENT TEAM STRUCTURE]]. That link is an inference from the name; the source does not state the TPA.
@@ -102,4 +102,4 @@ Two things this adds to the page above:
 - **A third ladder.** The work_os structure is four tiers - Basic, Basic Enhanced, **Enhanced Levels 1-6**, **International** - where the level number counts hospitals (1 entry, 2 more, 3 premium, 4 top-tier, 5-6 maximum). See [[Plan tiers and variables]]. The design's own code names only three tiers, and the expert prompt uses a fourth set (Basic, Silver, Gold, Platinum). See [[Health Insurance Expert System Prompt]].
 - **Tier labels are not stable between snapshots.** Takaful Emarat Essential appears in *both* the Basic and the Enhanced table of that same catalogue, at different prices, and the Enhanced starting point there (1,499) is well below the June 2026 figure of 2,417.10 on this page. Compare [[Insurance plan catalogue]] and [[UAE Health Insurance Plan Structure and Pricing]].
 
-The work_os tables are catalogue data, not client data. The design set that carries them never got past stubs, so treat them as a **snapshot from early 2026**, not a live price list. See [[Planning document]].
+The work_os tables are catalogue data, not client data. The design set that carries them never got past stubs, so treat them as a **snapshot from early 2026**, not a live price list. See Planning document.

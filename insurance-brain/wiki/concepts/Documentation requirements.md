@@ -48,4 +48,4 @@ Per-lead document folders (`Documents/[REF_ID]-[Name]/`) and the document checkl
 - [[Policy booking procedure]]
 - [[Plan confirmation before payment]]
 - [[Dossier structure]]
-- [[Document attestation in the UAE]]
+- Document attestation in the UAE

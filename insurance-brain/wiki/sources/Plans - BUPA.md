@@ -7,7 +7,7 @@ summary: "5 premium plans on two Sukoon networks, all Best, AED 14,455 to 102,49
 ---
 # Plans - BUPA
 
-Smallest premium file in the plan library ([[Plan library]]); entity page [[BUPA]].
+Smallest premium file in the plan library ([[Plan library]]); entity page [[BUPA Insurance]].
 
 | Network | Plan | Price AED (excl. VAT) | With VAT |
 |---|---|---|---|

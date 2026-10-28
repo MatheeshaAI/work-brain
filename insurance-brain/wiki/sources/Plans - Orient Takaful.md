@@ -7,7 +7,7 @@ summary: "6 plans on Orient Takaful's own network, Plan 5 (AED 1,561) to Plan 1 
 ---
 # Plans - Orient Takaful
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Orient Takaful]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Orient Takaful Insurance]].
 
 | Type | Plans | Price AED (excl. VAT) |
 |---|---|---|

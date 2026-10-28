@@ -39,8 +39,8 @@ UAE-accurate, realistic timelines, anonymized, clarifying not scaring, practical
 
 ## Related
 
-- [[Health insurance pillars]]
-- [[Insurance Sales Platform]]
+- Health insurance pillars
+- Insurance Sales Platform
 - [[Sales operations issues]]
 - [[Network tiers]]
 - [[Dubai Care]]

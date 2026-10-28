@@ -10,10 +10,10 @@ summary: "Original note: YOUR MULTI-AGENT TEAM STRUCTURE."
 Original note: [[raw/20_AI-and-Agents/YOUR MULTI-AGENT TEAM STRUCTURE|YOUR MULTI-AGENT TEAM STRUCTURE]]. A design for answering hospital and network questions across four insurance TPAs with a router plus specialist agents. It is the basis of [[TPA Network Lookup Agents]].
 
 ## The concept
-Specialized AI agents, each an expert in one TPA's networks and rules. The note's reasoning: every TPA has different networks, claim processes and hospital lists, so one generalist agent is "slow, confused", while four specialists give "instant, accurate answers". See [[Specialist agents]] and [[Multi-agent systems]].
+Specialized AI agents, each an expert in one TPA's networks and rules. The note's reasoning: every TPA has different networks, claim processes and hospital lists, so one generalist agent is "slow, confused", while four specialists give "instant, accurate answers". See Specialist agents and Multi-agent systems.
 
 ## Architecture
-User question -> [[Router agent]] decides which TPA agent to activate -> one of the four agents ([[Mednet]], [[Dubai Care]], [[NAS]], [[Nextcare]]) -> response to the user. For broad questions the router fans out to all four ([[Parallel agent search]]).
+User question -> Router agent decides which TPA agent to activate -> one of the four agents ([[Mednet]], [[Dubai Care]], [[NAS]], [[Nextcare]]) -> response to the user. For broad questions the router fans out to all four (Parallel agent search).
 
 ## The four agents (27 networks in total)
 - **[[Mednet]] specialist (8 networks):** Gold, Silver Premium, Silver Classic, Green, Emerald, Pearl, Silk Road OP, Silk Road IP. Specialty: premium and expat clients, wide hospital coverage.
@@ -38,7 +38,7 @@ Compared with a single agent searching all 27 networks one after another (slow, 
 - **Tier inconsistency.** Scenario 2 labels NAS Comprehensive a "budget option" while the agent list calls it the premium tier of NAS.
 - **Coverage gap (not from this note).** The vault owner's tooling also covers other TPAs such as Aafiya and Ecare, which this design does not include.
 
-Related: [[TPA Network Lookup Agents]], [[Router agent]], [[Specialist agents]], [[Parallel agent search]], [[Network tiers]], [[Multi-agent systems]].
+Related: [[TPA Network Lookup Agents]], Router agent, Specialist agents, Parallel agent search, [[Network tiers]], Multi-agent systems.
 
 ## Also stored in work_os
 Stored twice in the work_os folder: `00_ORIGINALS/YOUR MULTI-AGENT TEAM STRUCTURE.md` and, renamed, `02_SYSTEM_DESIGN/Multi_Agent_Design.md` (identical). The Master Index lists it as 'Multi-agent TPA specialist design'. A shorter companion in the same folder, `02_SYSTEM_DESIGN/TPA Multi-Agent Insurance Network System.md`, has different network counts (MEDNET 8, Dubai Care 7, NAS 6, Nextcare 6); the discrepancies are recorded in [[TPAs and Networks Reference (Work OS)]].

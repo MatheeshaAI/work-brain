@@ -26,4 +26,4 @@ TPAs operate hospital/provider networks; insurers underwrite plans. Networks and
 - Provider panels (actual hospital lists) are the authority for coverage checks.
 - TPA and insurer roles can appear together on quotes ([[Network tiers]]).
 
-Cited: [[TPA's and Their Networks with Structure]], [[Network tiers]], [[TPA and network reference]], [[Insurance Sales Platform]].
+Cited: [[TPA's and Their Networks with Structure]], [[Network tiers]], [[TPA and network reference]], Insurance Sales Platform.

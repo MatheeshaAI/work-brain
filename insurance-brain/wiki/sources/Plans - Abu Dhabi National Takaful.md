@@ -7,7 +7,7 @@ summary: "30 Takaful plans on the NAS network, last updated 2026-05-01: Care WN 
 ---
 # Plans - Abu Dhabi National Takaful
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[Abu Dhabi National Takaful]]. All plans use the [[NAS]] network.
+Per-insurer file in the plan library ([[Plan library]]); entity page [[Abu Dhabi National Takaful Insurance]]. All plans use the [[NAS]] network.
 
 ## Structure
 | Type | Plans | Price AED (excl. VAT) | Names |

@@ -18,7 +18,7 @@ Entry-level compliance plans. Providers and networks:
 | Provider | Networks Used | Notable Plans |
 |----------|--------------|---------------|
 | [[Dubai Insurance]] | [[Dubai Care]] (N5, N5A, N5B, Next variants), [[Ecare]] (Blue 01–03, Classic Care 01–03) | Dubai Care N5 series, ECARE Blue series |
-| [[Takaful Emarat]] | E Care Blue (1–4), [[Nextcare]] (Basic Plan, Plan Basic), [[NAS]] (Basic Plan, Silver, Plan Basic), [[Aafiya]] (APN) | North Care, Plan - Basic, Plan - Basic Enhanced |
+| [[Takaful Emarat Insurance]] | E Care Blue (1–4), [[Nextcare]] (Basic Plan, Plan Basic), [[NAS]] (Basic Plan, Silver, Plan Basic), [[Aafiya]] (APN) | North Care, Plan - Basic, Plan - Basic Enhanced |
 | Watania Takaful | [[NAS]] | Plan 6 |
 
 ### Basic Enhanced Plans (31 plans)
@@ -36,7 +36,7 @@ Slightly upgraded compliance-tier plans, often using Silk Road network:
 | Orient Insurance | [[Nextcare]], [[Mednet]] | RN3 Plan, Silk Road |
 | Orient Takaful | Orient Takaful | PLAN5 |
 | RAK Insurance | [[Nextcare]] (RN3), RAK NAS, [[Mednet]] | RN3, Workers OP, FCP Silk Road |
-| [[Takaful Emarat]] | [[Nextcare]], [[Mednet]], [[NAS]] | Silver, Silver Lite, Marjan |
+| [[Takaful Emarat Insurance]] | [[Nextcare]], [[Mednet]], [[NAS]] | Silver, Silver Lite, Marjan |
 | Watania Takaful | [[NAS]], [[Mednet]] | Plan 5, Silk Road |
 
 ### Enhanced Plans (26 plans)
@@ -52,13 +52,13 @@ Mid-tier "Good" category plans — Pearl and Emerald networks:
 | NLGIC - Liva Insurance | [[Mednet]] | Pearl, Emerald |
 | Orient Insurance | [[Mednet]] | Pearl |
 | RAK Insurance | [[Mednet]] | FCP Pearl |
-| [[Takaful Emarat]] | [[Aafiya]], [[Mednet]] | APN+, Essential, Silver Pearl Lite, Silver Plus, Pearl |
+| [[Takaful Emarat Insurance]] | [[Aafiya]], [[Mednet]] | APN+, Essential, Silver Pearl Lite, Silver Plus, Pearl |
 
 ## Key Observations
 
 - **[[Mednet]]** appears most frequently as the network for enhanced/mid-tier plans across all providers
 - **[[NAS]]** dominates basic and basic-enhanced plans especially for compliance-tier products
-- **[[Takaful Emarat]]** has the widest plan diversity — spans all three categories across [[Aafiya]], [[Mednet]], [[Nextcare]], [[NAS]], and E Care Blue networks
+- **[[Takaful Emarat Insurance]]** has the widest plan diversity — spans all three categories across [[Aafiya]], [[Mednet]], [[Nextcare]], [[NAS]], and E Care Blue networks
 - **Silk Road** and **Pearl** are industry-standard naming conventions for entry and mid-tier [[Mednet]] plans respectively
 - **Dubai Care Remnto** is a sub-brand of [[Dubai Insurance]] handling N4-tier plans separately
 
@@ -69,7 +69,7 @@ Mid-tier "Good" category plans — Pearl and Emerald networks:
 - [[Network tiers]] — concept page on plan tier hierarchy
 - [[TPA and network reference]] — comprehensive TPA/network reference
 - [[Plan price tiers]] — concept page on pricing structure
-- [[Takaful Emarat]] — entity with widest plan range
+- [[Takaful Emarat Insurance]] — entity with widest plan range
 - [[Dubai Care]] — primary basic-tier network
 - [[Mednet]] — primary enhanced-tier network
 - [[NAS]] — primary basic compliance-tier network

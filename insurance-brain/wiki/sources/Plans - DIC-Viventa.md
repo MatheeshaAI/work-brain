@@ -7,7 +7,7 @@ summary: "9 Access Health BenefitsPlus plans on Mednet (Silk Road to Gold) with 
 ---
 # Plans - DIC-Viventa
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[DIC-Viventa]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[DIC-Viventa Insurance]].
 
 | Type | Plans | Price AED (excl. VAT) |
 |---|---|---|

@@ -7,7 +7,7 @@ summary: "7 plans on the ISONSECURE network: Classic Bronze/Silver/Gold with den
 ---
 # Plans - ISONSECURE
 
-Per-insurer file in the plan library ([[Plan library]]); entity page [[ISONSECURE]].
+Per-insurer file in the plan library ([[Plan library]]); entity page [[ISONSECURE Insurance]].
 
 | Type | Plans | Price AED (excl. VAT) |
 |---|---|---|

@@ -18,9 +18,9 @@ The raw table behind the per-insurer plan files: columns row number, provider, p
 
 | Insurer (rows) | |
 |---|---|
-| [[Dubai Insurance]] 64, [[Cigna]] 40, [[Abu Dhabi National Insurance Company]] 36, [[Takaful Emarat]] 33, [[Abu Dhabi National Takaful]] 30, [[HAYAH Insurance]] 21 + April Hayah 28 | |
-| [[QIC]] 19, [[Adamjee]] 19, [[RAK Insurance]] 18, [[Orient-Allianz]] 17, [[Orient Insurance]] 13, [[NLGIC Liva]] 12, [[Watania Takaful]] 12, [[National General Insurance]] 10 | |
-| [[Daman]] 9, DIC-Viventa 9, [[Fidelity United]] 7, [[ISONSECURE]] 7, [[Orient Takaful]] 6, [[BUPA]] 5, [[Max Health]] 3 | |
+| [[Dubai Insurance]] 64, [[Cigna Insurance]] 40, [[Abu Dhabi National Insurance Company]] 36, [[Takaful Emarat Insurance]] 33, [[Abu Dhabi National Takaful Insurance]] 30, [[HAYAH Insurance]] 21 + April Hayah 28 | |
+| [[Qatar Insurance Company]] 19, [[Adamjee Insurance]] 19, [[RAK Insurance]] 18, [[Orient-Allianz Insurance]] 17, [[Orient Insurance]] 13, [[NLGIC Liva Insurance]] 12, [[Watania Takaful Insurance]] 12, [[National General Insurance]] 10 | |
+| [[Daman Insurance]] 9, DIC-Viventa 9, [[Fidelity United Insurance]] 7, [[ISONSECURE Insurance]] 7, [[Orient Takaful Insurance]] 6, [[BUPA Insurance]] 5, [[Max Health Insurance]] 3 | |
 
 Networks by row count: Mednet 115, NAS 52, Nextcare 46, Neuron 40, Abu Dhabi National's own 36, Dubai Care 34, Allianz 17, QIC own 12, HealthNet 10, Daman 9, ISONSECURE 7, QIC Mednet 7, ECARE 6, Orient Takaful 6, RAK NAS 5, E Care Blue 4, Maxwell 3, Sukoon Premium 3, Aafiya 3, Sukoon Signature plus Medcare 2, Dubai Care (Remnto) 1. See [[Plan library by network]].
 

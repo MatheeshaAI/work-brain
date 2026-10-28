@@ -7,4 +7,4 @@ summary: "Network label used by BUPA plans on Sukoon Signature + Medcare and Suk
 ---
 # Sukoon
 
-Network label used by [[BUPA]] plans. Appears as [[Sukoon]] Signature + Medcare and [[Sukoon]] Premium in [[Plans - BUPA]] with 5 plans (Select Regional/Worldwide, Premier, Elite, Ultimate). See [[Plan library]].
+Network label used by [[BUPA Insurance]] plans. Appears as [[Sukoon]] Signature + Medcare and [[Sukoon]] Premium in [[Plans - BUPA]] with 5 plans (Select Regional/Worldwide, Premier, Elite, Ultimate). See [[Plan library]].

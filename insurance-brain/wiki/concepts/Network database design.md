@@ -23,7 +23,7 @@ Dubaicare has detailed network lists (see [[Dubaicare Network Comparison (N4-N1)
 
 ## Related
 
-- [[Insurance Sales Platform]]
+- Insurance Sales Platform
 - [[Insurance Sales Operations - Master Workspace]]
 
 ## Also stored in work_os

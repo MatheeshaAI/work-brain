@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/April-Hayah.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, international, expat, mednet, premium]
 summary: "International expat health insurance partnership between April International and HAYAH Insurance: 28 Best-tier modular plans on the Mednet network, AED 9,425.09 to AED 42,487.15 before VAT."
+aliases: ["April Hayah"]
 ---
-# April Hayah
+# April Hayah Insurance
 
 **April Hayah** is a specialized international health insurance partnership between global IPMI specialist **April International** and UAE local carrier [[HAYAH Insurance]]. Operating on the [[Mednet]] TPA network, April Hayah focuses exclusively on premium expatriate individuals, families, and executives requiring cross-border inpatient and outpatient coverage.
 
@@ -75,7 +76,7 @@ Plans combine three distinct building blocks:
 ---
 
 ## 4. Market Position & Sales Observations
-- **Top-Tier IPMI**: Competing directly against [[BUPA]], [[Cigna]], and [[Orient-Allianz]] for senior corporate executives and high-net-worth expat residents.
+- **Top-Tier IPMI**: Competing directly against [[BUPA Insurance]], [[Cigna Insurance]], and [[Orient-Allianz Insurance]] for senior corporate executives and high-net-worth expat residents.
 - **Zero Low-End Products**: April Hayah provides no entry-level or budget plans; its lowest priced option (Core Inpatient) is AED 9,425.09.
 - **Relation to Local Carrier**: Operates distinct from HAYAH's domestic Nextcare products ([[HAYAH Insurance]]), leveraging April International's underwriting algorithms and Mednet's medical billing rails.
 

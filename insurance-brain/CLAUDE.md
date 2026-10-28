@@ -47,6 +47,12 @@ Short summary first. Claims cite their source as a link. Link related pages with
 ```
 Names: plain English titles, one concept per page. Prefer updating a page over creating a near-duplicate.
 
+### Entity naming (set 2026-10-28)
+- **Insurers** end in "Insurance" in the page title, e.g. `Takaful Emarat Insurance`, `Orient Takaful Insurance`. Trading names and short forms (`TE`, `Live Insurance`, `ADNIC`) go in `aliases:` frontmatter, not separate pages.
+- **Insurer groups** get one parent page, `<Group> Insurance Group`, linking each company, e.g. `Orient Insurance Group`.
+- **TPAs and networks** are named after the administrator or network (`Dubai Care`, `NAS`, `Mednet`). A network label on a plan (`Dubai Care N4`) names a network run by that TPA; link it to the TPA page.
+- Tie-breakers: a trading name is never a separate page; two entries for one legal company are merged.
+
 ## Sibling brain rule
 Desk operations (leads, pipeline, IMCRM, renewals, WhatsApp follow-ups, client messaging, sales method, policy booking, commissions) belong in **crm-brain**, not here. If an insurance note touches a CRM topic, link a stub instead of copying content. Stubs look like:
 ```

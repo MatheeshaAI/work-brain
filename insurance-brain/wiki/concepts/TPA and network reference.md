@@ -24,7 +24,7 @@ Eight TPAs - **NAS, MEDNET, NEXTCARE, DUBAICARE, ADNIC, SUKOON, ECARE, AAFIYA** 
 
 The same file carries the JSON template for a network database - provider records with coverage flags per network - which is the design behind [[Network database design]] and [[Finding a hospital in a network]].
 
-A shorter, stripped copy of the same lists (67 lines, no table, no template) sits in `00_ORIGINALS` as "TPA's & Networks". The two are **not** byte-identical, unlike most of the work_os folder - see [[Work OS duplication map]].
+A shorter, stripped copy of the same lists (67 lines, no table, no template) sits in `00_ORIGINALS` as "TPA's & Networks". The two are **not** byte-identical, unlike most of the work_os folder - see Work OS duplication map.
 
 ## List 5: the provider panels are the authority for facilities
 This is where the actual hospitals live, one file per network, read by the facility-search tooling:
@@ -59,4 +59,4 @@ The design files were written by an AI in January-February 2026 from general kno
 ## One more distinction to keep straight
 A **TPA operates the network**; an **insurer underwrites the plan**. The two roles sit on the same line of a quotation sheet, which is why "Dubai Care N4" and "Dubai Insurance - Remnto N4" can be the same product seen from two sides. See [[Dubai Insurance]], [[Dubai Care]] and [[Network tiers]].
 
-Related: [[Network tiers]], [[Network lookups]], [[Finding a hospital in a network]], [[Network database design]], [[MEDNET provider list schema]], [[TPA Network Lookup Agents]], [[Insurance plan catalogue]], [[Work OS duplication map]].
+Related: [[Network tiers]], [[Network lookups]], [[Finding a hospital in a network]], [[Network database design]], [[MEDNET provider list schema]], [[TPA Network Lookup Agents]], [[Insurance plan catalogue]], Work OS duplication map.

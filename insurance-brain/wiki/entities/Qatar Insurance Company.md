@@ -6,13 +6,14 @@ sources: [
   "raw/Insurance Workspace/Daily_Audit_2026-05-29.md",
   "raw/Health-Insurance/Workspace/Sales Reports/Matheesha Sarathchandra_06-Apr-2026 14_45_43.csv"
 ]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, qic, entry-level, mednet, qatar]
 summary: "Qatar Insurance Company (QIC): 19 health insurance plans across proprietary network and QIC MEDNET, AED 1,186 to AED 7,281 before VAT, heavily weighted toward budget entry-level coverage (BLUE and CLASSIC series)."
+aliases: ["QIC"]
 ---
 # Qatar Insurance Company
 
-**Qatar Insurance Company (QIC)** is a prominent regional insurer in the GCC with significant UAE health insurance operations. In the workspace, QIC is known primarily as a high-volume writer of entry-level individual health insurance and is also documented under its short entity acronym [[QIC]].
+**Qatar Insurance Company (QIC)** is a prominent regional insurer in the GCC with significant UAE health insurance operations. In the workspace, QIC is known primarily as a high-volume writer of entry-level individual health insurance and is also documented under its short entity acronym Qatar Insurance Company.
 
 In the workspace plan catalogue ([[Plans - Qatar Insurance Company]]), QIC lists **19 plans**, with 13 in Entry Level, 4 in Good, and 2 in Best.
 
@@ -69,7 +70,10 @@ QIC distributes plans across two distinct network designations:
 ---
 
 ## 4. Sales Positioning & Market Share
-- **Budget Pricing Competitor**: At AED 1,186 base (`BLUE01`), QIC offers the second-cheapest plan in the entire 418-plan library, undercut only by [[Takaful Emarat]]'s APN (AED 1,114) and competing directly with [[Fidelity United]]'s Plan G (AED 1,163).
+- **Budget Pricing Competitor**: At AED 1,186 base (`BLUE01`), QIC offers the second-cheapest plan in the entire 418-plan library, undercut only by [[Takaful Emarat Insurance]]'s APN (AED 1,114) and competing directly with [[Fidelity United Insurance]]'s Plan G (AED 1,163).
 - **Thin Commission Book**: Despite carrying 19 plans in the library, QIC represents only 3 out of 84 recorded commission lines in the desk's commission exports ([[Sales commission export]]), showing that brokers quote QIC primarily for extreme price-sensitive shoppers or visa compliance.
 
-Related: [[QIC]], [[Plans - Qatar Insurance Company]], [[Mednet]], [[Plan price tiers]], [[Network tiers]], [[Entry Level Plan guide]].
+Related: Qatar Insurance Company, [[Plans - Qatar Insurance Company]], [[Mednet]], [[Plan price tiers]], [[Network tiers]], [[Entry Level Plan guide]].
+
+## Sales audit, May 2026
+A revised quote from this insurer appears in the [[Daily sales audit]] window. The insurer issued a revision on 27 May after a medical review; it was still unreviewed and unshared on 28 and 29 May, and the audit said to call before sending anything by email. It was quoted against an incumbent in the same escalated case. Sources: `raw/Insurance Workspace/Daily_Audit_2026-05-28.md`, `raw/Insurance Workspace/Daily_Audit_2026-05-29.md`.

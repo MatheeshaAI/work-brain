@@ -7,7 +7,7 @@ summary: "33 plans on five networks, including the cheapest plan in the library 
 ---
 # Plans - Takaful Emarat Insurance
 
-The per-insurer file for the book's largest insurer ([[Takaful Emarat]]); part of the plan library ([[Plan library]]).
+The per-insurer file for the book's largest insurer ([[Takaful Emarat Insurance]]); part of the plan library ([[Plan library]]).
 
 | Network | Plans (price AED excl. VAT) |
 |---|---|

@@ -1,11 +1,12 @@
 ---
 type: entity
 sources: ["raw/Health-Insurance/Workspace/Plans/Fidelity-United.md"]
-updated: 2026-10-22
+updated: 2026-10-28
 tags: [insurer, fidelity-united, nextcare, entry-level, budget]
 summary: "Fidelity United: 7 plans on the Nextcare network (Plans G to A), AED 1,163 to 7,294 before VAT; Plan G is one of the market's lowest entry points."
+aliases: ["Fidelity United"]
 ---
-# Fidelity United
+# Fidelity United Insurance
 
 **United Fidelity Insurance Company (Fidelity United)** is a prominent UAE national insurer. In the workspace, Fidelity United is recognized as a major writer of entry-level individual health insurance on the **[[Nextcare]]** TPA network.
 
@@ -53,7 +54,7 @@ All 7 plans operate exclusively on the **[[Nextcare]]** network, graded across t
 ---
 
 ## 4. Market Position & Sales Notes
-- **Extremely Competitive Entry Floor**: At AED 1,163.00 (AED 1,260.00 with VAT), `Plan G` is the third-cheapest plan in the entire 418-plan library, competing directly with [[Takaful Emarat]] APN (AED 1,114) and [[Qatar Insurance Company]] BLUE01 (AED 1,186).
+- **Extremely Competitive Entry Floor**: At AED 1,163.00 (AED 1,260.00 with VAT), `Plan G` is the third-cheapest plan in the entire 418-plan library, competing directly with [[Takaful Emarat Insurance]] APN (AED 1,114) and [[Qatar Insurance Company]] BLUE01 (AED 1,186).
 - **Filter Inconsistency**: Fidelity United is sometimes omitted by automated basic plan scraping tools due to strict network filtering, despite being featured prominently in the workspace's [[Entry Level Plan guide]].
 
 Related: [[Plans - Fidelity United]], [[Nextcare]], [[Plan library]], [[Plan price tiers]], [[Entry level plans]].
